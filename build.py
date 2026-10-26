@@ -97,7 +97,7 @@ def collect(eds):
 
 
 # ---------------------------------------------------------------- chrome
-def page(title, body, rel, active="", desc="", latest=None, canonical=""):
+def page(title, body, rel, active="", desc="", latest=None, canonical="", image=None):
     full_title = f"{title} | {SITE}" if title != SITE else f"{SITE} — {TAGLINE}"
     desc = desc or "NationPulse Today: India, duniya, business, tech, sports aur entertainment ki taaza khabrein aur bebaak editorials — Hinglish mein."
     nav_items = [("index.html", "Home", "home")] + [
@@ -114,6 +114,7 @@ def page(title, body, rel, active="", desc="", latest=None, canonical=""):
     if latest and latest.get("ticker"):
         items = "".join(f"<span>{e(t)}</span>" for t in latest["ticker"])
         ticker = f'<div class="ticker"><div class="wrap"><span class="lbl">TAAZA</span><div class="track"><div class="move">{items}</div></div></div></div>'
+    og_img = f'<meta property="og:image" content="{e(image["url"])}">\n<meta name="twitter:image" content="{e(image["url"])}">\n<meta name="twitter:image:alt" content="{e(image.get("alt", title))}">\n' if image else ""
     canon = f'<link rel="canonical" href="https://{DOMAIN}/{canonical}">' if canonical is not None else ""
     return f"""<!doctype html>
 <html lang="hi-Latn">
@@ -125,9 +126,10 @@ def page(title, body, rel, active="", desc="", latest=None, canonical=""):
 <meta property="og:site_name" content="{SITE}">
 <meta property="og:title" content="{e(title)}">
 <meta property="og:description" content="{e(desc)}">
-<meta property="og:type" content="website">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@nationpulsetoday">
+<meta property="og:type" content="{"article" if image else "website"}">
+<meta property="og:url" content="https://{DOMAIN}/{canonical or ""}">
+{og_img}<meta name="twitter:card" content="{"summary_large_image" if image else "summary"}">
+<meta name="twitter:site" content="@NationPulse2day">
 {canon}
 <link rel="icon" href="data:image/svg+xml,{LOGO.replace('"', "'").replace('#', '%23')}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -149,7 +151,7 @@ def page(title, body, rel, active="", desc="", latest=None, canonical=""):
   <div class="cols">
     <div><div class="fname">NationPulse <span>Today</span></div><p>India aur duniya ki khabrein, saaf bhasha mein. Har khabar ke saath original source ka link — taaki aap khud jaanch sakein.</p></div>
     <div><h5>Sections</h5><ul>{"".join(f'<li><a href="{rel}section/{sid}.html">{e(n)}</a></li>' for sid, n in SECTIONS)}</ul></div>
-    <div><h5>NationPulse</h5><ul><li><a href="{rel}about.html">About Us</a></li><li><a href="{rel}editorial-policy.html">Editorial Policy</a></li><li><a href="{rel}archive.html">Archive</a></li><li><a href="https://x.com/nationpulsetoday" rel="noopener" target="_blank">X / Twitter</a></li></ul></div>
+    <div><h5>NationPulse</h5><ul><li><a href="{rel}about.html">About Us</a></li><li><a href="{rel}editorial-policy.html">Editorial Policy</a></li><li><a href="{rel}archive.html">Archive</a></li><li><a href="https://x.com/NationPulse2day" rel="noopener" target="_blank">X / Twitter</a></li></ul></div>
   </div>
   <div class="legal">© {datetime.now().year} NationPulse Today. Khabrein publicly available reports par aadharit hain aur har article mein source link diya gaya hai. "Hamari Raay" columns opinion hain. Yeh site investment, legal ya medical salaah nahi deti.</div>
 </div></footer>
@@ -170,7 +172,9 @@ def src_line(sources):
 
 
 def card(st, rel, wide=False):
-    return f"""<article class="card{' wide' if wide else ''}"><span class="kicker">{e(SEC_SHORT[st['sec']])}</span>
+    im = st.get("image")
+    pic = f'<img class="card-img" src="{e(im["url"])}" alt="{e(im.get("alt", st["title"]))}" loading="lazy">' if im else ""
+    return f"""<article class="card{' wide' if wide else ''}">{pic}<span class="kicker">{e(SEC_SHORT[st['sec']])}</span>
 <h3><a href="{rel}{st['url']}">{e(st['title'])}</a></h3><p>{e(st['summary'])}</p>{src_line(st.get('sources'))}</article>"""
 
 
@@ -191,12 +195,14 @@ def build_home(latest, stories, editorials):
     heads = "".join(
         f'<li><a href="{s["url"]}">{e(s["title"])}<small>{e(SEC_SHORT[s["sec"]])}</small></a></li>' for s in cur[1:7]
     )
+    ti = top.get("image")
+    top_visual = (f'<img class="card-img" style="height:260px" src="{e(ti["url"])}" alt="{e(ti.get("alt", top["title"]))}">') if ti else band(top['sec'], 'Top Story')
     lead_html = ""
     if le:
         lead_html = f"""<div class="lead-ed"><span class="kicker">{e(le.get('kicker','Hamari Raay'))}</span>
 <h2><a href="{le['url']}">{e(le['title'])}</a></h2><p>{e(le['summary'])}</p><a class="more" href="{le['url']}">Lead editorial padhein →</a></div>"""
     body = f"""<section class="hero">
-  <div class="top-story">{band(top['sec'], 'Top Story')}<span class="kicker">{e(SEC_SHORT[top['sec']])}</span>
+  <div class="top-story">{top_visual}<span class="kicker">{e(SEC_SHORT[top['sec']])}</span>
     <h1><a href="{top['url']}">{e(top['title'])}</a></h1><p class="dek">{e(top['summary'])}</p>{src_line(top.get('sources'))}</div>
   {lead_html}
   <div class="headlines"><h3>Aaj ki Badi Khabrein</h3><ol>{heads}</ol></div>
@@ -249,11 +255,16 @@ def article_html(item, rel, latest, others, is_ed):
             f'<li><a href="{rel}{o["url"]}">{e(o["title"])}</a></li>' for o in others[:5]
         ) + "</ul></div>"
     kicker = "Hamari Raay · Editorial" if is_ed else sec_lbl
+    img = item.get("image")
+    fig = ""
+    if img:
+        fig = (f'<figure class="lead-img"><img src="{e(img["url"])}" alt="{e(img.get("alt", item["title"]))}" loading="eager">'
+               f'<figcaption>Photo: {e(img.get("credit", ""))} · <a href="{e(img.get("source", ""))}" target="_blank" rel="noopener">{e(img.get("license", ""))}</a>, Wikimedia Commons</figcaption></figure>')
     body = f"""<article class="article"><div class="crumbs">{crumbs}</div><span class="kicker">{e(kicker)}</span>
 <h1>{e(item['title'])}</h1>{f'<p class="dek">{e(dek)}</p>' if dek else ''}
 <div class="byline"><span><b>NationPulse Today Desk</b></span><span>{e(fmt_dt(item['dt']))}</span></div>
-{note}<div class="body">{paras}</div>{src_html}{rel_html}</article>"""
-    return page(item["title"], body, rel, "editorials" if is_ed else (item["sec"] or ""), desc=dek or (item.get("body") or [""])[0][:155], latest=latest, canonical=item["url"])
+{note}{fig}<div class="body">{paras}</div>{src_html}{rel_html}</article>"""
+    return page(item["title"], body, rel, "editorials" if is_ed else (item["sec"] or ""), desc=dek or (item.get("body") or [""])[0][:155], latest=latest, canonical=item["url"], image=item.get("image"))
 
 
 def build_editorials(latest, editorials):
@@ -287,14 +298,14 @@ def build_static(latest):
 <p>NationPulse Today ek independent digital news platform hai jo India aur duniya ki badi khabrein seedhi, saaf Hinglish mein pesh karta hai.</p>
 <p>Hum din mein do baar — subah aur shaam — naya edition publish karte hain: India & Politics, World & Geopolitics, Business & Economy, aur Tech, Sports & Entertainment.</p>
 <p>Har khabar ke neeche original reporting ka link hota hai. Har section ke saath ek <b>"Hamari Raay"</b> editorial hota hai, jo saaf taur par opinion ke roop mein label kiya jaata hai.</p>
-<p>Follow karein: <a href="https://x.com/nationpulsetoday" style="color:var(--accent)">@nationpulsetoday</a></p></div>"""
+<p>Follow karein: <a href="https://x.com/NationPulse2day" style="color:var(--accent)">@NationPulse2day</a></p></div>"""
     policy = """<div class="prose"><h1 class="page-title">Editorial Policy</h1>
 <ul>
 <li><b>Source-first:</b> Har news story publicly available, vishwasniya reports par aadharit hoti hai, aur un sources ke link article mein diye jaate hain.</li>
 <li><b>News aur opinion alag:</b> "Hamari Raay" editorials opinion hain aur hamesha alag label ke saath chhapte hain.</li>
 <li><b>AI-assisted production:</b> Content research aur drafting mein AI tools ka istemaal hota hai. Publication ki zimmedari NationPulse Today ki hai.</li>
 <li><b>Aarop aur faisle:</b> Kisi par lage aaropon ko hum aarop hi likhte hain, saabit tathya nahi.</li>
-<li><b>Corrections:</b> Galti dikhe to X par @nationpulsetoday ko batayein; sahi ki gayi jaankari article mein update ki jaayegi.</li>
+<li><b>Corrections:</b> Galti dikhe to X par @NationPulse2day ko batayein; sahi ki gayi jaankari article mein update ki jaayegi.</li>
 <li><b>No financial advice:</b> Business coverage jaankari ke liye hai, nivesh salaah nahi.</li>
 </ul></div>"""
     return (
