@@ -1,0 +1,231 @@
+{
+  "edition": "Launch Edition",
+  "updated": "2026-10-26T13:45:00+05:30",
+  "ticker": [
+    "Cyclone Arnab: 28 Oct ko Bapatla–Visakhapatnam ke beech landfall ki sambhavna, 4 rajyon mein red alert",
+    "Brent crude $114 ke paar, Sensex-Nifty dabaav mein shuru",
+    "India Women ne Zimbabwe ko 121 runs se haraya, series 2-0 se apne naam",
+    "Asian Para Games: India ka record 114 medals",
+    "France mein mehngai ke khilaaf andolan, lagbhag 1,000 giraftaar"
+  ],
+  "lead_editorial": {
+    "slug": "tel-ka-ubaal-aur-aam-aadmi",
+    "title": "Tel ka ubaal: $114 ka crude aur aam aadmi ki jeb",
+    "kicker": "Hamari Raay",
+    "summary": "Paris ki sadkon se Dalal Street tak, ek hi cheez sabko hila rahi hai — mehnga tel. India ke liye sabak saaf hai: energy suraksha ab sirf economy ka nahi, social stability ka sawaal hai.",
+    "body": [
+      "Aaj subah Brent crude $114 prati barrel ke upar trade ho raha tha — paanch mahine ka sabse uncha level. Analysts iski wajah Middle East mein supply bigadne ke darr ko bata rahe hain. Asar turant dikha: Sensex aur Nifty laal nishaan mein khule, aur IT shares sabse zyada pite.",
+      "Lekin tel ki keemat sirf ek market number nahi hai. France mein pichhle do hafte se mehngai ke khilaaf andolan chal raha hai — AFP ke mutabik Shanivaar ko lagbhag 1,000 log hirasat mein liye gaye aur desh bhar mein 70,000 security personnel tainaat the. Wahan ki report bata rahi hai ki February mein Middle East war shuru hone ke baad se fuel ki mehngai badhi hai. Jab petrol-diesel ka bill badhta hai, to gussa sadak par aata hai — chahe Paris ho ya Patna.",
+      "India apni zaroorat ka bada hissa import karta hai. Iska matlab hai ki har $10 ka uchhaal seedha current account, rupaye aur aakhir mein ghar ke budget par padta hai. Sarkar ke paas teen raaste hain: tax mein raahat dekar keemat sambhaalna, strategic reserves ka samajhdaari se istemaal, aur lambi daud mein renewable aur domestic energy par tezi se kaam.",
+      "Hamari raay saaf hai — short-term raahat zaroori hai, lekin asli jawab energy diversification hai. Jo desh tel ke jhatke ko jhel sakta hai, wahi apne logon ko sadak par utarne se rok sakta hai. France ki tasveeren ek chetavani hain, aur samajhdaar sarkaar chetavani ko waqt rehte padh leti hai."
+    ],
+    "sources": [
+      {"name": "Free Press Journal — market open, 26 Oct", "url": "https://www.freepressjournal.in/business/sensex-falls-134-points-and-nifty-slips-below-22600-as-rising-crude-oil-prices-and-west-asia-tensions-weigh-on-investors"},
+      {"name": "Goodreturns — crude above $114", "url": "https://www.goodreturns.in/news/stock-market-outlook-today-october-26-sensex-nifty-likely-to-remain-under-pressure-as-crude-oil-t-1543349.html"},
+      {"name": "Malay Mail / AFP — France protests", "url": "https://www.malaymail.com/news/world/2026/10/25/france-arrests-nearly-1000-as-cost-of-living-protests-turn-violent-across-country/240492"}
+    ]
+  },
+  "sections": [
+    {
+      "id": "india",
+      "name": "India & Politics",
+      "stories": [
+        {
+          "slug": "cyclone-arnab-andhra-landfall",
+          "title": "Cyclone Arnab: 28 Oct ko Andhra coast par landfall ki sambhavna, 4 rajyon mein red alert",
+          "summary": "Severe cyclonic storm Arnab ke Bapatla aur Visakhapatnam ke beech 28 October ki dopahar se pehle coast cross karne ki ummeed hai. IMD ne Andhra Pradesh, Tamil Nadu, Kerala aur Odisha ke liye red alert jaari kiya hai.",
+          "body": [
+            "Bay of Bengal mein bana cyclone Arnab ab severe cyclonic storm ban chuka hai. Deccan Herald ki report ke mutabik iske 28 October ki forenoon mein Andhra Pradesh aur Yanam ke coast ko Bapatla aur Visakhapatnam ke beech cross karne ki sambhavna hai.",
+            "India Meteorological Department (IMD) ne Andhra Pradesh, Tamil Nadu, Kerala aur Odisha ke liye red alert jaari kiya hai, jahan bhaari baarish ki chetavani hai. Tamil Nadu aur Puducherry ke nau bandargahon par warning signal number 2 lagaya gaya hai.",
+            "Chennai mein lagataar baarish se jal-star badh raha hai. Machhuaron ko samundar mein na jaane ki salaah di gayi hai. Logon se apil hai ki sirf IMD aur rajya aapda prabandhan vibhaag ki official updates par bharosa karein."
+          ],
+          "sources": [
+            {"name": "Deccan Herald", "url": "https://www.deccanherald.com/india/cyclone-arnab-to-make-landfall-on-andhra-pradesh-check-which-other-states-to-get-affected-4194585"},
+            {"name": "The Hans India", "url": "https://www.thehansindia.com/tamilnadu/cyclone-arnab-warning-signal-no-2-at-nine-ports-in-tamil-nadu-puducherry-1135945"}
+          ]
+        },
+        {
+          "slug": "opposition-mock-parliament-sir",
+          "title": "SIR ke khilaaf Opposition ki 'mock Parliament' 30 Oct ko, 1 Nov ko Ramlila Maidan rally",
+          "summary": "INDIA bloc electoral roll revision (SIR) ke virodh mein Delhi mein mock Parliament karega, jismein Chief Election Commissioner Gyanesh Kumar ka 'mock impeachment' bhi shaamil hoga.",
+          "body": [
+            "Opposition dalon ka kehna hai ki electoral roll ka Special Intensive Revision (SIR) yogya voters ko list se bahar kar sakta hai. Isi ke virodh mein INDIA bloc 30 October ko rajdhani mein ek 'mock Parliament' session karega.",
+            "The Hans India ki report ke mutabik is session mein Chief Election Commissioner Gyanesh Kumar ke istife ya mahabhiyog par charcha aur ek 'mock impeachment' hoga. Iske baad 1 November ko Ramlila Maidan mein sanyukt anti-SIR rally ki yojana hai.",
+            "October ki shuruaat mein Opposition Election Commission, Rashtrapati Bhavan aur Supreme Court tak march kar chuka hai. Election Commission ka paksh hai ki revision ka maqsad voter list ko saaf aur sahi banana hai."
+          ],
+          "sources": [
+            {"name": "The Hans India", "url": "https://www.thehansindia.com/news/cities/new-delhi/opposition-mock-parliament-to-step-up-fight-against-sir-1135418"}
+          ]
+        }
+      ],
+      "editorial": {
+        "slug": "cyclone-taiyari-hi-asli-suraksha",
+        "title": "Cyclone ke saamne taiyari hi asli suraksha hai",
+        "body": [
+          "Odisha aur Andhra ne pichhle do dashak mein dikhaya hai ki samay par evacuation aur saaf communication se jaan-maal ka nuksaan kaafi kam kiya ja sakta hai. Arnab us model ki ek aur pariksha hai.",
+          "Hamari raay: alert sirf jaari karna kaafi nahi — gaon tak, machhuaron tak aur buzurgon tak local bhasha mein pahunchna zaroori hai. Aur cyclone ke baad bijli, paani aur sadak ki bahaali utni hi tezi se honi chahiye jitni tezi se evacuation hota hai.",
+          "Social media par afwahon se bachein. Sirf IMD aur rajya sarkaar ke official channels ko follow karein."
+        ]
+      }
+    },
+    {
+      "id": "world",
+      "name": "World & Geopolitics",
+      "stories": [
+        {
+          "slug": "france-cost-of-living-protests",
+          "title": "France mein mehngai ke khilaaf andolan bhadka, lagbhag 1,000 log hirasat mein",
+          "summary": "Shanivaar ko France ke kai shehron mein police ne tear gas chalaayi. Interior Minister Laurent Nunez ke mutabik lagbhag 1,000 log hirasat mein liye gaye; 70,000 security personnel tainaat the.",
+          "body": [
+            "AFP ki report ke mutabik Paris, Marseille, Lyon, Bordeaux, Lille, Toulouse, Montpellier aur Nantes mein police ko tear gas ka istemaal karna pada. Andolan mein shaamil logon ki sankhya authorities ke hisaab se 410,000 aur CGT union ke hisaab se lagbhag 800,000 rahi.",
+            "Interior Minister Laurent Nunez ne 'ultra-left' extremists par 'bahut zyada hinsa' ka aarop lagaya. Pichhle hafte ke danga-fasaad mein 2,700 log giraftaar hue the aur saikdon dukaanein loot li gayi thi.",
+            "Andolan school ki halat ko lekar shuru hua tha, lekin ab yeh rehne ke kharche, fuel ki keemat aur pension jaise muddon tak phail gaya hai. Italy, Spain, Portugal aur Albania mein bhi hazaaron log sadak par utre. France mein raashtrapati chunav lagbhag chhe mahine door hain."
+          ],
+          "sources": [
+            {"name": "Malay Mail / AFP", "url": "https://www.malaymail.com/news/world/2026/10/25/france-arrests-nearly-1000-as-cost-of-living-protests-turn-violent-across-country/240492"},
+            {"name": "France 24", "url": "https://www.france24.com/en/france/20261024-the-marches-went-well-%E2%80%93-french-government-on-demonstrations-a-week-after-looting-and-violence"},
+            {"name": "WORLD — Monday morning news", "url": "https://wng.org/podcasts/monday-morning-news-october-26-2026-1792945583"}
+          ]
+        },
+        {
+          "slug": "venezuela-machado-returns",
+          "title": "Venezuela: Maria Corina Machado exile se lauti, naye presidential chunav ki maang",
+          "summary": "Opposition neta Machado mahino baad desh lautin aur jald chunav ki maang ki. US officials ka kehna hai ki chunav se pehle bharosemand election officials aur courts zaroori hain.",
+          "body": [
+            "Venezuela ki opposition neta Maria Corina Machado kai mahino ke exile ke baad desh laut aayi hain. Barquisimeto ke ek church mein supporters ne taaliyon se unka swagat kiya.",
+            "Report ke mutabik January mein US forces ne Nicolás Maduro ko pakda tha, aur unki purv vice-president Delcy Rodríguez US ke samarthan se desh chala rahi hain. Bahut se Venezuelans agle saal chunav chahte hain.",
+            "US officials ka kehna hai ki chunav se pehle bharosemand election officials, courts aur opposition dalon ko sangathit hone ka samay chahiye."
+          ],
+          "sources": [
+            {"name": "WORLD — Monday morning news", "url": "https://wng.org/podcasts/monday-morning-news-october-26-2026-1792945583"}
+          ]
+        },
+        {
+          "slug": "kenya-bus-crash",
+          "title": "Kenya mein bus-truck takkar, kam se kam 22 logon ki maut",
+          "summary": "Nairobi se Mombasa ja rahi bus, jismein ek pastor ke antim sanskaar se laut rahe log the, Ravivaar ko ek truck se takra gayi.",
+          "body": [
+            "Kenya mein Ravivaar ko hue sadak haadse mein kam se kam 22 log maare gaye. Bus Nairobi se coastal shehar Mombasa ki taraf ja rahi thi.",
+            "Isi highway par teen hafte pehle ek aur haadse mein 17 log maare gaye the. Jaanch ab haadse ki wajah dhoondh rahi hai."
+          ],
+          "sources": [
+            {"name": "WORLD — Monday morning news", "url": "https://wng.org/podcasts/monday-morning-news-october-26-2026-1792945583"}
+          ]
+        }
+      ],
+      "editorial": {
+        "slug": "europe-ka-gussa-india-ke-liye-sabak",
+        "title": "Europe ka gussa, India ke liye sabak",
+        "body": [
+          "France, Italy, Spain — jab rehne ka kharcha aamdani se tez badhta hai, to loktantra mein gussa sadak par dikhta hai. Yeh sirf Europe ki kahani nahi.",
+          "Hamari raay: kisi bhi sarkaar ke liye mehngai sabse bada political risk hai. Hinsa aur loot ka koi samarthan nahi ho sakta, lekin naagrikon ki asli pareshaani ko 'law and order' ka mudda bata kar taalna bhi galti hai. Samvaad, raahat aur paardarshita — yahi teen cheezein sadak ka gussa kam karti hain."
+        ]
+      }
+    },
+    {
+      "id": "business",
+      "name": "Business & Economy",
+      "stories": [
+        {
+          "slug": "sensex-nifty-crude-114",
+          "title": "Crude $114 ke paar, Sensex-Nifty girawat ke saath khule; IT shares sabse zyada pite",
+          "summary": "Sensex 133.79 points girkar 72,990.04 par aur Nifty 75.60 points girkar 22,524.40 par khula. Nifty IT index 2.39% neeche raha.",
+          "body": [
+            "Somvaar subah share bazaar dabaav mein khula. Free Press Journal ke mutabik Sensex 133.79 points (0.18%) girkar 72,990.04 par aur Nifty 50 75.60 points (0.33%) girkar 22,524.40 par khula.",
+            "Brent crude lagbhag $114.19 prati barrel par tha — Goodreturns ke anusaar paanch mahine ka sabse uncha level. Analysts ne iski wajah Middle East mein supply bigadne ke darr aur Saudi oil facilities ki chinta ko bataya.",
+            "Nifty IT 2.39% aur Nifty Realty 0.92% neeche rahe. Shuruaati gainers mein Kotak Mahindra Bank, Dr Reddy's, Max Healthcare, Sun Pharma aur Axis Bank the, jabki Shriram Finance, Infosys, HCL Technologies, Tech Mahindra, Bajaj Finance aur NTPC sabse zyada gire."
+          ],
+          "sources": [
+            {"name": "Free Press Journal", "url": "https://www.freepressjournal.in/business/sensex-falls-134-points-and-nifty-slips-below-22600-as-rising-crude-oil-prices-and-west-asia-tensions-weigh-on-investors"},
+            {"name": "Goodreturns", "url": "https://www.goodreturns.in/news/stock-market-outlook-today-october-26-sensex-nifty-likely-to-remain-under-pressure-as-crude-oil-t-1543349.html"},
+            {"name": "India TV News", "url": "https://www.indiatvnews.com/business/markets/26-october-2026-stock-market-updates-sensex-sheds-133-points-nifty-near-22-500-amid-elevated-brent-crude-price-it-stocks-falls-infosys-hcl-tech-2026-10-26-1057916"}
+          ]
+        },
+        {
+          "slug": "spacex-40-billion-gpu-financing",
+          "title": "SpaceX ne Nvidia GPUs ke liye lagbhag $40 billion ka debt financing juta, deliveries 2027 mein",
+          "summary": "AI Weekly ki report ke mutabik Elon Musk ne kaha ki chhote 'neocloud' providers mein se kai band honge ya merge honge.",
+          "body": [
+            "AI Weekly ke mutabik Elon Musk ne bataya ki SpaceX ne Nvidia GPUs kharidne ke liye lagbhag $40 billion ka debt financing close kiya hai, jinki delivery 2027 mein hogi.",
+            "Musk ne yeh bhi kaha ki AI compute bechne wale kai chhote 'neocloud' providers ya to fail honge ya bade players mein mil jaayenge. AI infrastructure par kharch ki yeh daud global capital markets ka rukh tay kar rahi hai."
+          ],
+          "sources": [
+            {"name": "AI Weekly — AI News Today, Oct 26", "url": "https://aiweekly.co/ai-news-today"}
+          ]
+        }
+      ],
+      "editorial": {
+        "slug": "it-sector-ki-chinta",
+        "title": "IT shares ki girawat: ek din ki khabar ya lambi chinta?",
+        "body": [
+          "Aaj Nifty IT ka 2.39% girna sirf tel ki wajah se nahi hai. Global AI kharch ki daud mein bade cloud aur chip players paisa kheench rahe hain, aur paramparik IT services companies par sawaal uth rahe hain ki unka business model kaise badlega.",
+          "Hamari raay: chhote niveshkon ko ek din ki girawat par ghabrana nahi chahiye, lekin sector ki disha par nazar rakhni chahiye. Yeh financial salaah nahi hai — koi bhi nivesh faisla apne advisor se baat karke hi lein."
+        ]
+      }
+    },
+    {
+      "id": "tse",
+      "name": "Tech, Sports & Entertainment",
+      "stories": [
+        {
+          "slug": "india-women-beat-zimbabwe-2nd-odi",
+          "title": "Harmanpreet aur Deepti ki centuries, India Women ne Zimbabwe ko 121 runs se haraya",
+          "summary": "Vadodara mein 328/6 ke jawab mein Zimbabwe 207 par simat gaya. India ne teen match ki series 2-0 se jeet li.",
+          "body": [
+            "Vadodara ke BCA Stadium (Kotambi) mein 25 October ko India Women ne pehle ballebaazi karte hue 328/6 banaye. Harmanpreet Kaur ne 121 gendon par 126 aur Deepti Sharma ne 86 gendon par naabaad 106 run banaye. Pratika Rawal ne 61 run jode.",
+            "Harmanpreet aur Deepti ki 153 run ki paanchve wicket ki saajhedaari ODI mein India Women ke liye is wicket ki sabse badi partnership hai.",
+            "Jawab mein Zimbabwe 207 par all out ho gaya. Vaishnavi Sharma ne career-best 4 wicket liye aur Deepti ne 3 wicket bhi chatkaaye. India series mein 2-0 ki ajey badhat le chuka hai."
+          ],
+          "sources": [
+            {"name": "Outlook India", "url": "https://www.outlookindia.com/sports/cricket/india-women-vs-zimbabwe-women-2nd-odi-live-score-ind-w-vs-zim-w-latest-match-updates"}
+          ]
+        },
+        {
+          "slug": "asian-para-games-record-114-medals",
+          "title": "Asian Para Games: Swati Chaudhary ka aitihaasik silver, India ka record 114 medals",
+          "summary": "Para-archery W1 category mein India ka yeh pehla medal hai. Kul 114 medals ke saath India ne Hangzhou 2022 ka 108 ka record toda.",
+          "body": [
+            "Japan ke Aichi-Nagoya mein ho rahe Asian Para Games mein Swati Chaudhary ne women's W1 individual para-archery mein silver medal jeeta. Final mein woh China ki Mengkan Cen se 4-6 se haari.",
+            "Yeh is category mein Asian Para Games mein India ka pehla medal hai. Swati ne kaha, 'It's very emotional, a huge moment.'",
+            "India ke para-archers ne kul chhe medal (teen gold, teen silver) jeete, aur desh ka kul 114 medals ka aankda Hangzhou 2022 ke 108 ke pichhle best se aage nikal gaya."
+          ],
+          "sources": [
+            {"name": "ANI", "url": "https://www.aninews.in/news/sports/others/its-very-emotional-a-huge-moment-swati-chaudhary-after-historic-asian-para-games-silver20261025223222/"}
+          ]
+        },
+        {
+          "slug": "texas-sues-openai",
+          "title": "Texas Attorney General ne OpenAI aur Sam Altman par kiya mukadma",
+          "summary": "AI Weekly ke mutabik Ken Paxton ne aarop lagaya ki ChatGPT ne nabaalig users ko nuksaan pahunchaya aur safety ko lekar consumers ko gumraah kiya.",
+          "body": [
+            "AI Weekly ki report ke mutabik Texas ke Attorney General Ken Paxton ne OpenAI aur CEO Sam Altman ke khilaaf mukadma daayar kiya hai. Aarop hai ki ChatGPT ne nabaaligon ko nuksaan pahunchaya aur safety ke baare mein consumers ko gumraah kiya.",
+            "Mukadme mein injunction aur naye model release se pehle court ki manzoori ki maang ki gayi hai. Yeh aarop hain; court mein abhi inka faisla hona baaki hai."
+          ],
+          "sources": [
+            {"name": "AI Weekly — AI News Today, Oct 26", "url": "https://aiweekly.co/ai-news-today"}
+          ]
+        },
+        {
+          "slug": "uniyal-apologises-daler-mehndi",
+          "title": "Uttarakhand ke mantri Subodh Uniyal ne Daler Mehndi se maafi maangi",
+          "summary": "Concert ke dauraan stage par jaakar performance rokne ke vivaad ke kuch din baad mantri ne maafi maangi. Udhar Virat-Anushka Mumbai mein Krishna Das ke kirtan mein dikhe.",
+          "body": [
+            "Filmibeat ke mutabik Uttarakhand ke mantri Subodh Uniyal ne singer Daler Mehndi se maafi maangi hai. Kuch din pehle ek concert mein Uniyal stage par chale gaye the aur performance rok di thi, jis par vivaad hua tha.",
+            "Ek aur khabar mein Virat Kohli aur Anushka Sharma Ravivaar ko Mumbai mein Krishna Das ke live kirtan event mein ek 'rare public appearance' mein nazar aaye."
+          ],
+          "sources": [
+            {"name": "Filmibeat", "url": "https://www.filmibeat.com/bollywood/news/2026/entertainment-lives-news-oct-26-subodh-uniyal-apologizes-to-daler-mehndi-virat-anushka-kirtan-535895.html"}
+          ]
+        }
+      ],
+      "editorial": {
+        "slug": "women-cricket-ab-side-show-nahi",
+        "title": "Women's cricket ab side-show nahi, main event hai",
+        "body": [
+          "Do centuries, record partnership, aur ek yuva spinner ka career-best — Vadodara ka match dikhata hai ki India Women ki bench strength kitni gehri ho chuki hai.",
+          "Hamari raay: broadcasters, sponsors aur state associations ko ab women's cricket ko 'bonus content' nahi, prime-time product ki tarah treat karna chahiye. Aur Asian Para Games ka record 114 medals yaad dilata hai ki sports funding ka fayda tab dikhta hai jab woh har khiladi tak pahunchti hai."
+        ]
+      }
+    }
+  ]
+}
