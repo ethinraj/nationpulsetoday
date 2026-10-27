@@ -1,0 +1,354 @@
+{
+ "edition": "Subah Edition",
+ "updated": "2026-10-27T07:15:00+05:30",
+ "ticker": [
+  "Cyclone Arnab ab 'very severe' storm, Budhvaar subah Yanam ke paas landfall ka anuman",
+  "DAC ne ₹2.12 lakh crore ke raksha khareed prastaavon ko di manzoori",
+  "2018 manhani case mein Rahul Gandhi Sultanpur court se bari",
+  "Houthi hamlon ke beech Brent crude $117 ke paas, six-month high par",
+  "Wellington mein aaj teesra T20I: India 2-0 se aage, series jeetne ka mauka"
+ ],
+ "lead_editorial": {
+  "slug": "crude-117-dollar-aur-e100-ka-raasta",
+  "title": "Crude $117 ke paas, E100 ka raasta sahi — par gaadiyan aur pump kab aayenge?",
+  "kicker": "Hamari Raay",
+  "summary": "Khaadi mein jang se tel mehnga hai aur India apni zaroorat ka bada hissa import karta hai. E100 ko kanooni manzoori sahi kadam hai, lekin asli farq tab padega jab flex-fuel gaadiyan aur E100 pump aam aadmi ki pahunch mein honge.",
+  "body": [
+   "Reuters ki report ke mutabik Somvaar ko Brent crude lagbhag $117 prati barrel par tha — six-month high ke kareeb. Yemen ke Houthis ne Saudi Arabia ki East-West pipeline ke pumping stations aur Riyadh airport par hamlon ka daava kiya hai, aur October ko Strait of Hormuz ke aas-paas commercial shipping par hamlon ke lihaaz se record par sabse bura mahina bataya gaya hai. India jaise bade importer ke liye har dollar ki badhat ka matlab hai mehnga import bill aur mehngaai ka dabav.",
+   "Pichhle hafte jaari notification ke zariye Centre ne Central Motor Vehicles Rules mein sanshodhan karke E100, yaani 100% ethanol, ko flex-fuel gaadiyon ke liye manzoori de di. Business Today ki report ke mutabik desh ki urja zaroorat ka lagbhag 88% hissa crude import se poora hota hai, aur India E20 blending ka lakshya pehle hi haasil kar chuka hai. Is lihaaz se E100 ka framework bilkul sahi samay par aaya hai.",
+   "Lekin niyam banana pehla kadam bhar hai. E100 sirf unhi gaadiyon mein chal sakta hai jinhe company ne flex-fuel ke roop mein design aur certify kiya ho — aam petrol ya E20 gaadiyon mein nahi. Abhi aisi gaadiyan bazaar mein gini-chuni hain, aur E100 bechne wale pump ka network bhi taiyar nahi. Saath hi ethanol ke liye ganna aur anaaj ka istemaal paani aur khaadya suraksha par sawaal uthata hai, jinpar imaandaar bahas zaroori hai.",
+   "Hamari raay hai ki sarkar ko ab teen cheezon par saaf roadmap dena chahiye: flex-fuel gaadiyon par tax rahat, E100 pump ka samaybaddh vistaar, aur ethanol ke liye second-generation (krishi kachre se bane) source ko badhava. Tel ke jhatke baar-baar aayenge; unse bachne ka tikaau raasta gharelu indhan hi hai — bas yeh kaagaz se sadak tak pahunchna chahiye."
+  ],
+  "sources": [
+   {
+    "name": "The Korea Times (Reuters) — Oil six-month high ke paas",
+    "url": "https://www.koreatimes.co.kr/world/20261027/oil-inches-higher-stays-near-six-month-highs-on-saudi-attacks"
+   },
+   {
+    "name": "The Express Tribune (Reuters) — Houthis ka Saudi pumping stations par hamle ka daava",
+    "url": "https://tribune.com.pk/story/2636974/houthis-say-they-attacked-east-west-oil-pumping-stations-no-saudi-confirmation"
+   },
+   {
+    "name": "Business Today — Sarkar ne E100 fuel ko notify kiya",
+    "url": "https://www.businesstoday.in/india/story/govt-officially-notifies-e100-fuel-for-flex-fuel-vehicles-to-curb-crude-imports-and-emissions-563650-2026-10-26"
+   },
+   {
+    "name": "ANI — 100% ethanol fuel ko flex-fuel gaadiyon mein manzoori",
+    "url": "https://aninews.in/news/business/govt-allows-use-of-100-pc-ethanol-fuel-in-flex-fuel-vehicles-amends-emission-norms20261026171709/"
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "india",
+   "name": "India & Politics",
+   "stories": [
+    {
+     "slug": "cyclone-arnab-very-severe-storm-landfall-budhvaar",
+     "title": "Cyclone Arnab ab 'very severe' toofan, Budhvaar subah Yanam ke paas landfall; Andhra mein 53 trains radd, ₹27 crore jaari",
+     "summary": "IMD ke mutabik toofan Visakhapatnam se lagbhag 350 km door; 115–125 km/h ki hawa aur 140 km/h tak jhonkon ka anuman. Andhra aur Odisha mein school band, machhli pakadne par rok.",
+     "body": [
+      "Bay of Bengal mein Cyclone Arnab ab 'very severe cyclonic storm' ban gaya hai. ANI ke hawaale se Asianet Newsable ki report ke mutabik Somvaar raat 11:30 baje toofan Visakhapatnam se lagbhag 350 km dakshin-poorv, Kakinada se 420 km aur Odisha ke Gopalpur se 400 km door tha, aur pashchim-uttar-pashchim disha mein badh raha tha. IMD ka anuman hai ki yeh 28 October ki forenoon tak Bapatla aur Visakhapatnam ke beech, Yanam ke paas Andhra coast paar karega. Landfall par hawa 115–125 km/h aur jhonke 140 km/h tak ho sakte hain.",
+      "Andhra Pradesh sarkar ne 20 zilon mein rescue aur relief ke liye ₹27 crore jaari kiye hain — Kakinada, Konaseema, East Godavari samet saat zilon ko ₹2-2 crore. South Coast Railway ne ehtiyaatan 53 trains radd ki hain. PTI ke mutabik rajya mein 15 NDRF teams tainaat hain, lagbhag 4,711 garbhvati mahilaon ko health facilities mein shift kiya ja raha hai, aur samundar mein gaye sabhi machhuaare surakshit laut aaye hain. Beaches band hain aur Mangalvaar dopahar se coastal road par aawajahi rokne ki taiyari hai.",
+      "Odisha ne Ganjam, Gajapati, Rayagada, Malkangiri, Koraput aur Nabarangpur mein 28-29 October ko school-college aur Anganwadi band rakhne ka faisla kiya hai aur samundar mein machhli pakadne par rok lagayi hai. Rajya sarkar ne media se kaha hai ki sirf IMD aur sarkaari sources par bharosa karein, social media ke anumaanon par nahi. Centre ne Telangana, Chhattisgarh, Puducherry, poorvi UP aur Bihar ko bhi bhaari baarish ke liye alert rehne ko kaha hai."
+     ],
+     "sources": [
+      {
+       "name": "Asianet Newsable (ANI) — Arnab ab very severe cyclonic storm",
+       "url": "https://newsable.asianetnews.com/india/cyclone-arnab-intensifies-into-very-severe-storm-near-andhra-coast-articleshow-fcyunyg"
+      },
+      {
+       "name": "Vartha Bharati (PTI) — Odisha, Andhra mein school band, fishing par rok",
+       "url": "https://english.varthabharati.in/india/odisha-andhra-shut-schools-ban-fishing-as-cyclone-arnab-nears-centre-stresses-zero-casualty-2285793"
+      },
+      {
+       "name": "Telugu360 — 53 trains radd, ₹27 crore relief ke liye",
+       "url": "https://www.telugu360.com/cyclone-arnab-53-trains-cancelled-schools-shut-in-ap-%E2%82%B927-crore-sanctioned-for-relief/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tropical_Cyclone_Fani_Churns_Through_the_Bay_of_Bengal_%28NESDIS_2019-04-30%29.jpg/1280px-Tropical_Cyclone_Fani_Churns_Through_the_Bay_of_Bengal_%28NESDIS_2019-04-30%29.jpg",
+      "credit": "NOAA",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Tropical_Cyclone_Fani_Churns_Through_the_Bay_of_Bengal_(NESDIS_2019-04-30).jpg",
+      "alt": "File photo: 2019 mein Bay of Bengal mein Cyclone Fani ki satellite tasveer (Arnab nahi)"
+     }
+    },
+    {
+     "slug": "dac-212-lakh-crore-raksha-khareed-manzoori",
+     "title": "DAC ne ₹2.12 lakh crore ke raksha khareed prastaavon ko di shuruaati manzoori, 82% saamaan desi industry se",
+     "summary": "Rajnath Singh ki adhyakshata mein baithak; Army ke liye kamikaze drone aur air defence, Navy ke liye decoy system aur IAF ke liye helicopters shaamil.",
+     "body": [
+      "Raksha Mantri Rajnath Singh ki adhyakshata wali Defence Acquisition Council (DAC) ne Somvaar ko lagbhag ₹2,12,000 crore ke capital acquisition prastaavon ko Acceptance of Necessity (AoN) di. AoN ek tarah ki siddhantik manzoori hai, jiske baad khareed ki aage ki prakriya shuru hoti hai. Raksha mantralay ke mutabik in khareedon ka lagbhag 82% hissa Bharatiya industry se aayega.",
+      "Army ke liye list mein high mobility vehicles, self-propelled tracked gun system, light multi-role helicopters, VSHORADS air defence, counter-drone system, surveillance UAV aur long range kamikaze drone system shaamil hain. Navy ke liye Active Offboard Decoy System (AODS) ko manzoori mili hai, jo mantralay ke mutabik dushman ki anti-ship missiles ke khilaaf suraksha badhayega. Air Force ke liye helicopters, air defence systems, hathiyaar aur mobile X-band Doppler weather radar ko hari jhandi mili hai."
+     ],
+     "sources": [
+      {
+       "name": "Asianet Newsable — DAC ne ₹2.12 lakh crore ke proposals ko manzoori di",
+       "url": "https://newsable.asianetnews.com/india/dac-clears-acquisition-proposals-worth-rs-2-12-lakh-crore-for-forces-articleshow-8rim30r"
+      },
+      {
+       "name": "NewsBytes — DAC clears ₹2.12L cr procurement",
+       "url": "https://www.newsbytesapp.com/news/india/defence-acquisition-council-approves-major-funding/story"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/The_official_portrait_of_Shri_Rajnath_Singh_%282023%29.jpg",
+      "credit": "Ministry of Defence",
+      "license": "GODL-India",
+      "source": "https://commons.wikimedia.org/wiki/File:The_official_portrait_of_Shri_Rajnath_Singh_(2023).jpg",
+      "alt": "Raksha Mantri Rajnath Singh ka official portrait"
+     }
+    },
+    {
+     "slug": "rahul-gandhi-sultanpur-manhani-case-bari",
+     "title": "Amit Shah par 2018 ki tippani wale manhani case mein Rahul Gandhi Sultanpur court se bari",
+     "summary": "Special MP-MLA court ne kaha, aaropon ko saabit karne ke liye saboot naakaafi; BJP neta Vijay Mishra ne August 2018 mein shikayat darj karayi thi.",
+     "body": [
+      "Uttar Pradesh ke Sultanpur ki special MP-MLA court ne Somvaar ko Congress neta Rahul Gandhi ko 2018 ke ek manhani (defamation) case mein bari kar diya. Free Press Journal ki report ke mutabik Special Magistrate Shubham Verma ne paaya ki aaropon ko saabit karne ke liye saboot kaafi nahi the. Yeh case 2018 ke Karnataka chunav prachaar ke dauran Home Minister Amit Shah par ki gayi tippani se juda tha.",
+      "Shikayat BJP neta Vijay Mishra ne August 2018 mein darj karayi thi. Rahul Gandhi ke vakeel ne daleel di ki tippani 'good faith' mein ki gayi thi aur use sandarbh se hatkar pesh kiya gaya, jabki shikayatkarta paksh ne unhe doshi thehraane ki maang ki thi. Faisle ke baad Congress samarthakon ne ise badi raahat bataya."
+     ],
+     "sources": [
+      {
+       "name": "Free Press Journal — Sultanpur court ne Rahul Gandhi ko bari kiya",
+       "url": "https://www.freepressjournal.in/uttar-pradesh/congress-leader-rahul-gandhi-acquitted-by-sultanpur-court-in-defamation-case-linked-to-remarks-against-union-hm-amit-shah"
+      },
+      {
+       "name": "The News Mill — Rahul Gandhi acquitted in defamation case",
+       "url": "https://thenewsmill.com/2026/10/rahul-gandhi-acquitted-in-defamation-case-by-sultanpur-court/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Rahul_Gandhi_in_Shillong_%28cropped%29.jpg/1280px-Rahul_Gandhi_in_Shillong_%28cropped%29.jpg",
+      "credit": "Sidheeq",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi_in_Shillong_(cropped).jpg",
+      "alt": "Rahul Gandhi ki file photo"
+     }
+    },
+    {
+     "slug": "eci-supreme-court-sir-faisle-sarvsammat",
+     "title": "Election Commission ne Supreme Court se kaha: SIR ke sabhi faisle sarvsammat, Form 6 mein koi badlaav nahi",
+     "summary": "Lagbhag 250 panne ke halafnaame mein ECI ne CEC Gyanesh Kumar ke akele faisle lene ke aarop khaarij kiye.",
+     "body": [
+      "Election Commission of India (ECI) ne Somvaar der raat Supreme Court mein lagbhag 250 panne ka counter-affidavit daakhil kiya. Time News ki report ke mutabik aayog ne kaha ki electoral rolls ke Special Intensive Revision (SIR) se jude sabhi faisle 'unanimous' the, aur un aaropon ko khaarij kiya ki Chief Election Commissioner Gyanesh Kumar ne akele faisle liye ya statutory Form 6 ko gair-kanooni tareeke se badla gaya.",
+      "Aayog ne daleel di ki mukhya yachika ek akhbaar report par tiki hai, jismein daava tha ki do Election Commissioners ki aapatti ke bawajood 14 faisle liye gaye. ECI ke mutabik statutory forms sirf Kendra sarkar badal sakti hai, aur atirikt declaration form ek alag dastavez hai jo sirf revision ke dauran istemaal hota hai. LiveLaw ke mutabik aayog ne West Bengal SIR mein 16.10 lakh appeals daakhil karne ko bhi Supreme Court ke aadeshon ke tahat sahi thehraya."
+     ],
+     "sources": [
+      {
+       "name": "Time News — ECI ne SC se kaha, SIR ke sabhi faisle sarvsammat",
+       "url": "https://time.news/election-commission-tells-supreme-court-all-sir-decisions-were-unanimous/"
+      },
+      {
+       "name": "LiveLaw — Supreme Court Daily Round-Up, 26 October 2026",
+       "url": "https://www.livelaw.in/supreme-court/supreme-court-daily-round-up-october-26-2026-556053"
+      }
+     ]
+    }
+   ],
+   "editorial": {
+    "slug": "aon-se-delivery-tak-ka-faasla",
+    "title": "₹2.12 lakh crore ki manzoori achhi khabar, asli kasauti samay par delivery",
+    "body": [
+     "DAC ki taaza manzooriyon mein drone, counter-drone aur air defence par zor dikhata hai ki sena haal ke yuddhon se sabak le rahi hai — aaj ki ladaai sasti drones aur missile suraksha se tay ho rahi hai. 82% saamaan desi industry se lene ka lakshya Aatmanirbhar Bharat ke liye bhi sakaaraatmak sanket hai.",
+     "Lekin AoN sirf pehli seedhi hai. India mein raksha khareed ka itihaas dikhata hai ki manzoori se contract aur contract se delivery tak saalon lag jaate hain, aur kai prastaav beech mein hi atak jaate hain. Hamari raay mein sarkar ko har bade prastaav ke liye saaf timeline sarvajanik karni chahiye, taaki Sansad aur janta dekh sake ki ghoshnayein kab zameen par utarti hain."
+    ]
+   }
+  },
+  {
+   "id": "world",
+   "name": "World & Geopolitics",
+   "stories": [
+    {
+     "slug": "houthi-saudi-pipeline-riyadh-airport-hamle-ka-daava",
+     "title": "Houthis ka daava: Saudi ki East-West pipeline ke pumping stations aur Riyadh airport par hamla; Saudi ne pushti nahi ki",
+     "summary": "Saudi-led coalition ne Sanaa mein do ballistic missile launcher nasht karne ki baat kahi; 2022 se chal rahi UN truce toot chuki hai.",
+     "body": [
+      "Yemen ke Houthi vidrohiyon ne Somvaar ko daava kiya ki unhone Saudi Arabia ki East-West crude oil pipeline ke pumping stations aur Riyadh airport par hamla kiya. Reuters ke hawaale se Express Tribune ki report ke mutabik Saudi Arabia ne turant iski pushti nahi ki. Saudi-led coalition ne kaha ki usne Sanaa mein do ballistic missile launchers nasht kiye, jinmein se ek se Riyadh ki taraf missile daagi gayi thi jise beech mein rok liya gaya.",
+      "Coalition ke mutabik Ravivaar ko dakshini Saudi Arabia ki taraf daagi gayi 10 ballistic missiles, do drones aur ek cruise missile rok li gayi; giraye gaye malbe se do log ghayal hue. Riyadh ka King Khalid International Airport 10 October ke ek hamle ke baad band tha, jismein 13 logon ki maut hui thi, aur Ravivaar ko aanshik roop se khula. Report ke mutabik is ladaai ne 2022 se kaayam UN truce ko tod diya hai aur yeh Iran ke khilaaf US-Israel abhiyaan ke bade sangharsh ka hissa banti ja rahi hai.",
+      "Isi beech Just Security ke daily round-up ke mutabik US intelligence ki reports mein kaha gaya hai ki Iran Americi nagrikon par hamlon ki yojana mein kaafi aage hai, jiske baad America ne Middle East mein apne staff ko alert par rakha hai aur kuch embassies mein karmchaari ghataye hain."
+     ],
+     "sources": [
+      {
+       "name": "The Express Tribune (Reuters) — Houthis ka Saudi pumping stations par hamle ka daava",
+       "url": "https://tribune.com.pk/story/2636974/houthis-say-they-attacked-east-west-oil-pumping-stations-no-saudi-confirmation"
+      },
+      {
+       "name": "Just Security — Early Edition, 26 October 2026",
+       "url": "https://www.justsecurity.org/162014/early-edition-october-26-2026/"
+      },
+      {
+       "name": "The Korea Times (Reuters) — Oil six-month high ke paas",
+       "url": "https://www.koreatimes.co.kr/world/20261027/oil-inches-higher-stays-near-six-month-highs-on-saudi-attacks"
+      }
+     ]
+    },
+    {
+     "slug": "maria-corina-machado-venezuela-wapsi",
+     "title": "10 mahine se zyada ke exile ke baad María Corina Machado Venezuela laut aayin, Caracas mein samarthakon ki bheed",
+     "summary": "Opposition neta ne X par likha 'main yahan hoon'; July 2027 tak chunav ki maang, chunav ki taareekh abhi tay nahi.",
+     "body": [
+      "Venezuela ki opposition neta María Corina Machado Ravivaar ko desh laut aayin. TIME ki report ke mutabik unhone X par wapsi ka elaan kiya, aur unki party Vente Venezuela ne Caracas mein unke swagat mein jutee bheed ki tasveerein saajha kin. New York Times ne do sarkaari adhikariyon ke hawaale se bataya ki woh Colombia ke raaste aayin. Woh 10 mahine se zyada samay se desh se baahar thin aur December 2025 mein Norway mein saamne aayi thin.",
+      "Venezuela mein abhi Delcy Rodríguez ki interim sarkar hai, jo US military operation mein Nicolás Maduro ke pakde jaane ke baad bani thi. Rodríguez aur US President Trump dono chunav karaane ki baat kehte hain, lekin koi taareekh tay nahi hui hai. Machado July 2027 tak chunav chahti hain aur president pad ke liye ladne ka elaan kar chuki hain. Trump ne kaha ki unhe wapsi ki jaankaari nahi thi aur unhone Machado ki suraksha ki ummeed jatayi; Secretary of State Marco Rubio ne reconciliation talks ko is wapsi ka shrey diya."
+     ],
+     "sources": [
+      {
+       "name": "TIME — Machado ki Venezuela wapsi",
+       "url": "https://time.com/article/2026/10/26/venezuela-maria-corina-machado-return-opposition-election-democracy/"
+      },
+      {
+       "name": "CNN — Machado returns from exile to cheering crowds",
+       "url": "https://www.cnn.com/2026/10/25/americas/machado-returns-venezuela-latam-intl"
+      },
+      {
+       "name": "Just Security — Early Edition, 26 October 2026",
+       "url": "https://www.justsecurity.org/162014/early-edition-october-26-2026/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Mar%C3%ADa_Corina_Machado_2023.jpg",
+      "credit": "SantanaZ",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mar%C3%ADa_Corina_Machado_2023.jpg",
+      "alt": "María Corina Machado ki 2023 ki file photo"
+     }
+    }
+   ],
+   "editorial": {
+    "slug": "venezuela-wapsi-ke-baad-chunav-ki-taareekh-zaroori",
+    "title": "Machado laut aayin, ab Venezuela ko chunav ki pakki taareekh chahiye",
+    "body": [
+     "Machado ki wapsi Venezuela ke loktantrik aandolan ke liye bada pal hai, lekin yeh akeli kaafi nahi. Interim sarkar ka kaarykaal April mein khatm ho chuka hai aur abhi tak chunav ki koi taareekh tay nahi — yahi sabse badi kami hai.",
+     "Hamari raay mein Washington aur Caracas dono ki vishwasniyata is baat se tay hogi ki woh kitni jaldi ek nishpaksh, antarrashtriya nigrani wale chunav ka calendar ghoshit karte hain. Tel saudon aur rajnaitik suvidha ko Venezuelan janta ki pasand se upar rakhna ek aur sankat ko nyota dega."
+    ]
+   }
+  },
+  {
+   "id": "business",
+   "name": "Business & Economy",
+   "stories": [
+    {
+     "slug": "crude-six-month-high-fed-hafta-bazaar",
+     "title": "Brent crude $117 ke paas six-month high par; Fed, ECB aur BoJ ke faislon wale hafte mein Indian bazaar mein utaar-chadhaav ke asaar",
+     "summary": "Somvaar ko Sensex 73,606 aur Nifty 22,753 par band hua tha; Wall Street par tech sheyaron ki badhat se Nasdaq 0.8% chadha.",
+     "body": [
+      "Reuters ke mutabik Somvaar ko Brent crude lagbhag $117.21 prati barrel aur WTI lagbhag $102.92 par tha — dono six-month high ke kareeb. Houthi hamlon aur Saudi interceptions ne nivesakon ko satark rakha, haalanki Qatar, Saudi, Turkey, Pakistan aur Iran se judi diplomatic koshishon ki khabar se din mein daam kuch der ke liye gire bhi. US Strategic Petroleum Reserve ka stock 1982 ke baad sabse nichle star par bataya gaya hai.",
+      "Goodreturns ke mutabik Somvaar ko Sensex 482.92 ank chadhkar 73,606.75 aur Nifty 153.20 ank badhkar 22,753.20 par band hua tha. Analysts ke mutabik is hafte bazaar global sanketon par nazar rakhega: US Fed ka faisla 28 October, ECB ka 29 October aur Bank of Japan ka 30 October ko aana hai, aur monthly expiry bhi saamne hai.",
+      "Wall Street par Somvaar ko Nasdaq 0.82% chadhkar 26,169 par, S&P 500 0.70% badhkar 7,676 par aur Dow 0.28% upar 52,361 par band hua. TheStreet ki report ke mutabik is hafte Microsoft, Alphabet aur Amazon ke nateeje aane hain, aur bazaar Fed meeting mein rate hike ki sirf lagbhag 10% sambhavna maan raha hai."
+     ],
+     "sources": [
+      {
+       "name": "The Korea Times (Reuters) — Oil six-month high ke paas",
+       "url": "https://www.koreatimes.co.kr/world/20261027/oil-inches-higher-stays-near-six-month-highs-on-saudi-attacks"
+      },
+      {
+       "name": "Goodreturns — Market outlook, 27 October",
+       "url": "https://www.goodreturns.in/news/stock-market-outlook-today-october-27-sensex-nifty-likely-to-remain-volatile-ahead-of-monthly-exp-1543397.html"
+      },
+      {
+       "name": "TheStreet — Stock Market Today, 26 October 2026",
+       "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026"
+      }
+     ]
+    },
+    {
+     "slug": "e100-fuel-flex-fuel-gaadiyon-ke-liye-notify",
+     "title": "Sarkar ne 100% ethanol (E100) ko flex-fuel gaadiyon ke liye notify kiya, crude import ghataane ka lakshya",
+     "summary": "Road Transport Ministry ne Central Motor Vehicles Rules mein badlaav kiya; aam petrol ya E20 gaadiyon mein E100 nahi chalega.",
+     "body": [
+      "Road Transport aur Highways Ministry ne Central Motor Vehicles Rules, 1989 mein sanshodhan karke E100 — yaani 100% bio-ethanol — ko flex-fuel gaadiyon ke liye manzoori de di hai. Business Today ki report ke mutabik notification G.S.R. 911(E) 23 October ko jaari hua; iska draft April mein public comments ke liye aaya tha. Ab E100 ko E85 ke saath emission standards, fuel specifications aur testing ke niyamon mein jagah mili hai.",
+      "Yeh fuel sirf unhi gaadiyon mein istemaal ho sakega jinhe companies ne flex-fuel ke roop mein design aur certify kiya ho; report ke mutabik aam petrol aur E20 ke liye bani gaadiyan E100 ke liye upyukt nahi hain. Sarkar ka maksad crude import par nirbharta kam karna hai, jo desh ki urja zaroorat ka lagbhag 88% poora karta hai. Report ke mutabik desh ki ethanol utpaadan kshamata lagbhag 2,000 crore litre hai, aur automakers aane wale mahinon mein flex-fuel models la sakte hain."
+     ],
+     "sources": [
+      {
+       "name": "Business Today — Sarkar ne E100 fuel ko notify kiya",
+       "url": "https://www.businesstoday.in/india/story/govt-officially-notifies-e100-fuel-for-flex-fuel-vehicles-to-curb-crude-imports-and-emissions-563650-2026-10-26"
+      },
+      {
+       "name": "ANI — 100% ethanol fuel ko flex-fuel gaadiyon mein manzoori",
+       "url": "https://aninews.in/news/business/govt-allows-use-of-100-pc-ethanol-fuel-in-flex-fuel-vehicles-amends-emission-norms20261026171709/"
+      }
+     ]
+    },
+    {
+     "slug": "anthropic-ipo-filing-nasdaq",
+     "title": "AI company Anthropic ne IPO ke liye filing ki, Nasdaq par 'ANT' ticker se listing ki yojana",
+     "summary": "Axios ke mutabik filing mein 2026 ki pehli chhamahi mein $16.29 billion revenue aur $80.75 billion net loss dikhaya gaya; Thanksgiving se pehle trading shuru ho sakti hai.",
+     "body": [
+      "Claude chatbot banane wali AI company Anthropic ne Somvaar ko apne IPO ke liye public filing ki. TheStreet ke mutabik company Nasdaq par 'ANT' ticker ke saath list hona chahti hai; usne June mein SEC ke paas confidential filing ki thi. Axios ki report ke mutabik share Americi Thanksgiving se pehle trade hona shuru ho sakte hain, aur Goldman Sachs lead underwriter hai.",
+      "Axios ke mutabik filing mein 2026 ki pehli chhamahi mein $16.29 billion revenue aur $80.75 billion net loss dikhaya gaya hai. Kitni rakam jutayi jayegi, yeh abhi saaf nahi hai; report ke mutabik bazaar mein lagbhag $2 trillion valuation par $100 billion jutaane ki atkalein hain, jo pushtishuda aankda nahi hai. Is khabar se Somvaar ko Wall Street par tech sheyaron mein tezi dekhi gayi."
+     ],
+     "sources": [
+      {
+       "name": "Axios — Anthropic files for its IPO",
+       "url": "https://www.axios.com/2026/10/26/anthropic-ipo"
+      },
+      {
+       "name": "TheStreet — Stock Market Today, 26 October 2026",
+       "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026"
+      }
+     ]
+    }
+   ],
+   "editorial": {
+    "slug": "tel-ka-jhatka-aur-fed-ka-hafta",
+    "title": "Somvaar ki raahat ke baad bhi tel aur global faislon ka dabav bana hua hai",
+    "body": [
+     "Somvaar ki badhat ne bazaar ko thodi saans di, lekin $117 ke aas-paas ka Brent India ki arthvyavastha ke liye asli chinta hai. Mehnga tel current account, rupaye aur mehngaai — teeno par asar daalta hai, aur RBI ki neeti ke vikalp bhi seemit karta hai.",
+     "Is hafte teen bade central banks ke faisle aur US tech companies ke nateeje global mood tay karenge. Hamari raay mein sarkar ko is samay fuel par tax neeti aur strategic reserves ko lekar saaf sanket dene chahiye, taaki aam upbhokta aur udyog dono ko bharosa mile ki tel ke jhatke ka bojh achanak un par nahi daala jayega."
+    ]
+   }
+  },
+  {
+   "id": "tse",
+   "name": "Tech, Sports & Entertainment",
+   "stories": [
+    {
+     "slug": "india-new-zealand-teesra-t20i-wellington",
+     "title": "Wellington mein aaj teesra T20I: 2-0 se aage India ke paas series jeetne ka mauka, New Zealand ke do tez gendbaaz bahar",
+     "summary": "Christchurch mein dono match 180+ ka peecha karke jeete; doosri jeet India ki 200vi T20I jeet thi.",
+     "body": [
+      "Shreyas Iyer ki captaincy mein Indian team paanch match ki T20I series mein 2-0 se aage hai aur Mangalvaar ko Wellington ke Hnry Stadium mein teesra match jeetkar series apne naam kar sakti hai. NewsBytes ke mutabik India ne Christchurch mein dono match 180 se zyada ke lakshya ka peecha karke jeete, aur doosri jeet T20I mein India ki 200vi jeet thi.",
+      "New Zealand ke liye mushkil yeh hai ki Matt Henry ko team se hata liya gaya hai aur Lockie Ferguson injury ki aashanka ke chalte ehtiyaatan bahar hain. India ki taraf se jeeti hui XI mein badlaav ki ummeed kam hai; Ishan Kishan poori tarah fit nahi hain, isliye Vaibhav Sooryavanshi No. 3 par khel sakte hain. Wellington mein hawa tez rehne aur halki baarish ki sambhavna jataayi gayi hai."
+     ],
+     "sources": [
+      {
+       "name": "NewsBytes — Wellington T20I preview",
+       "url": "https://www.newsbytesapp.com/news/sports/nz-vs-ind-wellington-t20i-preview/story"
+      }
+     ]
+    },
+    {
+     "slug": "estic-2026-bharat-mandapam-pm-modi",
+     "title": "PM Modi aaj Bharat Mandapam mein ESTIC 2026 ka udghatan karenge; 150 deep-tech startups, ISRO ka heavy-lift rocket model",
+     "summary": "27-29 October tak chalne wale science conclave mein AI, biotech, energy samet 12 thematic areas; CSIR aayojak.",
+     "body": [
+      "Pradhan Mantri Narendra Modi Mangalvaar shaam New Delhi ke Bharat Mandapam mein Emerging Science, Technology and Innovation Conclave (ESTIC) 2026 ka udghatan karenge. IANS ke mutabik teen din ka yeh conclave CSIR aayojit kar raha hai, Principal Scientific Adviser ke office ke margdarshan mein. Ismein artificial intelligence, biotechnology, advanced materials, healthcare, energy aur climate-ocean sciences samet 12 thematic areas par charcha hogi.",
+      "Pradarshani mein lagbhag 150 deep-tech startups ke stall honge. ISRO ek prastaavit next-generation heavy-lift launch vehicle ka model dikhayega, jo low Earth orbit mein 30,000 kg se zyada payload le jaane ke liye design kiya ja raha hai, saath hi Chandrayaan 4 aur 5 projects bhi. Pehli baar ek 'Global Connect' networking event bhi hoga, jismein desh-videsh ke 300 se zyada aamantrit participants research partnerships par baat karenge."
+     ],
+     "sources": [
+      {
+       "name": "IANS — PM Modi ESTIC 2026 ka udghatan karenge",
+       "url": "https://ianslive.in/pm-modi-to-inaugurate-emerging-science-technology-and-innovation-conclave-2026-tomorrow--20261026200603"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bharat_Mandapam.jpg/1280px-Bharat_Mandapam.jpg",
+      "credit": "Ministry of Information and Broadcasting",
+      "license": "GODL-India",
+      "source": "https://commons.wikimedia.org/wiki/File:Bharat_Mandapam.jpg",
+      "alt": "New Delhi mein Bharat Mandapam ki file photo"
+     }
+    }
+   ],
+   "editorial": {
+    "slug": "lab-se-bazaar-tak-science-ka-safar",
+    "title": "Science conclave tab safal jab lab ki khoj bazaar tak pahunche",
+    "body": [
+     "ESTIC jaise aayojan India ki vaigyanik mehatvakanksha ko saamne laate hain — deep-tech startups, heavy-lift rocket aur Chandrayaan ke agle charan iska sabse achha udaharan hain. 'Global Connect' jaisa manch antarrashtriya saajhedaari ke liye bhi zaroori hai.",
+     "Lekin India ki puraani kamzori research par kam kharch aur lab se product tak ka lamba safar rahi hai. Hamari raay mein aise conclave ka asli maapdand pradarshaniyon ki sankhya nahi, balki yeh hona chahiye ki agle saal tak kitni technologies ko industry partner, funding aur bazaar mila."
+    ]
+   }
+  }
+ ]
+}
