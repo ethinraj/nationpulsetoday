@@ -1,0 +1,367 @@
+{
+  "edition": "Subah Edition",
+  "updated": "2026-10-30T07:15:00+05:30",
+  "ticker": [
+    "Supreme Court ka RBI ko nirdesh: cyber fraud mein bank ki laaparwahi ho to poora paisa lautaana hoga",
+    "SC ne Karnataka ka 2022 ka kanoon radd kiya; 2011 KAS bharti ki daagi niyuktiyaan khatm",
+    "Aaj Banaskantha se PM-KISAN ki 24vi kist: 9.34 crore kisaan parivaaron ko Rs 2,000",
+    "Hormuz mein teen tanker baaroodi surangon se takraakar jale: IRGC; Iran ko mila Vance ka khat",
+    "Coal India ka Q2 munafa 57% badhkar Rs 6,547 crore; aaj Eden Park mein India-NZ chautha T20I"
+  ],
+  "lead_editorial": {
+    "slug": "cyber-fraud-bank-jawabdehi-supreme-court",
+    "kicker": "Hamari Raay",
+    "title": "Bank 'suraksha ki chhatri' banein, tamaashbeen nahi — cyber fraud par Supreme Court ki sakhti sahi waqt par aayi hai",
+    "summary": "Supreme Court ne RBI se kaha hai ki naye cyber fraud niyamon mein woh dhaara ho jisse bank ki laaparwahi ki soorat mein grahak ko poora nuksaan bharpaai mile. Yeh grahakon ke liye badi raahat ho sakti hai — bashart niyam kaagaz se zameen tak utrein.",
+    "body": [
+      "Digital arrest aur online thagi ab ikka-dukka ghatnaayein nahi rahi. Business Standard ki report ke mutabik Guruvaar ko Chief Justice Surya Kant ki bench ne ek buzurg dampati ke maamle mein suo motu sunwaai ki, jo farzi adaalati aadeshon ke zariye Rs 1.05 crore gawa baithe the. Bench ne RBI se kaha ki prastaavit framework mein saaf likha ho ki jahan bank ki kamzor suraksha ya laaparwahi se nuksaan hua, wahan grahak ko kam se kam utni hi rakam lautaayi jaaye jitni usne gawaayi.",
+      "Hamari raay mein yeh soch bilkul sahi hai. Ek pensioner ke khaate se achanak bhaari, asaamaanya nikasi ho aur bank ka system aankh moonde rahe — to zimmedaari sirf grahak ki nahi ho sakti. CJI ne bhi yahi sawaal uthaya ki aise lenden par turant dakhal kyon nahi hua. Bank grahak ka paisa sambhaalne ke badle fees aur byaaj kamaate hain; aise mein unse 'protective umbrella' banne ki ummeed karna koi zyaadti nahi.",
+      "Lekin niyam tabhi asar karenge jab unmein daant hon. Court ne khud RBI se poocha hai ki kya prastaavit niyamon mein paryaapt enforcement shakti hai, aur banks se pehle salaah lene ki pratha par bhi sawaal uthaye. Attorney General ne 30 November tak notification aur 31 December tak niyam laagu karne ka prastaav rakha hai. Zaroori hai ki yeh deadline sirf taarikh na rahe — shikaayat ka samaybaddh nipataara, paardarshi jaanch aur grahak par saboot ka bojh kam karna bhi framework ka hissa ho.",
+      "Saath hi grahakon ki apni satarkta ka koi vikalp nahi. Koi bhi asli police ya adaalat video call par 'giraftaari' nahi karti, aur OTP ya paise ki maang par turant rukna hi sabse badi suraksha hai. Bank ki jawabdehi aur nagrik ki jaagrukta — dono milkar hi is thagi ki kamar tod sakti hain. Agli sunwaai 30 November ko hai; desh ki nazar is par rahegi ki RBI kitne mazboot niyam lekar aata hai."
+    ],
+    "sources": [
+      {
+        "name": "Business Standard",
+        "url": "https://business-standard.com/amp/india-news/sc-asks-rbi-to-make-banks-compensate-victims-of-digital-arrest-cyber-fraud-126102901741_1.html"
+      },
+      {
+        "name": "LiveLaw",
+        "url": "https://www.livelaw.in/supreme-court/supreme-court-daily-round-up-october-29-2026-556546"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "india",
+      "name": "India & Politics",
+      "stories": [
+        {
+          "slug": "supreme-court-rbi-bank-cyber-fraud-muavza",
+          "title": "Cyber fraud par Supreme Court sakht: RBI se kaha — bank ki laaparwahi ho to grahak ko gawaayi poori rakam lautaane ka niyam banao, warna court aadesh dega",
+          "summary": "Digital arrest aur cyber thagi par suo motu sunwaai mein CJI Surya Kant ki bench ne RBI se naye framework mein bank ki jawabdehi ki saaf dhaara jodne ko kaha. Agli sunwaai 30 November ko.",
+          "body": [
+            "Supreme Court ne Guruvaar ko Reserve Bank of India se kaha ki cyber fraud se jude prastaavit niyamon mein aisi dhaara ho jisse bank ya vittiya sanstha ki kamzor suraksha ya due diligence ki kami ki wajah se hue nuksaan par grahak ko kam se kam utni rakam milay jitni usne gawaayi. Business Standard ki report ke mutabik Chief Justice Surya Kant, Justice Joymalya Bagchi aur Justice V Mohana ki bench yeh suo motu maamla sun rahi hai, jo ek buzurg dampati ke Rs 1.05 crore gawaane ke baad shuru hua tha. Aarop hai ki thagon ne farzi adaalati aadeshon ka istemaal kiya.",
+            "Report ke mutabik CJI ne chetaavni di ki agar niyamon mein liability clause nahi hua to court ise nyaayik aadesh se laagu karega. Bench ne RBI se draft regulations aur adhikrit vittiya sansthaon ki suchi agli sunwaai se pehle jama karne ko kaha, aur yeh bhi poocha ki kya niyamon mein 'paryaapt daant' hain. Sunwaai mein sandigdh lenden ko asthaayi roop se rokne, automated reporting, aur SIM card ke durupyog par jawabdehi jaise suraksha upaayon par bhi charcha hui.",
+            "Attorney General R Venkataramani ne RBI ki taraf se bataaya ki 9,400 khaaton par nivaarak kaarvai ki gayi hai, aur unke mutabik shikaayatein lagbhag 50% ghati hain. Unhone 30 November tak notification aur 31 December tak niyam laagu karne ka prastaav rakha. LiveLaw ki daily round-up ke mutabik court ne isi din yeh bhi kaha ki jahan fraud bank ki due diligence ki kami se hua ho, wahan bank ko muavza dena hoga. Maamle ki agli sunwaai 30 November 2026 ko hogi."
+          ],
+          "sources": [
+            {
+              "name": "Business Standard",
+              "url": "https://business-standard.com/amp/india-news/sc-asks-rbi-to-make-banks-compensate-victims-of-digital-arrest-cyber-fraud-126102901741_1.html"
+            },
+            {
+              "name": "LiveLaw",
+              "url": "https://www.livelaw.in/supreme-court/supreme-court-daily-round-up-october-29-2026-556546"
+            },
+            {
+              "name": "The Week",
+              "url": "https://www.theweek.in/news/india/2026/10/29/supreme-court-mulls-new-crackdown-on-digital-arrest-banks-to-compensate-victim-and.html"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Supreme_Court_of_India_01.jpg/1280px-Supreme_Court_of_India_01.jpg",
+            "credit": "Subhashish Panigrahi",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_01.jpg",
+            "alt": "Supreme Court of India ki imaarat, New Delhi (file photo)"
+          }
+        },
+        {
+          "slug": "supreme-court-karnataka-2011-kas-bharti-kanoon-radd",
+          "title": "'Vidhayika faisle ko seedhe radd nahi kar sakti': Supreme Court ne Karnataka ka 2022 ka kanoon khaarij kiya, 2011 batch ki daagi KAS bharti ki niyuktiyaan khatm",
+          "summary": "Justice JB Pardiwala aur Justice K Vinod Chandran ki bench ne 2011 batch Gazetted Probationers ki bharti ko vaidh thehraane waale 2022 ke Act ko asanvaidhanik kaha. Rajya ko maujooda niyamon ke tahat khaali pad notify karne ka nirdesh.",
+          "body": [
+            "Supreme Court ne Guruvaar ko Karnataka Civil Services (Validation of Selection and Appointment of 2011 Batch Gazetted Probationers) Act, 2022 ko radd kar diya. Bar & Bench ki report ke mutabik court ne kaha ki jab sanvaidhanik adaalatein bharti radd karne ko sahi thehra chuki thi, to rajya vidhayika kanoon banaakar us faisle ko palat nahi sakti. Bench ne kaha ki use is kanoon ke asanvaidhanik hone mein koi shak nahi.",
+            "Yeh bharti 362 Group A aur B padon ke liye thi. Report ke mutabik 2022 ke Act ne lagbhag 191 niyuktiyon ko vaidh thehraya tha, jinmein 14 aise ummeedwaar bhi the jinhein CID ne daagi paaya tha. Ab in niyuktiyon ka ant ho jaayega. Court ne puraane niyamon se nayi bharti ka aadesh dene se inkaar kiya aur rajya ko maujooda niyamon ke tahat Group A aur B ke khaali pad notify karne ko kaha.",
+            "Aanshik raahat ke taur par bench ne bedaag ummeedwaaron aur court ya Karnataka Administrative Tribunal ka darwaaza khatkhataane waalon ko umr mein chhoot dene ka nirdesh diya. Court ne High Court dwara chunautiyon ko sambhaalne ke tareeke par bhi hairaani aur chinta jatai. ETV Bharat ki report ke mutabik court ne bharti mein vyaapak bhrashtachaar aur bhai-bhatijaavaad ka zikr kiya."
+          ],
+          "sources": [
+            {
+              "name": "Bar & Bench",
+              "url": "https://www.barandbench.com/news/supreme-court-strikes-down-karnataka-law-protecting-tainted-appointments-questions-high-court-ruling"
+            },
+            {
+              "name": "LiveLaw",
+              "url": "https://www.livelaw.in/supreme-court/legislature-cannot-directly-annul-judgment-supreme-court-strikes-down-2022-karnataka-law-validating-tainted-2011-civil-service-selection-556534"
+            },
+            {
+              "name": "ETV Bharat",
+              "url": "https://www.etvbharat.com/en/bharat/rampant-corruption-blatant-nepotism-supreme-court-declares-2022-karnataka-law-unconstitutional-enn26102907194"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Vidhana_Soudha_LE.jpg/1280px-Vidhana_Soudha_LE.jpg",
+            "credit": "DeepanjanGhosh",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Vidhana_Soudha_LE.jpg",
+            "alt": "Bengaluru mein Karnataka ka Vidhana Soudha (file photo)"
+          }
+        },
+        {
+          "slug": "pm-kisan-24vi-kist-aaj-banaskantha",
+          "title": "Aaj Banaskantha se PM-KISAN ki 24vi kist: PM Modi subah 10 baje 9.34 crore kisaan parivaaron ke khaate mein bhejenge Rs 2,000",
+          "summary": "Rakam DBT ke zariye seedhe khaaton mein jaayegi. e-KYC zaroori hai, lekin sirf e-KYC se bhugtaan ki guarantee nahi — baaki record ka satyaapan bhi hota hai.",
+          "body": [
+            "Pradhan Mantri Narendra Modi aaj Gujarat ke Banaskantha se PM-KISAN yojana ki 24vi kist jaari karenge. Business Today ki report ke mutabik official PM-KISAN website par samay subah 10 baje bataaya gaya hai, aur lagbhag 9.34 crore kisaan parivaaron ko Rs 2,000 Direct Benefit Transfer ke zariye milenge. Yojana ke tahat paatr parivaaron ko saal mein teen kiston mein kul Rs 6,000 diye jaate hain. Outlook Money ki report ke mutabik is kist ki kul rakam lagbhag Rs 18,680 crore hai.",
+            "Report ke mutabik registered laabharthiyon ke liye e-KYC anivaarya hai. Ise pmkisan.gov.in par Aadhaar se jude mobile number par aaye OTP se, Common Service Centre par biometric se, ya PM-KISAN mobile app par face authentication se poora kiya ja sakta hai. Haalanki e-KYC poora hone ka matlab bhugtaan ki guarantee nahi, kyonki paatrata aur baaki records ka satyaapan bhi hota hai."
+          ],
+          "sources": [
+            {
+              "name": "Business Today",
+              "url": "https://businesstoday.in/india/story/pm-kisan-24th-instalment-today-october-30-check-rs-2000-payment-eligibility-and-e-kyc-rules-564596-2026-10-29"
+            },
+            {
+              "name": "Outlook Money",
+              "url": "https://www.outlookmoney.com/news/pm-kisan-24th-instalment-pm-modi-to-release-rs-18680-crore-on-october-30"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/The_official_portrait_of_Shri_Narendra_Damodardas_Modi.jpg",
+            "credit": "Prime Minister's Office, Government of India",
+            "license": "GODL-India",
+            "source": "https://commons.wikimedia.org/wiki/File:The_official_portrait_of_Shri_Narendra_Damodardas_Modi.jpg",
+            "alt": "Pradhan Mantri Narendra Modi ka official portrait"
+          }
+        },
+        {
+          "slug": "delhi-hawa-poor-aqi-222-baarish-forecast",
+          "title": "Delhi ki hawa lagaataar doosre din 'poor', AQI 222; aaj baarish ke asaar, 1 November se phir bigadne ka anumaan",
+          "summary": "Uttam Nagar sabse pradooshit raha. Early Warning System ke mutabik Shukravaar se 31 October tak hawa 'moderate' ho sakti hai.",
+          "body": [
+            "PTI ke hawaale se ThePrint ki report ke mutabik Delhi ka AQI Guruvaar ko 222 raha, jo Budhvaar ke 229 se thoda behtar hai, lekin lagaataar doosre din 'poor' shreni mein. 58 monitoring stations mein se 35 'poor' aur teen 'very poor' shreni mein the. Uttam Nagar mein sabse zyada 331, Mundka mein 305 aur Jahangirpuri mein 301 AQI darj hua.",
+            "Early Warning System ke anumaan ke mutabik Shukravaar se 31 October tak hawa 'moderate' ho sakti hai, lekin 1 November ko phir 'poor' hone aur uske baad ke chhah dinon tak isi shreni mein rehne ka anumaan hai. IMD ne aaj Delhi mein garaj ke saath baarish ka forecast diya hai. Budhvaar ko chhah rajyon mein satellite se 205 parali/khet aag ki ghatnaayein darj hui, Delhi mein koi nahi."
+          ],
+          "sources": [
+            {
+              "name": "ThePrint (PTI)",
+              "url": "https://theprint.in/india/delhis-air-quality-remains-poor-for-second-day-despite-light-rain-cloudy-skies/3085354/"
+            }
+          ]
+        }
+      ],
+      "editorial": {
+        "slug": "karnataka-bharti-kanoon-sabak",
+        "title": "Daagi bharti ko kanoon ka kavach nahi mil sakta — Karnataka faisla har rajya ke liye sabak hai",
+        "body": [
+          "Supreme Court ka Karnataka faisla ek seedha siddhaant dohraata hai: vidhayika kanoon bana sakti hai, lekin adaalat ke antim faisle ko seedhe palatne ke liye nahi. 2011 ki KAS bharti mein CID ki jaanch aur adaalaton ke faisle ke baad bhi 2022 mein kanoon laakar niyuktiyon ko vaidh thehraana, hamari raay mein, sanvaidhanik santulan ke saath khilwaad tha.",
+          "Lekin is kahani mein sabse zyada nuksaan un yuvaon ka hua jo bedaag the aur ek bhrasht prakriya ki keemat chuka rahe hain. Court ne umr mein chhoot dekar kuch raahat di hai; ab rajya sarkar ki zimmedaari hai ki khaali padon par nayi bharti tez, paardarshi aur samaybaddh ho. Bharti ghotaalon ka asli ilaaj saaf pariksha vyavastha hai — kanooni jugaad nahi."
+        ]
+      }
+    },
+    {
+      "id": "world",
+      "name": "World & Geopolitics",
+      "stories": [
+        {
+          "slug": "hormuz-tanker-baaroodi-surang-vance-khat-iran",
+          "title": "Hormuz mein teen tanker baaroodi surangon se takraakar jale, IRGC ka daava; Iran ko mila JD Vance ka khat — Trump bole, baat sirf dawaaiyon ki madad ki",
+          "summary": "Iran ki fauj ke mutabik ek chautha tanker bhi Hormuz ke poorab mein mine se kshatigrast hua. Iran mediators ke saath apne 'Seven-Day Plan' par baat kar raha hai; US-Iran sangharsh aathve mahine mein.",
+          "body": [
+            "Iran ke Revolutionary Guards ne kaha hai ki pichhle 24 ghanton mein Strait of Hormuz mein teen tel tanker baaroodi surangon se takraakar jal uthe. Gulf News ki report ke mutabik Iran ki sena ne baad mein ek chauthe tanker ke Hormuz ke poorab mein mine se kshatigrast hone ki baat kahi. IRGC ka daava hai ki in jahaazon ne apne radar aur navigation system band kar rakhe the aur chetaavni anasuni ki. Ghatnaon ka samay aur jahaazon ke jhande abhi saaf nahi hain, aur yeh daave Iran ki taraf se hain.",
+            "The National ki report ke mutabik Wall Street Journal ne khabar di thi ki US Vice President JD Vance ne Iran ki Supreme National Security Council ke secretary Mohsen Rezaei ko shaanti vaarta dobaara shuru karne ki koshish mein khat likha. Trump ne khat ki pushti ki, lekin kaha ki unhone vaarta shuru karne ka nirdesh nahi diya tha aur yeh madad, khaas kar medical supplies, se juda tha. Gulf News ke mutabik kuch reports mein khat mein Iran ke nuclear programme ka zikr hone ki baat bhi hai; Iran ne abhi jawaab nahi diya hai.",
+            "Iran ke Videsh Mantri Abbas Araghchi ne kaha ki Tehran mediators ke saath apne 'Seven-Day Plan' ko laagu karne par charcha kar raha hai. Gulf News ke mutabik is plan mein Hormuz kholne ke badle poore Middle East mein ceasefire, videsh mein jamaa sampatti ko mukt karna, tel sector ke pratibandh hataana aur US naval blockade khatm karne ki shartein hain. Isi beech Saudi-led coalition ne kaha ki usne Riyadh ki taraf daage gaye do Houthi ballistic missiles nasht kiye. Hormuz ke raaste aane waale tel par nirbhar India ke liye yeh tanaav seedha chinta ka vishay hai."
+          ],
+          "sources": [
+            {
+              "name": "Gulf News",
+              "url": "https://gulfnews.com/world/mena/middle-east-war-saudi-intercepts-houthi-missile-as-iran-warns-israel-against-strikes-1.500727751"
+            },
+            {
+              "name": "The National",
+              "url": "https://www.thenationalnews.com/news/gulf/2026/10/29/trump-downplays-vance-letter-sent-to-iran/"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ISS-46_Gulf_of_Oman_with_Strait_of_Hormuz_at_night.jpg/1280px-ISS-46_Gulf_of_Oman_with_Strait_of_Hormuz_at_night.jpg",
+            "credit": "NASA/Tim Kopra",
+            "license": "Public domain",
+            "source": "https://commons.wikimedia.org/wiki/File:ISS-46_Gulf_of_Oman_with_Strait_of_Hormuz_at_night.jpg",
+            "alt": "International Space Station se raat mein Gulf of Oman aur Strait of Hormuz ka drishya (file photo)"
+          }
+        },
+        {
+          "slug": "israel-chunav-ginti-poori-koi-bahumat-nahi",
+          "title": "Israel: ginti lagbhag poori, kisi bloc ko bahumat nahi — Netanyahu bloc 53, Eisenkot ka opposition bloc 48 seat; gathbandhan ki daud shuru",
+          "summary": "Arab dalon ko milakar 19 seat. Central Elections Committee agle Budhvaar tak nateeje certify karega; Likud ke dhaandhli ke aaropon ki jaanch Shin Bet ko saunpi gayi.",
+          "body": [
+            "Al Jazeera ki report ke mutabik 99% se zyada ballot gine jaane ke baad Benjamin Netanyahu ke bloc ko 120 mein se 53 aur Gadi Eisenkot ke netritva waale opposition bloc ko 48 seat milti dikh rahi hain. Arab dalon ko kul 19 seat milne ka anumaan hai. Bahumat ke liye 61 seat chahiye, yaani dono mein se koi bhi khema apne dum par sarkar nahi bana sakta. Central Elections Committee agle Budhvaar tak antim nateeje certify karegi; tab tak aankde badal sakte hain.",
+            "Opposition mein gathbandhan ki baatcheet shuru ho gayi hai — Eisenkot ne Naftali Bennett aur Yair Golan se mulaakat ki, jabki Golan ne Ra'am ke Mansour Abbas se baat ki. Lekin Eisenkot Arab dalon ke saath saajhedari na karne ka vaada kar chuke hain, aur report ke mutabik unke bina opposition sarkar nahi bana sakta. Likud ne bina saboot ke aarop lagaya hai ki Arab dalon ne chunav 'chura' liya; Elections Committee ke pramukh Noam Sohlberg ne Shin Bet se in daavon ki jaanch karne ko kaha hai."
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete"
+            },
+            {
+              "name": "Ynet News",
+              "url": "https://www.ynetnews.com/article/hjnatbkaml"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Knesset_Israeli_Parliament_Building_%2841404895850%29.jpg/1280px-Knesset_Israeli_Parliament_Building_%2841404895850%29.jpg",
+            "credit": "Gary Todd from Xinzheng, China",
+            "license": "CC0",
+            "source": "https://commons.wikimedia.org/wiki/File:Knesset_Israeli_Parliament_Building_(41404895850).jpg",
+            "alt": "Jerusalem mein Israel ki sansad Knesset ki imaarat (file photo)"
+          }
+        }
+      ],
+      "editorial": {
+        "slug": "hormuz-khat-aur-shartein",
+        "title": "Khat aate rahein, baatcheet chalti rahe — Hormuz ka band rehna duniya ki jeb par bhaari hai",
+        "body": [
+          "Ek taraf Hormuz mein tanker jal rahe hain, doosri taraf Washington se Tehran tak khat pahunch raha hai. Trump bhale hi Vance ke khat ko sirf maanviya madad tak simit bataayein, hamari raay mein sangharsh ke aathve mahine mein kisi bhi tarah ka sampark sahi disha ka sanket hai. Iran ka 'Seven-Day Plan' shartein bhari hai, lekin mez par kuch hona khaali mez se behtar hai.",
+          "India ke liye daanv bahut bade hain — mehnga tel, Khaadi mein rehne waale lakhon Bhartiya aur jahaazon par kaam karne waale seafarers. New Delhi ko apni santulit kootneeti ka istemaal karte hue samudri suraksha aur jald ceasefire ki aawaaz buland karni chahiye. Baaroodi surangon se bhara samudri raasta kisi ke bhi hit mein nahi."
+        ]
+      }
+    },
+    {
+      "id": "business",
+      "name": "Business & Economy",
+      "stories": [
+        {
+          "slug": "coal-india-q2-munafa-57-pratishat-indigo-asian-paints-trent",
+          "title": "Coal India ka Q2 munafa 57% uchhalkar Rs 6,547 crore; IndiGo ka ghaata ghata, Asian Paints aur Trent ka munafa badha",
+          "summary": "Coal India ki average realisation 7% badhi aur offtake 12% chadha. IndiGo ka revenue lagbhag 26% badha, lekin company ab bhi ghaate mein.",
+          "body": [
+            "Sarkari company Coal India ne September 2026 mein khatm timahi (Q2 FY27) mein Rs 6,547 crore ka shuddh munafa darj kiya, jo pichhle saal ke Rs 4,167 crore se 57% zyada hai. Business Standard ki report ke mutabik kul aay 21% badhkar Rs 46,833 crore rahi. Prati tonne billing realisation 7% badhkar Rs 2,346 hui aur byaaj se badhi 'other income' ne bhi madad ki, jabki kul kharch 17% badhkar Rs 38,398 crore raha. Utpaadan 4% badhkar 151 million tonne aur offtake 12% badhkar 186 million tonne raha. (Upstox ke live blog mein consolidated aankde thode alag — Rs 6,516 crore munafa — bataaye gaye hain.)",
+            "Upstox ki report ke mutabik Guruvaar ko nateeje dene waali doosri badi companiyon mein IndiGo (InterGlobe Aviation) ka shuddh ghaata Rs 2,581.7 crore se ghatkar Rs 1,878.6 crore raha, jabki revenue 25.9% badhkar Rs 23,363.8 crore hua. Asian Paints ka munafa 7.45% badhkar Rs 1,068 crore aur Trent ka 23.06% badhkar Rs 463.77 crore raha. Godrej Consumer ka munafa 13.84% badha, jabki Suzlon Energy ka munafa revenue badhne ke bawajood 69.2% ghatkar Rs 394.15 crore raha."
+          ],
+          "sources": [
+            {
+              "name": "Business Standard",
+              "url": "https://www.business-standard.com/amp/industry/news/coal-india-q2-net-profit-jumps-57-to-6-547-crore-on-higher-realisations-126102901869_1.html"
+            },
+            {
+              "name": "Upstox",
+              "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-indi-go-asian-paints-coal-india-trent-vedanta-power-others-to-declare-earnings/liveblog-202604/"
+            }
+          ]
+        },
+        {
+          "slug": "aaj-ka-bazaar-nifty-23076-resistance",
+          "title": "Aaj ka bazaar: 905 ank ki chhalaang ke baad Nifty ke saamne 23,077 ka resistance; 22,777–22,824 ahem support",
+          "summary": "Chhote time-frame par RSI overbought zone mein, isliye resistance ke paas munafavasooli ki sambhaavna — 5paisa ka technical setup.",
+          "body": [
+            "Guruvaar ko Sensex 905 ank (1.24%) chadhkar 74,151.04 aur Nifty 237.90 ank (1.05%) chadhkar 22,936.75 par band hua tha. 5paisa ke technical setup ke mutabik Nifty ke liye 23,076.90 pehli badi rukawat hai; iske upar tikne par 23,164 tak ka raasta khul sakta hai. Neeche ki taraf 22,777 aur 22,824 ke EMA ahem support hain, aur 22,656.75 (Guruvaar ka intraday low) toota to 22,222 tak kamzori aa sakti hai.",
+            "Report ke mutabik daily RSI lagbhag 50.85 par hai, lekin 15-minute RSI 74 ke paas overbought hai, isliye resistance ke paas kuch consolidation ya munafavasooli dikh sakti hai. Guruvaar ko 50 mein se 39 Nifty shares badhe the; Realty, FMCG aur PSU Bank aage rahe. Brent ka lagbhag $114 par hona ab bhi mehngaai aur import bill ke liye jokhim bana hua hai. (Yeh nivesh salaah nahi hai.)"
+          ],
+          "sources": [
+            {
+              "name": "5paisa (trade setup)",
+              "url": "https://www.5paisa.com/blog/nifty-trade-setup-for-october-30-2026"
+            },
+            {
+              "name": "5paisa (post-market)",
+              "url": "https://www.5paisa.com/blog/post-market-update-sensex-jumps-905-points-nifty-above-22900-october-29-2026"
+            }
+          ]
+        }
+      ],
+      "editorial": {
+        "slug": "psu-munafa-aur-tel-ka-sawaal",
+        "title": "Coal India ki kamaai achhi khabar, par oonche tel ke daur mein yeh 'mehngi bijli' ka sanket bhi hai",
+        "body": [
+          "Coal India ka 57% badha munafa sarkari khazaane aur shareholders dono ke liye achhi khabar hai. Lekin is badhat ka bada hissa oonchi realisation, yaani mehnge koyle, se aaya hai. Hamari raay mein jab Brent $110 se upar hai aur bijli ki maang badh rahi hai, tab koyle ki keemat ka asar aakhirkaar bijli dar aur udyogon ki laagat tak pahunchta hai.",
+          "IndiGo ka ghaata ghatna aur Trent jaisi consumer companiyon ki majboot badhat yeh dikhaati hai ki gharelu maang tiki hui hai. Ab dekhna yeh hai ki oonche tel aur Hormuz ke tanaav ke beech yeh raftaar agli timahi tak bani rehti hai ya nahi."
+        ]
+      }
+    },
+    {
+      "id": "tse",
+      "name": "Tech, Sports & Entertainment",
+      "stories": [
+        {
+          "slug": "india-nz-chautha-t20i-eden-park-record-bheed",
+          "title": "Aaj Eden Park mein India-New Zealand chautha T20I: 40,000 darshakon ke saath record bheed ki ummeed, India ki nazar 4-0 par",
+          "summary": "Toss dopahar 12 baje IST, match 12:30 baje se. Tickets sold out; bheed NZC ke bilateral series attendance record 36,523 ko tod sakti hai.",
+          "body": [
+            "India aur New Zealand ke beech paanch maichon ki T20I series ka chautha mukaabla aaj Auckland ke Eden Park mein hoga. Business Standard ke mutabik toss Bhartiya samay se dopahar 12 baje aur match 12:30 baje shuru hoga; prasaaran Sony Sports Network aur SonyLIV par hai. Shreyas Iyer ki kaptaani mein India pehle hi 3-0 ki ajey badhat le chuka hai, aur jeet use 4-0 par pahuncha degi.",
+            "India.com ki report ke mutabik New Zealand Cricket ne kaha hai ki tickets bik chuke hain aur 40,000 se zyada darshak aane ki ummeed hai. Yeh 2019 mein isi maidaan par India ke khilaaf double-header mein bane 36,523 ke bilateral series record ko tod dega. Wellington mein pichhle match mein India ne 199 ka lakshya sirf 13.2 over mein haasil kiya tha, jismein Abhishek Sharma ne 35 gend mein shatak jada. Business Standard ke mutabik Eden Park par T20I mein pehli pari ka ausat score 156 hai."
+          ],
+          "sources": [
+            {
+              "name": "Business Standard",
+              "url": "https://www.business-standard.com/cricket/news/new-zealand-vs-india-4th-t20i-playing-11-live-toss-time-ist-streaming-126102900423_1.html"
+            },
+            {
+              "name": "India.com",
+              "url": "https://www.india.com/sports/cricket/ind-vs-nz-4th-t20i-eden-park-auckland-40000-crowd-sold-out-attendance-record-india-vs-new-zealand-8540106/"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Eden_Park_panorama.jpg/1280px-Eden_Park_panorama.jpg",
+            "credit": "Kiwi Flickr from Auckland, New Zealand",
+            "license": "CC BY 2.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Eden_Park_panorama.jpg",
+            "alt": "Auckland ke Eden Park stadium ka panorama (file photo)"
+          }
+        },
+        {
+          "slug": "ramayana-5-november-release-sai-pallavi-ravana-bayaan",
+          "title": "Los Angeles mein world premiere ke baad 'Ramayana' 5 November ko cinemas mein; Sai Pallavi ke 'Ravana poori tarah bura nahi' waale bayaan par bahas",
+          "summary": "Nitesh Tiwari ki film mein Ranbir Kapoor Ram, Sai Pallavi Sita aur Yash Ravana ke kirdaar mein. Theatrical run ke baad JioHotstar par pay-per-view.",
+          "body": [
+            "Nitesh Tiwari ki 'Ramayana: Rise of a Legend' ka world premiere 27 October ko Los Angeles ke Academy Museum of Motion Pictures mein hua. Gulf News ki report ke mutabik yeh do hisson waali film ka pehla bhaag hai, jismein Ranbir Kapoor Ram, Sai Pallavi Sita aur Yash Ravana bane hain; producer Namit Malhotra hain. International release Sony Pictures aur Hindi-bhaashi North India mein Dharma Productions sambhaalega, aur theatrical run ke baad film JioHotstar par pay-per-view hogi. Free Press Journal ke mutabik film 5 November 2026 ko release hogi.",
+            "Premiere par Sai Pallavi ka yeh kehna ki 'Ravana poori tarah bura nahi' social media par bahas ka mudda ban gaya. Free Press Journal ki report ke mutabik unhone shraddhaluon se apne andar ki achhaai-buraai pehchaanne aur khud ko sudhaarne ki baat kahi thi. Kuch logon ne bayaan ki aalochana ki, jabki doosron ne ise har insaan ke andar ke 'Ravana' par jeet ke roopak ke taur par dekha. Filmibeat ke mutabik Sai Pallavi ne bataaya ki Part 2 agle saal aayega aur uski shooting abhi shuru nahi hui hai."
+          ],
+          "sources": [
+            {
+              "name": "Gulf News",
+              "url": "https://gulfnews.com/entertainment/ramayana-world-premiere-fans-chant-ravana-for-yash-in-la-ranbir-kapoor-sai-pallavi-light-up-red-carpet-1.500726374"
+            },
+            {
+              "name": "Free Press Journal",
+              "url": "https://www.freepressjournal.in/entertainment/ravana-is-not-all-bad-sai-pallavis-statement-at-ramayana-la-premiere-sparks-mixed-reactions-online-watch-viral-video"
+            },
+            {
+              "name": "Filmibeat",
+              "url": "https://www.filmibeat.com/bollywood/news/2026/entertainment-news-live-updates-oct-29-priyanka-chopra-karwa-chauth-mehendi-gullu-eviction-bigg-boss-536247.html"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ranbir_Kapoor_in_April_2024.jpg",
+            "credit": "Bollywood Hungama",
+            "license": "CC BY 3.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Ranbir_Kapoor_in_April_2024.jpg",
+            "alt": "Abhineta Ranbir Kapoor (April 2024 ki file photo)"
+          }
+        },
+        {
+          "slug": "amazon-q3-aws-39-pratishat-capex-share-gira",
+          "title": "AI ki daud ka bill: Amazon ka AWS 39% badha, lekin EPS anumaan se kam aur $220 billion ke capex ki chinta mein share after-hours lagbhag 7% gira",
+          "summary": "Q3 revenue $201.9 billion (12% badhat), AWS ka backlog $578 billion. Company ne 2027 mein aur zyada kharch ka sanket diya.",
+          "body": [
+            "Amazon ne July-September timahi mein $201.94 billion ka revenue darj kiya, jo saal-dar-saal 12% zyada hai lekin analysts ke $202.22 billion ke anumaan se thoda kam. MarketBeat ke mutabik prati share kamaai (EPS) $1.89 rahi, jabki anumaan $1.97 ka tha. Cloud business AWS ka revenue 39% badhkar $46 billion hua aur uska backlog $578 billion bataaya gaya. Operating income 61% badhkar $28.1 billion raha.",
+            "Company ne 2026 ke liye lagbhag $220 billion ke cash capex ka anumaan diya aur kaha ki 2027 mein kharch isse kaafi zyada hoga. Motley Fool ke mutabik management ne 2027 aur 2028 mein AWS ki growth 40% se upar rehne ka anumaan bhi jataya. Phir bhi niveshakon ne bhaari AI kharch par chinta dikhaayi — share regular session mein 4.25% girkar $243.79 par band hua aur after-hours mein lagbhag 7% aur fisla. Q4 ke liye company ne $240–247 billion ke revenue ka guidance diya hai."
+          ],
+          "sources": [
+            {
+              "name": "MarketBeat",
+              "url": "https://www.marketbeat.com/earnings/reports/2026-10-29-amazoncom-inc-stock/"
+            },
+            {
+              "name": "The Motley Fool",
+              "url": "https://www.fool.com/coverage/stock-market-today/2026/10/29/stock-market-today-oct-29-amazon-falls-on-q3-earnings-report-and-capex-concerns/"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Amazon_Spheres_2018.jpg",
+            "credit": "Andy Li",
+            "license": "CC0",
+            "source": "https://commons.wikimedia.org/wiki/File:Amazon_Spheres_2018.jpg",
+            "alt": "Seattle mein Amazon headquarters ke Spheres (2018 ki file photo)"
+          }
+        }
+      ],
+      "editorial": {
+        "slug": "ramayana-bahas-aur-kala",
+        "title": "Ek bayaan par itna hungaama kyon? Ramayana jaisi katha har peedhi ko naye sawaal poochne ka haq deti hai",
+        "body": [
+          "Sai Pallavi ka bayaan, jaisa reports mein saamne aaya, Ravana ki tareef se zyada apne andar ki buraai pehchaanne ki baat thi. Hamari raay mein Ramayana ki parampara khud itni samriddh hai ki usmein Ravana ki vidvatta aur Shiv-bhakti ki charcha bhi hoti aayi hai. Kisi kalaakaar ki vyaakhya se asahmat hona theek hai, lekin trolling aur gaali-galoch bahas ka tareeka nahi.",
+          "Ab asli kasauti 5 November ko parde par hogi — kya Nitesh Tiwari ki film itni badi ummeedon ke saath katha ki aatma ko bhi sambhaal paati hai. Darshakon ko film dekhkar raay banaani chahiye, ek clip dekhkar nahi."
+        ]
+      }
+    }
+  ]
+}
