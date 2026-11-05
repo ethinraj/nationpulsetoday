@@ -1,0 +1,357 @@
+{
+ "edition": "Shaam Edition",
+ "updated": "2026-11-05T19:20:00+05:30",
+ "ticker": [
+  "Sensex 2,009 ank uchhla, 79,310 par band; Nifty 24,536 — lagaataar chhathe din badhat",
+  "America mein Democrats ne House aur Senate dono jeete; Trump bole — 'main ballot par hota to jeet jaate'",
+  "Cabinet: 92 GWh energy storage ke liye Rs 14,500 crore, 850 fast-track courts paanch saal aur",
+  "Asian Para Games mein record 114 medal; PM Modi ne khiladiyon se mulaqat ki",
+  "'Ramayana: Part 1' duniya bhar mein release; Auckland ODI mein Kohli ke 74, India 5 wicket se jeeta"
+ ],
+ "lead_editorial": {
+  "slug": "sasta-tel-raahat-hai-neeti-nahi-bharat-ko-apni-urja-suraksha-khud-banani-hogi",
+  "title": "Sasta tel raahat hai, neeti nahi — Bharat ko apni urja suraksha khud banani hogi",
+  "kicker": "Hamari Raay",
+  "summary": "America ke chunavi nateejon ke baad Brent ke girne se Dalal Street jhoom utha. Par ek aur desh ki raajneeti par tiki raahat kabhi bhi palat sakti hai; Cabinet ka storage aur critical minerals wala faisla sahi disha mein ek kadam hai.",
+  "body": [
+   "Thursday ko Sensex 2,009 ank chadh kar 79,310 par band hua aur Nifty 24,536 par pahuncha. HDFC Sky ki report ke mutabik dono index chhah session mein 8% se zyada chadh chuke hain. Is tezi ki sabse badi wajah Bharat ke andar nahi, balki America mein hai — wahan midterm chunav mein Democrats ki jeet ke baad yeh ummeed bani ki Iran yuddh khatm karne ka dabaav badhega, aur Brent kachcha tel ek din mein 8.7% gir gaya.",
+   "Bharat apni zaroorat ka zyaadatar tel import karta hai, isliye tel ka sasta hona import bill, mehngaai aur rupaye — teeno ke liye raahat hai. Lekin yeh raahat ummeed par tiki hai, kisi samjhaute par nahi. Saxo Bank ne bhi kaha ki tel ki giravat 'thos pragati se zyada ummeedon' par aayi hai. Usi din Iran ki Revolutionary Guards ne Hormuz ke paas tankeron ke mine se takraane ka daava kiya, aur President Trump 'bade hamle' ki baat bhi kar rahe hain. Yaani yeh halaat ek bayaan se badal sakte hain.",
+   "Isi pashtabhoomi mein Wednesday ko Cabinet ka faisla ahem lagta hai — 92 GWh grid-scale energy storage ke liye Rs 14,500 crore ki viability gap funding aur lithium-nickel processing ke liye Rs 2,814 crore. Battery aur pumped storage se saur aur pavan urja ko din-raat istemaal karna aasaan hoga, aur processing plant se videshi supply par nirbharta kam ho sakti hai. Yeh tel ka seedha vikalp nahi hai, par lambe samay mein bijli aur parivahan ko aayaat ke jhatkon se bachaane ka raasta yahi hai.",
+   "Asli imtihaan amal ka hoga — tender kitni jaldi niklenge, 40% swadeshi saamaan ki shart kaise poori hogi, aur pumped storage project zameen aur paryavaran manzoori mein kitne saal atkenge. Bazaar ki ek din ki tezi ka jashn theek hai, par sarkaar aur udyog dono ko yaad rakhna chahiye ki asli suraksha doosre deshon ki raajneeti par nahi, apni kshamata par tikti hai."
+  ],
+  "sources": [
+   {
+    "name": "HDFC Sky",
+    "url": "https://hdfcsky.com/news/market-close-report-today-november-5-2026-nifty-sensex-post-blockbuster-gains-as-stocks-continue-to-celebrate-diwali"
+   },
+   {
+    "name": "Rigzone",
+    "url": "https://www.rigzone.com/news/oil_prices_tumble_after_midterms-05-nov-2026-185014-article/"
+   },
+   {
+    "name": "Business Today",
+    "url": "https://www.businesstoday.in/india/story/cabinet-approves-rs-14500-cr-energy-storage-scheme-rs-4371-cr-vistar-plan-850-fast-track-courts-cleared-565711-2026-11-04"
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "india",
+   "name": "India & Politics",
+   "stories": [
+    {
+     "slug": "cabinet-92-gwh-energy-storage-14500-crore-critical-minerals-850-fast-track-courts",
+     "title": "Cabinet ka bada faisla: 92 GWh energy storage ke liye Rs 14,500 crore, lithium-nickel processing ko Rs 2,814 crore; 850 fast-track courts paanch saal aur chalenge",
+     "summary": "PM Modi ki adhyakshata mein Union Cabinet ne urja suraksha, critical minerals, aankda vyavastha (VISTAR) aur balatkaar-POCSO maamlon ki tez sunvaai se jude kai prastaav manzoor kiye. Briefing Ashwini Vaishnaw ne di.",
+     "body": [
+      "Union Cabinet ne Wednesday ko desh mein 92 GWh nayi grid-scale energy storage kshamata banaane ke liye Rs 14,500 crore ki viability gap funding (VGF) yojana ko manzoori di. Varta24 ki report ke mutabik ismein 30 GWh battery storage, 60 GWh pumped storage aur 2 GWh nayi technology shaamil hai, aur yojana FY2026-27 se FY2030-31 tak chalegi. Battery project mein kam se kam 40% swadeshi saamaan istemaal karna hoga. Maqsad hai ki din mein bachi saur aur pavan bijli ko store karke baad mein istemaal kiya ja sake aur grid zyada sthir bane.",
+      "Saath hi Rs 2,814 crore ki ek yojana manzoor hui jiske tahat lithium aur nickel ke do-do processing plant lagaane par yogya nivesh ka 30% tak capital sahayata milegi, taaki electric vehicle aur battery ke liye zaroori khanijon par videshi nirbharta ghate. Business Today ke mutabik Cabinet ne Rs 4,371.10 crore ki 'VISTAR' yojana bhi paas ki, jiske tahat sarkaari aankdon ko digital aur AI ke zariye aadhunik banaaya jaayega aur aathvi Economic Census karaayi jaayegi.",
+      "Cabinet ne balatkaar aur POCSO maamlon ke liye fast-track special courts (FTSC) ki yojana ko paanch saal ke liye badhaane ka faisla bhi kiya. Report ke mutabik ab courts ki sankhya 779 se badhakar 850 hogi aur kul kharch Rs 3,788.04 crore hoga, jismein Kendra ka hissa Nirbhaya Fund se Rs 2,353.15 crore hai. Har court mein ek judicial officer, ek special public prosecutor aur chhah sahayak karmchaari honge."
+     ],
+     "sources": [
+      {
+       "name": "Business Today",
+       "url": "https://www.businesstoday.in/india/story/cabinet-approves-rs-14500-cr-energy-storage-scheme-rs-4371-cr-vistar-plan-850-fast-track-courts-cleared-565711-2026-11-04"
+      },
+      {
+       "name": "Varta24",
+       "url": "https://www.varta24live.com/top-news-old/major-cabinet-decision-to-strengthen-energy-security-two-schemes-worth-17314-crore-approved-721836"
+      },
+      {
+       "name": "The News Mill",
+       "url": "https://thenewsmill.com/2026/11/cabinet-extends-850-fast-track-courts-for-rape-and-child-abuse-cases-approves-92-gwh-energy-storage-and-critical-minerals-scheme/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ashwini_Vaishnaw_Minister_of_IT.jpg",
+      "credit": "Ministry of Electronics & IT",
+      "license": "GODL-India",
+      "source": "https://commons.wikimedia.org/wiki/File:Ashwini_Vaishnaw_Minister_of_IT.jpg",
+      "alt": "Kendriya mantri Ashwini Vaishnaw ki aadhikarik tasveer"
+     }
+    },
+    {
+     "slug": "supreme-court-tirupati-laddu-ghee-milawat-trial-andhra-pradesh-se-bahar-nahi",
+     "title": "Tirupati laddu ghee milawat maamla: Supreme Court ne trial ko Andhra Pradesh se bahar bhejne ki maang thukraai",
+     "summary": "CJI Surya Kant aur Justice Joymalya Bagchi ki bench ne kaha ki is star par trial doosre rajya mein bhejne ka koi aadhaar nahi hai; zaroorat padne par yachikaakarta dobaara adaalat aa sakte hain.",
+     "body": [
+      "Supreme Court ne Thursday ko Tirupati mandir ke laddu mein istemaal ghee mein kathit milawat ke maamle ka trial Andhra Pradesh se bahar transfer karne ki yachika khaarij kar di. IndToday ke mutabik yachika Machindra Shantaram Lanke aur Malganga Milk and Agro Products ne daayar ki thi. Unke vakeel senior advocate Siddharth Dave ne Mukhyamantri Chandrababu Naidu aur Up-Mukhyamantri Pawan Kalyan ke saarvajanik bayaanon ka hawaala dete hue nishpaksh sunvaai par shanka jataai thi.",
+      "Bench ne kaha ki is samay trial ko doosre rajya mein bhejne ka koi aadhaar nahi hai, aur uske pichhle aadesh mein in chintaaon par pehle hi vichaar ho chuka hai. Yeh maamla September 2024 mein tab shuru hua tha jab Naidu ne pichhli YSRCP sarkaar ke dauraan ghee mein pashu charbi milaane ka aarop lagaaya tha. Baad mein Supreme Court ki nigraani mein CBI Director ke tahat SIT bani, jisne January 2026 mein Nellore ki ACB court mein chargesheet daakhil ki. Report ke mutabik jaanch mein charbi nahi mili, balki vanaspati tel aur rasaayanik esters milaane ka aarop lagaaya gaya hai; Enforcement Directorate bhi PMLA ke tahat jaanch kar raha hai."
+     ],
+     "sources": [
+      {
+       "name": "IndToday",
+       "url": "https://www.indtoday.com/supreme-court-rejects-plea-to-shift-tirupati-laddu-case/"
+      },
+      {
+       "name": "LiveLaw",
+       "url": "https://www.livelaw.in/top-stories/livelaw-breaking-news-alerts-05-november-2026-557408"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/A_View_of_Tirumala_Venkateswara_Temple.JPG/1280px-A_View_of_Tirumala_Venkateswara_Temple.JPG",
+      "credit": "Adityamadhav83",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:A_View_of_Tirumala_Venkateswara_Temple.JPG",
+      "alt": "Tirumala Venkateswara mandir ka drishya (file photo)"
+     }
+    },
+    {
+     "slug": "asian-para-games-record-114-medal-pm-modi-khiladiyon-se-mile",
+     "title": "Asian Para Games mein Bharat ke record 114 medal: PM Modi ne khiladiyon se mulaqat kar kaha — 'har khiladi ka is uplabdhi mein yogdaan'",
+     "summary": "Japan ke Aichi-Nagoya mein hue khelon mein Bharat ne 30 gold, 35 silver aur 49 bronze jeete — Hangzhou ke 108 medal se zyada, aur woh bhi aadhe se kam khiladiyon ke saath.",
+     "body": [
+      "Pradhan Mantri Narendra Modi ne Thursday ko New Delhi ke Indira Gandhi Sports Complex mein Asian Para Games 2026 mein hissa lene waale khiladiyon se mulaqat ki. ANI ke mutabik Bharat ne Aichi-Nagoya (Japan) mein record 114 medal jeete — 30 gold, 35 silver aur 49 bronze. Pichhli baar Hangzhou mein 108 medal aaye the. Is baar Bharat ne 168 para-athlete bheje the, jabki Hangzhou mein dal 309 khiladiyon ka tha. Is mauke par Khel Mantri Mansukh Mandaviya bhi maujood the.",
+      "Gold jeetne waalon mein para-badminton mein Nitesh Kumar, para-archery mein Harvinder Singh aur Vijay Sundi ki jodi, javelin mein Sumit, aur club throw mein Games record ke saath Pranav Soorma shaamil hain. Para-shooting mein Mona Agarwal ne 50m rifle 3 positions SH1 mein gold jeeta. Table tennis mein 50 saal ke Jehan Dorab Madan bronze ke saath Bharat ke sabse umardaraaz medal vijeta bane."
+     ],
+     "sources": [
+      {
+       "name": "ANI",
+       "url": "https://www.aninews.in/news/sports/others/pm-modi-interacts-with-indian-para-athletes-after-historic-114-medal-haul-at-asian-para-games-202620261105172923/"
+      },
+      {
+       "name": "IANS",
+       "url": "https://ianslive.in/pm-modi-interacts-with-para-asian-games-participants-receives-special-mementoes--20261105173928"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Narendra_Modi_Portrait_2026.jpg",
+      "credit": "Prime Minister's Office",
+      "license": "GODL-India",
+      "source": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_Portrait_2026.jpg",
+      "alt": "Pradhan Mantri Narendra Modi ki aadhikarik tasveer"
+     }
+    }
+   ],
+   "editorial": {
+    "slug": "fast-track-courts-ka-vistaar-sankhya-nahi-faislon-ki-raftaar-se-naapein",
+    "title": "Fast-track courts ka vistaar zaroori hai, par safalta courts ki ginti se nahi, faislon ki raftaar se naapi jaayegi",
+    "body": [
+     "Balatkaar aur POCSO maamlon ke liye fast-track special courts ko paanch saal aur chalaane aur unki sankhya 850 karne ka Cabinet ka faisla swaagat yogya hai. Aise maamlon mein der sirf peedit ke liye nyay ko taalti nahi, balki gawaahon par dabaav aur parivaar ki takleef bhi badhaati hai.",
+     "Lekin 'fast-track' naam se hi raftaar nahi aati. Forensic report mein der, sarkaari vakeelon ki kami aur baar-baar taarikh badhna — yeh samasyaayein courts ki ginti badhaane se apne aap hal nahi hongi. Yojana mein har court ke liye alag judicial officer aur special public prosecutor ka praavdhaan achha hai; ab Kendra aur rajyon ko yeh bhi saarvajanik karna chahiye ki har court mein kitne maamle kitne samay mein nipte. Bachchon ke liye anukool courts aur gawaahi kendron ka vaada bhi zameen par dikhna chahiye."
+    ]
+   }
+  },
+  {
+   "id": "world",
+   "name": "World & Geopolitics",
+   "stories": [
+    {
+     "slug": "america-midterms-democrats-ne-house-aur-senate-dono-jeete-trump-ko-jhatka",
+     "title": "America midterms: Democrats ne House aur Senate dono par kabza kiya; Trump bole — 'main ballot par hota to hum jeet jaate'",
+     "summary": "NBC News ke anumaan ke mutabik Democrats lagbhag do dashak ka sabse bada House bahumat paayenge; Senate mein kam se kam saat seat palti. Georgia, Ohio, Iowa, Texas aur Nevada mein governor ki kursi bhi Democrats ke haath.",
+     "body": [
+      "Tuesday ko hue midterm chunav ke baad NBC News ne anumaan lagaaya hai ki Democrats ne America Congress ke dono sadan — House of Representatives aur Senate — jeet liye hain. NBC Washington ki report ke mutabik Democrats ne do darjan se zyada House seat palti, jinmein kuch aisi seat bhi hain jahan 2024 mein Trump double digit se jeete the. Senate mein party ne Kansas, Iowa, Texas, Ohio, Maine, North Carolina aur South Carolina mein seat cheeni aur Georgia aur Michigan bachaaye. South Carolina mein Annie Andrews rajya ki pehli mahila Senator chuni gayi hain. Report likhe jaane tak 42 House seat ka nateeja baaki tha.",
+      "Governor ke chunav mein bhi Democrats ne Georgia, Ohio, Iowa, Texas aur Nevada mein Republican-shaasit rajya jeete. President Donald Trump ne Wednesday ko kaha ki agar woh khud ballot par hote to jeet jaate, aur yeh bhi maana ki yeh baat 'kaafi had tak sach' hai ki Iran yuddh se badhi petrol keematon ne Republicans ko nuksaan pahunchaaya. Irish Times (Bloomberg) ke mutabik Senate mein Democratic neta Chuck Schumer ne yuddh khatm karaane ka vaada kiya hai. Naya Congress January mein kaam sambhaalega, jiske baad kharch aur yuddh se jude faislon par Trump prashasan ko kadi chunauti mil sakti hai."
+     ],
+     "sources": [
+      {
+       "name": "NBC Washington",
+       "url": "https://www.nbcwashington.com/elections/election-day-after-2026-midterms-congress-results-live-updates/4177248/"
+      },
+      {
+       "name": "NBC News",
+       "url": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763"
+      },
+      {
+       "name": "The Irish Times",
+       "url": "https://www.irishtimes.com/business/markets/2026/11/05/oil-extends-slide-amid-heightened-hopes-of-end-to-iran-war/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Capitol_Building_Full_View.jpg/1280px-Capitol_Building_Full_View.jpg",
+      "credit": "Noclip",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Capitol_Building_Full_View.jpg",
+      "alt": "Washington DC mein US Capitol ki imaarat (file photo)"
+     }
+    },
+    {
+     "slug": "iran-trump-heavy-hit-chetavni-hormuz-ke-paas-tanker-mine-se-takraaye-irgc-daava",
+     "title": "Trump ki Iran par 'bade hamle' ki chetavni; Tehran bola — Americiyon ne yuddh ko 'NO' kaha; IRGC ka daava, Hormuz ke paas chaar tanker mine se takraaye",
+     "summary": "Ek taraf chunavi haar ke baad yuddh khatm hone ki ummeed hai, doosri taraf Trump ne 'kuch bada karne' ki baat kahi. Iran ke state TV par IRGC ne tankeron ke nasht hone ka daava kiya, jiski svatantra pushti nahi hui hai.",
+     "body": [
+      "Gulf News ki live coverage ke mutabik President Trump ne Fox News se kaha ki America ko Iran ke khilaaf 'kuch bada' karna hoga, aur Financial Times se baatcheet mein kaha ki America zaroorat padne par taiyaar hai. Unhone Qeshm dweep par hamle ki pushti karte hue use 'chhota hamla' bataaya. Haalaanki Irish Times (Bloomberg) ki report ke mutabik Trump ne FT se yeh bhi kaha ki unka turant tanaav badhaane ka koi iraada nahi hai.",
+      "Iran ki taraf se mukhya vaartakaar Mohammad Bagher Ghalibaf ne kaha ki America ki janta ne yuddh ko 'NO' kaha hai aur Tehran is sandesh ka samarthan karta hai. President Masoud Pezeshkian ne kaha ki Iran baatcheet se hal chahta hai, jabki Supreme Leader Mojtaba Khamenei ne chetaaya ki America ne hamle dobaara shuru kiye to yuddh failega. Iran ke state TV par Revolutionary Guards ne daava kiya ki Hormuz ke dakshin mein pratibandhit raaste se guzar rahe chaar tanker naval mine se takraakar nasht ho gaye; jahazon ke naam ya hataahaton ki jaankari nahi di gayi aur is daave ki svatantra pushti nahi hui hai."
+     ],
+     "sources": [
+      {
+       "name": "Gulf News",
+       "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-warns-of-heavy-hit-as-iran-says-americans-voted-no-to-war-1.500735100"
+      },
+      {
+       "name": "The Irish Times",
+       "url": "https://www.irishtimes.com/business/markets/2026/11/05/oil-extends-slide-amid-heightened-hopes-of-end-to-iran-war/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/STS004-37-716_-_Strait_of_Hormuz.jpg/1280px-STS004-37-716_-_Strait_of_Hormuz.jpg",
+      "credit": "NASA",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg",
+      "alt": "Antariksh se Strait of Hormuz ka drishya (NASA, file photo)"
+     }
+    }
+   ],
+   "editorial": {
+    "slug": "america-ka-faisla-yuddh-ke-khilaaf-par-shanti-ab-bhi-pakki-nahi",
+    "title": "America ke votaron ne yuddh ki keemat par faisla sunaaya, par shanti abhi pakki nahi",
+    "body": [
+     "Midterm nateeje saaf sandesh dete hain ki mehngaai aur khaas kar petrol-diesel ki keemat ne votaron ka mood badla. Khud Trump ne maana ki Iran yuddh ne Republicans ko nuksaan pahunchaaya. Lekin naya Congress January mein aayega, aur tab tak videsh neeti par faisle President ke haath mein hi hain.",
+     "Isliye ek hi din mein 'bade hamle' ki chetavni aur 'koi turant iraada nahi' jaise bayaan bazaar aur Khaadi ke deshon — dono ko uljhaate hain. Bharat ke liye, jiske lakhon naagrik Khaadi mein rehte hain aur jiska tel isi raaste se aata hai, sabse zaroori hai ki Washington aur Tehran ke beech baatcheet ka raasta jaldi khule. Chunavi sandesh ko thos kootneeti mein badalna ab dono pakshon ki zimmedari hai."
+    ]
+   }
+  },
+  {
+   "id": "business",
+   "name": "Business & Economy",
+   "stories": [
+    {
+     "slug": "sensex-2009-ank-uchhla-79310-nifty-24536-chhathe-din-tezi",
+     "title": "Dalal Street par dhamaaka: Sensex 2,009 ank uchhal kar 79,310 par, Nifty 576 ank chadh kar 24,536 par band; lagaataar chhathe din tezi",
+     "summary": "America mein Democrats ki jeet ke baad tel sasta hone aur videshi niveshakon ki kharidaari se bazaar mein saat mahine ki sabse badi ek-din ki tezi dikhi. Bajaj Finance, Shriram Finance aur IndiGo sabse aage rahe.",
+     "body": [
+      "HDFC Sky ki report ke mutabik Thursday ko BSE Sensex 2,008.61 ank (2.60%) chadh kar 79,310.01 par aur NSE Nifty 50 576 ank (2.40%) chadh kar 24,536.60 par band hua. Dono index lagaataar chhah session se chadh rahe hain aur is dauraan 8% se zyada upar aaye hain. The United Indian ke mutabik yeh saat mahine mein sabse badi ek-din ki badhat hai. Haalaanki is saal ab tak Nifty lagbhag 6.2% aur Sensex 6.9% neeche hai.",
+      "Tezi ki wajah America ke chunavi nateejon ke baad Brent ka 8.7% girna, aur videshi portfolio niveshakon (FPI) ki Wednesday ko Rs 7,284 crore ki kharidaari rahi — report ke mutabik October 2025 ke baad ek din mein sabse badi. Nifty mein Bajaj Finance (+7.65%), Shriram Finance (+6.08%), Maruti Suzuki (+5.48%) aur InterGlobe Aviation (+5.43%) sabse zyada chadhe, jabki sasta tel ONGC (-2.13%) jaise tel utpaadakon par bhaari pada. 16 mein se 14 sector hare nishaan mein band hue; Auto aur Capital Market index 4% se zyada chadhe. Yeh jaankari sirf soochna ke liye hai, nivesh salaah nahi."
+     ],
+     "sources": [
+      {
+       "name": "HDFC Sky",
+       "url": "https://hdfcsky.com/news/market-close-report-today-november-5-2026-nifty-sensex-post-blockbuster-gains-as-stocks-continue-to-celebrate-diwali"
+      },
+      {
+       "name": "The United Indian",
+       "url": "https://www.theunitedindian.com/news/crude-oil-prices-sensex-nifty-stock-market-rally-november-5-2026"
+      },
+      {
+       "name": "InvestingCube",
+       "url": "https://www.investingcube.com/indices/sensex-surges-over-2000-points-today-why-indian-stocks-are-rallying-after-the-us-midterms/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BSE_-_Bombay_Stock_Exchange_Building.jpg/1280px-BSE_-_Bombay_Stock_Exchange_Building.jpg",
+      "credit": "Niyantha Shekhar",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:BSE_-_Bombay_Stock_Exchange_Building.jpg",
+      "alt": "Mumbai mein Bombay Stock Exchange ki imaarat (file photo)"
+     }
+    },
+    {
+     "slug": "brent-8-7-pratishat-gira-94-dollar-ke-paas-iran-yuddh-khatm-hone-ki-ummeed",
+     "title": "Midterms ke baad tel dhadaam: Brent ek din mein 8.7% gir kar $94.62 par; pichhle hafte $117 se upar tha",
+     "summary": "Bazaar ko ummeed hai ki Congress mein Democrats ke aane se Iran yuddh jaldi khatm hoga. Par analyst chetaa rahe hain ki giravat 'ummeedon' par hai, kisi samjhaute par nahi.",
+     "body": [
+      "Rigzone ki report ke mutabik Wednesday ko Brent kachcha tel 8.7% gir kar $94.62 prati barrel par aur WTI 8.3% gir kar $88.12 par settle hua. Thursday ko Brent kareeb $94 ke aaspaas raha, jabki pichhle hafte yeh $117 se upar tha. Saxo Bank ke Ole Hansen ke mutabik teen din mein tel $11 sasta hua hai kyunki bazaar maan raha hai ki Trump Middle East sangharsh khatm karna chahenge. Irish Times (Bloomberg) ke mutabik Persian Gulf se crude export mein sudhaar bhi keemat par dabaav daal raha hai.",
+      "Saath hi kai analyst saavdhaan hain. Saxo Bank ne kaha ki giravat thos pragati se zyada ummeedon par aayi hai aur tel phir chadh sakta hai; Zaye Capital ke Naeem Aslam ne bikvaali ko 'zaroorat se zyada' bataaya. America mein diesel ka stock 2003 ke baad sabse kam star par hai. Bharat ke liye sasta tel import bill aur mehngaai dono ke liye raahat hai, lekin yeh raahat Khaadi ke halaat par tiki rahegi."
+     ],
+     "sources": [
+      {
+       "name": "Rigzone",
+       "url": "https://www.rigzone.com/news/oil_prices_tumble_after_midterms-05-nov-2026-185014-article/"
+      },
+      {
+       "name": "The Irish Times",
+       "url": "https://www.irishtimes.com/business/markets/2026/11/05/oil-extends-slide-amid-heightened-hopes-of-end-to-iran-war/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/An_oil_tanker%2C_Cochin_Oil_Terminal.jpg/1280px-An_oil_tanker%2C_Cochin_Oil_Terminal.jpg",
+      "credit": "Rangan Datta Wiki",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:An_oil_tanker,_Cochin_Oil_Terminal.jpg",
+      "alt": "Cochin Oil Terminal par ek tel tanker (file photo)"
+     }
+    }
+   ],
+   "editorial": {
+    "slug": "fpi-ki-vaapsi-swaagat-par-tezi-ki-buniyaad-ghareloo-honi-chahiye",
+    "title": "Videshi niveshakon ki vaapsi achhi khabar hai, par tezi ki buniyaad ghareloo honi chahiye",
+    "body": [
+     "Is saal videshi niveshak Bharat se record raqam nikaal chuke hain, isliye chaar din lagaataar unki kharidaari aur ek din mein Rs 7,284 crore ka nivesh bazaar ke liye bada sanket hai. Sasta tel Bharatiya companiyon ke margin aur mehngaai ke liye bhi achha hai.",
+     "Lekin chhah din mein 8% ki tezi ka bada hissa bahari ghatnaaon par tika hai — America ki raajneeti aur Iran yuddh ki disha. Agar tel phir $100 ke paar gaya to yeh raunak jaldi utar sakti hai. Isliye kamaai ke aankde, ghareloo maang aur sudhaaron ki raftaar par nazar rakhna zyada zaroori hai. Chhote niveshakon ke liye sabak yahi hai ki ek din ki chhalaang dekh kar jaldbaazi na karein."
+    ]
+   }
+  },
+  {
+   "id": "tse",
+   "name": "Tech, Sports & Entertainment",
+   "stories": [
+    {
+     "slug": "ramayana-part-1-release-darshakon-ne-vfx-sangeet-ki-taareef-ki-shuruaati-anumaan",
+     "title": "'Ramayana: Part 1' duniya bhar mein release: darshakon ne VFX, Ranbir aur Yash ki taareef ki; pehle din ke shuruaati anumaan Rs 22 crore net ke paar",
+     "summary": "Nitesh Tiwari ki film mein Ranbir Kapoor Ram, Sai Pallavi Sita aur Yash Ravan bane hain. A.R. Rahman aur Hans Zimmer ne pehli baar saath sangeet diya hai; Part 2 Diwali 2027 mein aayega.",
+     "body": [
+      "Nitesh Tiwari ke nirdeshan mein bani 'Ramayana: Part 1' Thursday, 5 November ko duniya bhar ke cinemaghar mein release ho gayi. ANI ke mutabik pehle din ke darshakon ne film ke visual effects, bhavya paimaane aur khaas taur par Jatayu yuddh ke drishya ki taareef ki, saath hi Ranbir Kapoor ke Ram aur Yash ke Ravan ko saraaha. Film Namit Malhotra ki Prime Focus Studios ne DNEG aur Yash ki Monster Mind Creations ke saath banaai hai, aur A.R. Rahman aur Hans Zimmer ne pehli baar saath milkar sangeet diya hai — Zimmer ka yeh Bharatiya cinema mein debut hai.",
+      "Box office par Argus English ki report ke mutabik din ke dauraan ke shuruaati anumaanon mein film ne Bharat mein lagbhag Rs 22.60 crore net (Rs 26.67 crore gross) kamaaye the, jismein Hindi version ka hissa Rs 16.04 crore tha; din ke ant ke aankde isse alag ho sakte hain. Report ke mutabik advance booking Rs 42.96 crore gross tak pahunchi thi. Film ka doosra bhaag Diwali 2027 mein release hona tay hai."
+     ],
+     "sources": [
+      {
+       "name": "ANI",
+       "url": "https://www.aninews.in/news/entertainment/bollywood/ramayana-part-1-first-day-reactions-audiences-hail-ranbir-kapoors-film-as-a-visual-masterpiece20261105143608/"
+      },
+      {
+       "name": "Argus English",
+       "url": "https://argusenglish.in/entertainment/ramayana-part-1-ranbir-kapoor-yash-starrer-opens-with-rs-2667-crore-worldwide-gross"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Ranbir_Kapoor_in_April_2024_%28cropped%29.jpg",
+      "credit": "Bollywood Hungama",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ranbir_Kapoor_in_April_2024_(cropped).jpg",
+      "alt": "Abhineta Ranbir Kapoor (April 2024 ki file photo)"
+     }
+    },
+    {
+     "slug": "auckland-odi-kohli-74-india-5-wicket-se-jeeta-series-mein-1-0",
+     "title": "Auckland ODI: Kohli ki 51 gend mein 74 run ki pari, Arshdeep ke 3 wicket; India ne New Zealand ko DLS se 5 wicket se haraaya",
+     "summary": "New Zealand 185 par simti, India ne 22.4 over mein 143/5 bana kar 56 gend baaki rehte jeet darj ki. Doosra ODI Saturday, 7 November ko Wellington mein.",
+     "body": [
+      "Eden Park, Auckland mein Wednesday ko paanch match ki series ke pehle ODI mein India ne New Zealand ko DLS method se 5 wicket se haraakar 1-0 ki badhat le li. VAVEL ki live coverage ke mutabik pehle ballebaazi karte hue New Zealand 40.2 over mein 185 par all out ho gayi; Tim Seifert ne 38 aur Blair Tickner ne 34 run banaaye. India ki taraf se Arshdeep Singh ne 3 wicket liye, jabki Gurnoor Brar aur Anshul Kamboj ko bhi safalta mili.",
+      "Jawab mein Virat Kohli ne 51 gend mein 74 run ki tez pari kheli aur kaptaan Shubman Gill ne 37 run jode. Kohli ke out hone ke baad bhi India ne 22.4 over mein 143/5 bana kar jeet pakki ki. New Zealand ki taraf se Jacob Duffy ne 3 wicket liye. Yahoo Sports ke mutabik series ka doosra mukaabla Saturday, 7 November ko Wellington mein Bharatiya samay subah 7:30 baje se khela jaayega."
+     ],
+     "sources": [
+      {
+       "name": "VAVEL",
+       "url": "https://www.vavel.com/en/cricket/2026/11/04/1277903-new-zealand-vs-india-1st-odi-live-score-updates-scorecard-and-ball-by-ball.html"
+      },
+      {
+       "name": "Yahoo Sports",
+       "url": "https://sports.yahoo.com/articles/ind-vs-nz-1st-odi-003001257.html"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Virat_Kohli_portrait.jpg/1280px-Virat_Kohli_portrait.jpg",
+      "credit": "Anand Anil",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Virat_Kohli_portrait.jpg",
+      "alt": "Cricketer Virat Kohli (file photo)"
+     }
+    },
+    {
+     "slug": "ai-se-bharat-ki-gdp-mein-das-saal-mein-79-billion-dollar-ka-izafa-report",
+     "title": "AI das saal mein Bharat ki GDP mein $79 billion tak jod sakta hai: Ayre Think Tank ki report; 89% yuva AI istemaal karna chahte hain",
+     "summary": "Commonwealth deshon par aadhaarit vishleshan mein Bharat ko doosra sabse bada aarthik avsar bataaya gaya, par anaupchaarik rozgaar aur device tak asamaan pahunch ko chunauti maana gaya.",
+     "body": [
+      "IANS ki report ke mutabik Calvin Ayre dwara sthaapit Ayre Think Tank ke ek vishleshan mein anumaan lagaaya gaya hai ki madhyam paristhiti mein AI agle das saal mein Bharat ki GDP mein lagbhag $79.1 billion jod sakta hai. Report mein saavdhaan anumaan $39.6 billion aur aashavaadi anumaan $118.7 billion rakha gaya hai. Bharat 56 Commonwealth deshon mein 11ve sthaan par hai aur doosra sabse bada aarthik avsar bataaya gaya hai.",
+      "Report ke mutabik lagbhag 89% Bharatiya yuva ek saal ke andar padhaai ya kaam mein AI ka istemaal karna chahte hain, lekin lagbhag 30% yuva na naukri mein hain, na padhaai ya training mein, aur 86% yuva kaamgar anaupchaarik kshetra mein hain. Report ne sasti technology, kaushal-aadhaarit shiksha, sthaaniya bhaashaon ke AI tools aur automated faislon ko chunauti dene ke adhikaar jaise suraksha upaayon ki sifaarish ki hai. Report ki gananaa paddhati ka vistaar se zikr nahi kiya gaya hai."
+     ],
+     "sources": [
+      {
+       "name": "IANS",
+       "url": "https://ianslive.in/ai-could-add-79-billion-to-indias-economy-in-a-decade-report--20261105103919"
+      }
+     ]
+    }
+   ],
+   "editorial": {
+    "slug": "para-khiladiyon-ki-safalta-sammaan-ke-saath-suvidhaayein-bhi",
+    "title": "Para-khiladiyon ki record safalta ke baad sammaan ke saath saal bhar ki suvidhaayein bhi chahiye",
+    "body": [
+     "Aadhe se kam khiladiyon ke saath pichhli baar se zyada medal jeetna dikhata hai ki Bharat ke para-khel mein gunvatta badh rahi hai. Pradhan Mantri ka khiladiyon se milna unke mehnat ko pehchaan deta hai, aur 50 saal ki umr mein medal jeetne waale Jehan Dorab Madan jaise khiladi prerna hain.",
+     "Lekin Hangzhou ke medal doping ke kaaran chhinne ki ghatna yaad dilaati hai ki saaf-suthra khel aur sahi margdarshan utna hi zaroori hai. Zila star par sulabh stadium, coach aur upkaran, aur khiladiyon ke liye bharosemand aarthik madad — yahi agle Paralympics ki asli taiyaari hogi."
+    ]
+   }
+  }
+ ]
+}
