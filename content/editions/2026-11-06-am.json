@@ -1,0 +1,371 @@
+{
+ "edition": "Subah Edition",
+ "updated": "2026-11-06T07:00:00+05:30",
+ "ticker": [
+  "DRDO ne 'Pralay' missile ka safal user trial kiya; Rajnath bole — swadeshi raksha kshamata mein ek aur padaav",
+  "Wall Street mein bhoochaal: Nasdaq 5.5% aur Dow 1,833 ank gira, AI shares par bikwaali",
+  "Iran ne Qatar ke zariye America ko nuclear prastaav bheja; Trump bole — 'hamari manzoori ke bina kuch nahi'",
+  "Hockey: Japan ko 4-1 se haraakar Bharat ne record chhathi baar jeeti Asian Champions Trophy",
+  "'Ramayana: Part 1' ka pehle din ka live anumaan Rs 64 crore net ke paar; Ronaldo ne Portugal se sanyaas liya"
+ ],
+ "lead_editorial": {
+  "slug": "ai-ki-chamak-aur-bazaar-ka-darr-bharat-ke-liye-sabak",
+  "title": "AI ki chamak aur bazaar ka darr: ek din mein bikharti umeedein Bharat ko kya sikhaati hain",
+  "kicker": "Hamari Raay",
+  "summary": "Wall Street par AI se jude sharon ki bhaari girawat yaad dilaati hai ki technology ki daud sirf sapnon par nahi, bijli, neeti aur bharose par chalti hai. Bharat ko apni AI aur data centre neeti isi hakeekat ke hisaab se banaani chahiye.",
+  "body": [
+   "Thursday ko America ke share bazaar mein jo hua, woh sirf ek kharab din nahi tha. Nasdaq 5.52% gira aur Fox Business ke mutabik semiconductor index 12% se zyada toot gaya. Wajah koi company ka ghotala ya mandi ka aankda nahi tha, balki yeh sawaal tha ki midterm chunav ke baad AI data centres ke vistaar par niyam aur bijli ki keemat kya rukh lenge. Yaani AI ki poori kahani ab ek buniyaadi cheez se bandhi hai — sasti aur bharose laayak bijli, aur saaf neeti.",
+   "Bharat ke liye yeh sabak seedha hai. Desh mein bhi data centre aur AI ke bade elaan ho rahe hain, aur sarkaar renewable urja mein tezi ka daava kar rahi hai. Lekin agar data centres bijli grid par bojh banenge, ya ghar-gharon ke bijli bill badhayenge, to wahi rajneetik virodh yahan bhi khada ho sakta hai jo America mein dikh raha hai. Isliye AI ki yojana ko urja yojana se alag nahi dekha ja sakta.",
+   "Doosra sabak bazaar ke mood ka hai. Ek din pehle tak wahi shares tezi mein the; ek chunavi nateeje ke baad hawa badal gayi. Videshi paise ki aavajahi par tiki tezi utni hi tezi se palat bhi sakti hai. Niveshakon ko kya karna chahiye, yeh hum nahi bataate — par neeti banaane waalon ko yeh samajhna chahiye ki lambi avadhi ka bharosa sthir niyam aur paardarshi faislon se banta hai, suchnaon ki sansani se nahi.",
+   "AI ka bhavishya khatam nahi hua hai, aur na hi ek din ki girawat se koi antim faisla hota hai. Par yeh ghanti zaroor hai ki technology ki daud mein jeet unki hogi jo bijli, zameen, paani aur logon ki chinta ko pehle se yojana mein jagah dete hain. Bharat ke paas abhi samay hai ki woh doosron ki galtiyon se seekhe, unhe dohraaye nahi."
+  ],
+  "sources": [
+   {
+    "name": "JournalArta Global",
+    "url": "https://journalarta.com/en/2026/11/06/wall-street-close-nasdaq-sinks-5-52-and-sp-500-falls-4-36-as-ai-stocks-slide/"
+   },
+   {
+    "name": "Fox Business",
+    "url": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"
+   },
+   {
+    "name": "News On AIR",
+    "url": "https://newsonair.gov.in/renewable-energy-investments-expected-to-exceed-220-bn-by-2030-says-pralhad-joshi/"
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "india",
+   "name": "India & Politics",
+   "stories": [
+    {
+     "slug": "drdo-pralay-missile-user-trial-safal-induction-kareeb",
+     "title": "DRDO ne 'Pralay' missile ka safal flight test kiya: user evaluation trial ke saare lakshya poore, sena mein shaamil hone ka raasta saaf",
+     "summary": "Odisha tat ke paas Dr APJ Abdul Kalam Island se swadeshi quasi-ballistic missile 'Pralay' ka user evaluation trial hua. Raksha Mantralaya ke mutabik test ke sabhi uddeshya pure hue aur ab iska induction kareeb hai.",
+     "body": [
+      "Raksha Anusandhan aur Vikas Sangathan (DRDO) ne Thursday ko Odisha ke tat ke paas Dr APJ Abdul Kalam Island se quasi-ballistic missile 'Pralay' ka flight test kiya. News On AIR ki report ke mutabik yeh test user evaluation trials ka hissa tha aur ismein DRDO ke varishth adhikari, industry ke pratinidhi aur sena ke karmi maujood the. Missile ko Hyderabad ke Research Centre Imarat ne DRDO ki doosri labs ke saath milkar banaaya hai.",
+      "Raksha Mantralaya ne kaha ki Integrated Test Range, Chandipur ke upkaranon se mile data ne pushti ki hai ki test ke sabhi lakshya poori tarah haasil hue. Report ke mutabik ab is system ka sena mein induction kareeb hai. Raksha Sachiv aur DRDO Chairman Rajesh Kumar Singh ne test se judi teamon ko badhaai di.",
+      "Raksha Mantri Rajnath Singh ne is safal trial ko desh ki swadeshi raksha kshamata majboot karne ki disha mein ek aur ahem padaav bataaya. Raksha Mantralaya ne test ki tasveerein bhi jaari ki hain."
+     ],
+     "sources": [
+      {
+       "name": "News On AIR",
+       "url": "https://newsonair.gov.in/drdo-successfully-tests-indigenously-developed-pralay-missile/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/DRDO_successfully_conducted_flight_test_of_Pralay_ballistic_missile_on_November_5%2C_2026.jpg/1280px-DRDO_successfully_conducted_flight_test_of_Pralay_ballistic_missile_on_November_5%2C_2026.jpg",
+      "credit": "Ministry of Defence",
+      "license": "GODL-India",
+      "source": "https://commons.wikimedia.org/wiki/File:DRDO_successfully_conducted_flight_test_of_Pralay_ballistic_missile_on_November_5%2C_2026.jpg",
+      "alt": "Odisha tat ke paas Pralay missile ka flight test, 5 November 2026 (Raksha Mantralaya ki tasveer)"
+     }
+    },
+    {
+     "slug": "ugc-equity-regulations-2026-kendra-samiti-supreme-court",
+     "title": "Campus mein bhedbhaav rokne waale UGC ke 2026 niyamon ki samiksha karegi nayi samiti: Kendra ne Supreme Court ko bataaya",
+     "summary": "Rohith Vemula aur Payal Tadvi ki maaon ki 2019 ki yachikaon par sunvaai mein Solicitor General ne kaha ki sarkaar chhatron ki chintaon par vichaar kar rahi hai. Adaalat ne maamla chaar hafte ke liye taal diya.",
+     "body": [
+      "Kendra sarkaar ne Supreme Court ko bataaya hai ki woh University Grants Commission (UGC) ke 2026 ke 'equity regulations' ki samiksha ke liye ek vishesh samiti bana rahi hai. News On AIR ke mutabik yeh baat Chief Justice Surya Kant aur Justice Joymalya Bagchi ki bench ke saamne Solicitor General Tushar Mehta ne rakhi. Unhone kaha ki sarkaar chhatron ki chintaon ko door karne ke upaayon par vichaar kar rahi hai.",
+      "Yeh yachikaayein 2019 mein Rohith Vemula aur Payal Tadvi ki maaon ne daakhil ki thi. Dono ki maut ho gayi thi aur aarop hai ki unhe campus par jaatigat bhedbhaav jhelna pada tha. Yachikaon mein uchch shiksha sansthanon mein majboot suraksha vyavastha ki maang ki gayi hai.",
+      "UGC ne January 2026 mein naye niyam notify kiye the jo 2012 ke dhaanche ki jagah lene waale the. Report ke mutabik baad mein Supreme Court ne aspasht praavdhaanon aur durupyog ki aashanka ka hawaala dete hue 2026 ke niyamon par rok laga di thi aur antarim taur par 2012 ke niyam laagu kar diye the. Adaalat ne ab maamla chaar hafte ke liye taal diya hai aur kaha hai ki yuva chhatron ka hit vichaar ke kendra mein rehna chahiye."
+     ],
+     "sources": [
+      {
+       "name": "News On AIR",
+       "url": "https://newsonair.gov.in/centre-sets-up-panel-to-review-ugcs-2026-equity-regulations/"
+      },
+      {
+       "name": "LiveLaw",
+       "url": "https://www.livelaw.in/top-stories/supreme-court-daily-round-up-november-5-2026-557541"
+      }
+     ]
+    },
+    {
+     "slug": "vikram-misri-kathmandu-balen-shah-mulaqat",
+     "title": "Videsh Sachiv Vikram Misri ne Kathmandu mein Nepal ke PM Balen Shah se mulaqat ki; connectivity aur vyapaar par charcha",
+     "summary": "Do din ki aadhikarik yatra par Nepal pahunche Misri ne Singha Durbar mein PM Shah se shishtachaar bhent ki. Nepal PM ke sachivalay ke mutabik dono paksh ne rishton ko vistaar dene par baat ki.",
+     "body": [
+      "Bharat ke Videsh Sachiv Vikram Misri ne Thursday subah Kathmandu ke Singha Durbar mein Nepal ke Pradhan Mantri Balen Shah se mulaqat ki. OnlineKhabar ki report ke mutabik Misri Wednesday ko do din ki aadhikarik yatra par Nepal pahunche the, aur yeh mulaqat ek shishtachaar bhent thi.",
+      "Pradhan Mantri ke sachivalay ne bataaya ki baatcheet mein aapsi hit, connectivity, vyapaar aur saanskritik rishton par charcha hui. Report ke mutabik Misri ne Nepal ke vikas aur samriddhi mein sahyog jaari rakhne ki Bharat sarkaar ki pratibaddhata dohraayi.",
+      "Yeh mulaqat isliye bhi ahem hai kyonki is saal ki shuruaat mein Misri ki prastaavit Nepal yatra taal di gayi thi. Nepali media mein PM Shah ki sambhavit Bharat yatra ki charcha hai, haalaanki uski taarikh abhi tay nahi bataayi gayi hai."
+     ],
+     "sources": [
+      {
+       "name": "OnlineKhabar",
+       "url": "https://english.onlinekhabar.com/shah-meets-secretary-misri.html"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Foreign_Secretary_Shri_Vikram_Misri.jpg/1280px-Foreign_Secretary_Shri_Vikram_Misri.jpg",
+      "credit": "Ministry of Defence",
+      "license": "GODL-India",
+      "source": "https://commons.wikimedia.org/wiki/File:Foreign_Secretary_Shri_Vikram_Misri.jpg",
+      "alt": "Videsh Sachiv Vikram Misri ki file tasveer (May 2025)"
+     }
+    }
+   ],
+   "editorial": {
+    "slug": "campus-bhedbhaav-samiti-se-aage-thos-suraksha-chahiye",
+    "title": "Campus par bhedbhaav ka sawaal samitiyon mein na atke; chhatron ko thos aur saaf suraksha chahiye",
+    "body": [
+     "UGC ke 2026 ke equity niyamon par nayi samiti banaane ka Kendra ka faisla ek mauka bhi hai aur khatra bhi. Mauka isliye ki Supreme Court ne niyamon mein aspashtata aur durupyog ki aashanka jataayi thi, aur unhe sudhaarna zaroori hai. Khatra isliye ki samitiyaan aksar faislon ko saalon tak taal deti hain, jabki yeh maamla 2019 se adaalat mein hai.",
+     "Achhe niyam wahi honge jo shikaayat karne waale chhatron ko surakshit raasta dein aur saath hi kisi par bina sunvaai ke aarop na thopein. Iske liye samayseema, swatantra jaanch aur paardarshi report — yeh teeno cheezein zaroori hain. Samiti mein chhatron, shikshakon aur samaajik nyay ke jaankaaron ki awaaz bhi honi chahiye.",
+     "Adaalat ne sahi kaha ki yuva chhatron ka hit kendra mein rehna chahiye. Sarkaar ko chaar hafte ki is avadhi ko thos prastaav ke saath poora karna chahiye, taaki campus par baraabari ka vaada sirf kaagaz par na rahe."
+    ]
+   }
+  },
+  {
+   "id": "world",
+   "name": "World & Geopolitics",
+   "stories": [
+    {
+     "slug": "iran-qatar-ke-zariye-america-ko-nuclear-prastaav-trump-manzoori",
+     "title": "Iran ne Qatar ke zariye America ko nuclear prastaav bheja; Trump bole — 'hamari manzoori ke bina woh kuch nahi kar sakte'",
+     "summary": "Reuters se baat karne waale ek varishth Iranian adhikari ke mutabik Washington prastaav ki samiksha kar raha hai. Iran ka kehna hai ki woh tabhi baat karega jab America uski saat shartein maane.",
+     "body": [
+      "Jerusalem Post ne Reuters ke hawaale se bataaya ki Iran ne Qatar ke zariye America ko apne parmaanu karyakram par ek prastaav bheja hai. Naam na chhapne ki shart par ek varishth Iranian adhikari ne kaha ki America is prastaav ki samiksha kar raha hai. Prastaav ki shartein saarvajanik nahi ki gayi hain. Iran ka kehna hai ki is par charcha tabhi hogi jab Washington uski saat maangein poori kare, jinmein report ke mutabik pratibandh hataana, rukii hui sampatti chhodna aur yuddh ka harjaana shaamil hai.",
+      "Oval Office mein patrakaron ke sawaal par President Trump ne kaha ki Iran 'hamari manzoori ke bina kuch nahi kar raha' aur use parmaanu hathiyaar nahi milega. Times of Israel ke liveblog ke mutabik Trump ne yeh bhi kaha ki woh Iran ke baaki hisse ko tabaah nahi karna chahte, 'par shaayad karna pade'.",
+      "i24NEWS ne New York Times ke hawaale se bataaya ki paanch adhikariyon ke mutabik Iran madhyasthon ke prastaavon par vichaar kar raha hai, aur Qatar Tehran par koi thos parmaanu riyaayat dene ka dabaav bana raha hai. Iran ke suraksha pramukh Mohsen Rezaei ne Russia yatra ke dauraan kaha ki shartein maane jaane tak na Hormuz khulega, na baatcheet hogi. Kisi bhi paksh ne abhi kisi samjhaute ko sweekaar nahi kiya hai."
+     ],
+     "sources": [
+      {
+       "name": "The Jerusalem Post",
+       "url": "https://www.jpost.com/middle-east/article-914025"
+      },
+      {
+       "name": "i24NEWS",
+       "url": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iran-weighs-nuclear-proposals-as-qatar-pushes-to-avert-renewed-us-strikes-report"
+      },
+      {
+       "name": "The Times of Israel",
+       "url": "https://www.timesofisrael.com/liveblog-november-06-2026/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Doha_West_Bay_Skyline_Qatar_Jan_2020.jpg/1280px-Doha_West_Bay_Skyline_Qatar_Jan_2020.jpg",
+      "credit": "Thameur Belghith",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Doha_West_Bay_Skyline_Qatar_Jan_2020.jpg",
+      "alt": "Qatar ki rajdhani Doha ka West Bay skyline (2020 ki file tasveer)"
+     }
+    },
+    {
+     "slug": "turkey-sansad-mecca-raksha-samjhauta-saudi-pakistan",
+     "title": "Turkey ki sansad ne Saudi Arabia aur Pakistan ke saath 'Mecca Joint Defence Agreement' ko manzoori di; ek par hamla, sab par hamla",
+     "summary": "Pact ko 279 ke mukaable 119 voton se ratify kiya gaya. Al Jazeera ke mutabik iska Article 2 NATO ke Article 5 jaisa hai, haalaanki Turkish adhikariyon ka kehna hai ki fauj bhejne ke liye alag manzoori chahiye hogi.",
+     "body": [
+      "Turkey ki sansad ne Thursday ko Saudi Arabia aur Pakistan ke saath hue 'Mecca Joint Defence Agreement' ko 279 ke mukaable 119 voton se ratify kar diya. Al Jazeera ki report ke mutabik teeno deshon ne is samjhaute par 7 August 2026 ko Mecca mein dastakhat kiye the. 16 articles waale is pact ke Article 2 ke tahat kisi ek sadasya par hamla hone par baaki sadasyon ko turant madad deni hogi — jo NATO ke Article 5 jaisa praavdhaan hai.",
+      "Samjhaute mein raksha udyog sahyog, sainya taal-mel, sanyukt training aur khufiya jaankari saajha karna bhi shaamil hai. Sadasya das saal tak bandhe rahenge, aur maujooda sadasyon ki manzoori se doosre desh bhi jud sakte hain. Report ke mutabik Syria ne isme dilchaspi dikhaai hai.",
+      "Saudi Arabia haal ke mahinon mein Iran-samarthit Houthi hamlon ka saamna kar raha hai. Turkey ke Raksha Mantri Yasar Guler ne kaha ki unka desh Houthis se kisi sangharsh mein utarne ki ummeed nahi karta aur samarthan ka maqsad pratirodh majboot karna hoga. Jaankaaron ke mutabik fauj tainaat karne ke liye aage alag kaanooni kadam zaroori honge. Pakistan ke is gathbandhan mein hone ki wajah se Bharat mein bhi is samjhaute par nazar rakhi ja rahi hai."
+     ],
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement"
+      },
+      {
+       "name": "The Jerusalem Post",
+       "url": "https://www.jpost.com/middle-east/article-914024"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Building_of_the_Grand_National_Assembly_of_Turkey.jpg/1280px-Building_of_the_Grand_National_Assembly_of_Turkey.jpg",
+      "credit": "Clemens Holzmeister (1893-1983) Makril",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Building_of_the_Grand_National_Assembly_of_Turkey.jpg",
+      "alt": "Ankara mein Turkey ki Grand National Assembly ki imaarat (file tasveer)"
+     }
+    }
+   ],
+   "editorial": {
+    "slug": "iran-america-baatcheet-ka-darwaaza-khula-rehna-chahiye",
+    "title": "Shartein aur dhamkiyaan apni jagah, par Iran-America baatcheet ka darwaaza khula rehna chahiye",
+    "body": [
+     "Iran ka Qatar ke zariye prastaav bhejna aur America ka use padhna, dono is baat ke sanket hain ki band kamron mein kootneeti zinda hai. Lekin saath hi dono taraf se kadi shartein aur sakht bayaan bhi aa rahe hain. Aise mein khatra yeh hai ki saarvajanik bayaanbaazi hi baatcheet ka raasta band kar de.",
+     "Bharat ke liye is yuddh ka asar seedha hai — tel ki keemat, Khaadi mein rehne waale lakhon Bharatiyon ki suraksha aur Hormuz ke raaste vyapaar. Isliye Bharat ko shanti ki koshishon ka khula samarthan karna chahiye aur Qatar jaise madhyasthon ke saath sampark banaaye rakhna chahiye.",
+     "Itihaas batata hai ki lambe yuddh ka ant aksar chhote, bharose badhaane waale kadmon se hota hai. Agar madhyasth teen din ke aise kadmon ka khaaka bana rahe hain, to dono pakshon ko use ek mauka dena chahiye."
+    ]
+   }
+  },
+  {
+   "id": "business",
+   "name": "Business & Economy",
+   "stories": [
+    {
+     "slug": "wall-street-crash-nasdaq-5-5-pratishat-dow-1833-ank-ai-shares",
+     "title": "Wall Street mein bhoochaal: Nasdaq 5.52% aur Dow 1,833 ank gira; AI aur chip shares par bhaari bikwaali, Nvidia 9% toota",
+     "summary": "Midterm nateejon ke baad ek din ki tezi poori tarah dhul gayi. Fox Business ke mutabik Nasdaq ab apne October ke record se 10% se zyada neeche, yaani 'correction' mein hai.",
+     "body": [
+      "America ke share bazaar mein Thursday ko bhaari girawat aayi. JournalArta ki report ke mutabik Nasdaq Composite 1,421.52 ank (5.52%) gir kar 24,315 par, S&P 500 4.36% gir kar 7,353.73 par aur Dow Jones 1,833.06 ank (3.44%) gir kar 51,523.06 par band hua. Report ke mutabik yeh Nasdaq ki 19 mahine ki sabse badi ek-dini girawat hai.",
+      "Fox Business ke mutabik Philadelphia Semiconductor Index 12% se zyada gira. Nvidia lagbhag 9.26%, Tesla 10.77% aur SpaceX 9.05% tak phisle. Bazaar ko chinta hai ki midterm mein Democrats ki jeet ke baad AI niyamon aur data centre nirmaan par kya asar padega; kuch Democrats ne bijli ki badhti keemat ke chalte naye data centre projects par rok ya pabandi ki maang ki hai. Analysts ke mutabik bazaar maan raha hai ki AI infrastructure ka vistaar ab dheema aur mehenga ho sakta hai.",
+      "Isse pehle Thursday ko hi Asia mein bhi chip shares dabaav mein the. Investing.com ke mutabik South Korea ka KOSPI 5.3% gira aur trading par roak lagaani padi, jabki Samsung Electronics 7.6% aur SK Hynix 9.5% toote. Usi din Bharat mein Sensex 2,009 ank chadh kar band hua tha, isliye aaj Dalal Street par Wall Street ki girawat ke asar par nazar rahegi."
+     ],
+     "sources": [
+      {
+       "name": "JournalArta Global",
+       "url": "https://journalarta.com/en/2026/11/06/wall-street-close-nasdaq-sinks-5-52-and-sp-500-falls-4-36-as-ai-stocks-slide/"
+      },
+      {
+       "name": "Fox Business",
+       "url": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"
+      },
+      {
+       "name": "Investing.com",
+       "url": "https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-chip-rout-triggers-kospi-trading-halt-china-outperforms-5002134"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wall_Street_-_New_York_Stock_Exchange.jpg/1280px-Wall_Street_-_New_York_Stock_Exchange.jpg",
+      "credit": "Carlos Delgado",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Wall_Street_-_New_York_Stock_Exchange.jpg",
+      "alt": "New York ke Wall Street par New York Stock Exchange ki imaarat (file tasveer)"
+     }
+    },
+    {
+     "slug": "q2-nateeje-lic-ongc-titan-airtel-mm-britannia",
+     "title": "Q2 nateejon ki baarish: LIC ka munafa 20% badha, ONGC ka 57% uchhla aur Rs 8 dividend; Titan ka munafa dogne se zyada",
+     "summary": "Thursday ko kai badi companiyon ne July-September timahi ke nateeje jaari kiye. Bharti Airtel, M&M aur Britannia ne bhi munafe mein badhat dikhaai.",
+     "body": [
+      "Upstox ke liveblog ke mutabik LIC ka consolidated net munafa September timahi mein 20% badhkar Rs 12,115 crore raha, jo saal bhar pehle Rs 10,098 crore tha. Uski net premium income 16.2% badhkar Rs 1.47 lakh crore rahi. ONGC ka standalone munafa 57.3% uchhal kar Rs 15,488.64 crore aur revenue 32.8% badhkar Rs 43,875.15 crore raha. Company ne Rs 8 prati share ka pehla antarim dividend ghoshit kiya hai, jiski record date 12 November hai.",
+      "Titan ka standalone munafa 113.66% badhkar Rs 2,393 crore raha, jabki revenue 10.09% badhkar Rs 20,614 crore pahuncha. Mahindra & Mahindra ka standalone munafa 12.85% badhkar Rs 5,101.62 crore aur revenue 27.10% badhkar Rs 42,477.42 crore raha.",
+      "Bharti Airtel ka consolidated munafa pichhli timahi ke mukaable 8.8% badhkar Rs 8,887.5 crore aur revenue 4% badhkar Rs 60,878 crore raha. Britannia ka consolidated munafa 10.8% badhkar Rs 725.99 crore aur revenue 24.9% badhkar Rs 5,597.79 crore raha. Yeh aankde companiyon ke exchange filings par aadhaarit report se liye gaye hain."
+     ],
+     "sources": [
+      {
+       "name": "Upstox News",
+       "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-bharti-airtel-lic-m-and-m-titan-ongc-britannia-lg-bharat-forge-others-to-declare-earnings/liveblog-203021/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LIC_Central_Office.jpg/1280px-LIC_Central_Office.jpg",
+      "credit": "PIYUSH P PUJARI",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LIC_Central_Office.jpg",
+      "alt": "Mumbai mein LIC ka Central Office 'Yogakshema' (file tasveer)"
+     }
+    },
+    {
+     "slug": "pralhad-joshi-renewable-nivesh-220-billion-dollar-2030",
+     "title": "Renewable urja mein nivesh 2030 tak $220 billion ke paar jaayega: Pralhad Joshi; 500 GW lakshya samay par poora karne ka daava",
+     "summary": "Bharat Renewable Energy Summit 2026 ke samaapan par Kendriya mantri ne kaha ki pichhle do saal mein Rs 7 lakh crore ka nivesh aa chuka hai aur desh mein 310 GW gair-jivashm kshamata lag chuki hai.",
+     "body": [
+      "Naveen aur Navikaraniya Urja Mantri Pralhad Joshi ne kaha hai ki 2030 tak 190 GW gair-jivashm bijli kshamata jodne ke liye anumaanit $220 billion ka nivesh lakshya paar ho jaayega. News On AIR ke mutabik unhone yeh baat Bharat Renewable Energy (BRE) Summit 2026 ke samaapan par media se kahi.",
+      "Joshi ke mutabik pichhle do saal mein ghareloo aur videshi nivesh milakar Rs 7 lakh crore aa chuke hain. Desh mein abhi 310 GW gair-jivashm kshamata sthaapit hai, jabki 2030 ka lakshya 500 GW hai. Unhone kaha ki Bharat yeh lakshya samay par poora karega, aur PM Modi ke nirdesh par 300 GW atirikt kshamata ki yojana bhi taiyaar ki ja rahi hai.",
+      "Mantralaya ke Sachiv Santosh Kumar Sarangi ne bataaya ki solar module ke kachre ki recycling ke liye naye dishanirdesh taiyaar kiye ja rahe hain. Summit ka udghaatan PM Modi ne 2 November ko kiya tha."
+     ],
+     "sources": [
+      {
+       "name": "News On AIR",
+       "url": "https://newsonair.gov.in/renewable-energy-investments-expected-to-exceed-220-bn-by-2030-says-pralhad-joshi/"
+      }
+     ]
+    }
+   ],
+   "editorial": {
+    "slug": "q2-nateeje-majboot-par-mang-ki-pareeksha-baaki",
+    "title": "Companiyon ke majboot nateeje bharosa dete hain, par asli pareeksha aam upbhokta ki maang ki hai",
+    "body": [
+     "LIC, ONGC, Titan aur M&M jaise naamon ke achhe nateeje dikhaate hain ki Bharat ki badi companiyaan mushkil vaishvik maahaul mein bhi munafa bana rahi hain. Gaadiyon aur gehnon ki bikri mein badhat tyohaari maang ka sanket hai.",
+     "Lekin sirf badi companiyon ke aankde poori arthvyavastha ki tasveer nahi hote. Chhote udyogon, gaon ki aamdani aur rozgaar ke aankde bhi utne hi zaroori hain. ONGC jaise tel kshetra ke munafe par tel keemton ka bada asar hota hai, jo yuddh ke maahaul mein kabhi bhi palat sakti hain.",
+     "Sarkaar aur RBI ko is mauke ka istemaal ghareloo maang ko sthir banaane mein karna chahiye, taaki bahari jhatkon — chahe Wall Street ho ya Hormuz — ka asar kam se kam rahe."
+    ]
+   }
+  },
+  {
+   "id": "tse",
+   "name": "Tech, Sports & Entertainment",
+   "stories": [
+    {
+     "slug": "ramayana-part-1-pehla-din-box-office-64-crore-net-live-anumaan",
+     "title": "'Ramayana: Part 1' box office: Sacnilk ke live anumaan mein pehle din Rs 64 crore net ke paar, Hindi se Rs 46 crore; Adipurush ki opening se abhi peeche",
+     "summary": "Nitesh Tiwari ki film ne 5 November ko release ke din 24,000 ke kareeb shows mein shuruaati taur par Rs 75.85 crore gross kamaaye. Yeh shuruaati aankde hain, antim nahi.",
+     "body": [
+      "Box office tracker Sacnilk ke live aankdon ke mutabik Ranbir Kapoor, Sai Pallavi aur Yash ki film 'Ramayana: Part 1' ne release ke din raat 9:30 baje tak Bharat mein lagbhag Rs 64.28 crore net aur Rs 75.85 crore gross kamaaye. Filmibeat ki report ke mutabik Hindi version se Rs 46.45 crore, Kannada se Rs 7.88 crore, Telugu se Rs 5.98 crore, Tamil se Rs 2.47 crore aur Malayalam se Rs 1.50 crore aaye.",
+      "Report ke mutabik film abhi 'Adipurush' ki opening se peeche hai, jisne Sacnilk ke aankdon mein pehle din Rs 86.75 crore net kamaaye the. Hindi 3D shows mein occupancy subah lagbhag 23% se badhkar shaam tak 38% tak pahunchi. Sacnilk ka kehna hai ki live aankdon ki jagah baad mein desk ke report kiye gaye aankde aayenge.",
+      "Darshakon ki pratikriya achhi rahi hai — Sacnilk ke mutabik BookMyShow par film ki rating 9.4/10 aur IMDb par 8.6/10 hai. Film 3 ghante 15 minute ki hai aur iska doosra bhaag Diwali 2027 ke liye tay hai."
+     ],
+     "sources": [
+      {
+       "name": "Filmibeat",
+       "url": "https://www.filmibeat.com/bollywood/box-office/2026/ramayana-part-1-box-office-day-1-collection-early-update-ranbir-yash-film-hits-50-cr-behind-adipurus-537131.html"
+      },
+      {
+       "name": "Sacnilk",
+       "url": "https://www.sacnilk.com/big-release/ramayana_part_1_2026"
+      }
+     ]
+    },
+    {
+     "slug": "hockey-asian-champions-trophy-bharat-japan-4-1-chhatha-khitaab",
+     "title": "Hockey: Mohali mein Japan ko 4-1 se haraakar Bharat ne record chhathi baar Asian Champions Trophy jeeti; lagaataar teesra khitaab",
+     "summary": "Japan ne teesre minute mein badhat li, par Shilanand Lakra, Dilpreet Singh, Jugraj Singh aur Vivek Sagar Prasad ke goal se Bharat ne doosre half mein match palat diya. Team toornament mein ajey rahi.",
+     "body": [
+      "Harmanpreet Singh ki kaptaani mein Bharat ne Thursday ko Mohali mein final mein Japan ko 4-1 se haraakar Asian Champions Trophy jeet li. The Tribune ke mutabik yeh Bharat ka record chhatha khitaab hai aur 2023 aur 2024 ke baad lagaataar teesra. Team ne toornament mein saato match jeete.",
+      "Japan ke Kazumasa Matsumoto ne teesre minute mein goal karke badhat dilaayi. Bharat ki taraf se 42ve minute mein Shilanand Lakra ne penalty corner variation par barabari ki, 47ve minute mein Dilpreet Singh ne Bharat ko aage kiya, 52ve minute mein Jugraj Singh ne drag-flick se teesra aur 53ve minute mein Vivek Sagar Prasad ne chautha goal kiya.",
+      "Japan teesri baar final haara hai aur abhi tak pehle khitaab ka intezaar kar raha hai. Bronze medal match mein Malaysia ne South Korea ko 5-2 se haraaya."
+     ],
+     "sources": [
+      {
+       "name": "The Tribune",
+       "url": "https://www.tribuneindia.com/news/sports/india-beat-japan-4-1-to-lift-record-extending-6th-asian-champions-trophy-title"
+      }
+     ]
+    },
+    {
+     "slug": "cristiano-ronaldo-portugal-antarrashtriya-football-sanyaas",
+     "title": "Cristiano Ronaldo ne international football se sanyaas liya: Portugal ke liye 23 saal, 234 match aur 146 goal ka safar khatam",
+     "summary": "41 saal ke Ronaldo ne social media par ghoshna ki ki ab woh Portugal ki No. 7 jersey lauta rahe hain. Euro 2016 unke international career ki sabse badi uplabdhi rahi.",
+     "body": [
+      "Portugal ke star footballer Cristiano Ronaldo ne Thursday ko international football se sanyaas ki ghoshna kar di. NBC Sports ke mutabik unhone Instagram aur doosre social media platforms par apne bayaan mein kaha ki national team ki No. 7 jersey lautaane ka din aa gaya hai.",
+      "41 saal ke Ronaldo ne 23 saal mein Portugal ke liye 234 match khele aur 146 goal kiye. Unki sabse badi uplabdhi 2016 European Championship ki jeet rahi, jo Portugal ka ab tak ka ekmaatra bada khitaab hai. Iske baad Portugal ne do baar UEFA Nations League bhi jeeti.",
+      "Bharat mein bhi News On AIR samet kai maadhyamon ne is khabar ko pramukhta se dikhaaya. Ronaldo pehle kah chuke the ki 2026 World Cup unka aakhri toornament hoga."
+     ],
+     "sources": [
+      {
+       "name": "NBC Sports",
+       "url": "https://www.nbcsports.com/soccer/news/cristiano-ronaldo-announces-international-retirement-from-portugal"
+      },
+      {
+       "name": "News On AIR",
+       "url": "https://newsonair.gov.in/ronaldo-announces-retirement-from-international-football/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg",
+      "credit": "Анна Нэсси",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2018.jpg",
+      "alt": "Cristiano Ronaldo, 2018 World Cup ke dauraan Portugal ki jersey mein (file tasveer)"
+     }
+    },
+    {
+     "slug": "ind-vs-nz-doosra-odi-wellington-shanivaar",
+     "title": "India vs New Zealand: doosra ODI Shanivaar subah 7:30 baje Wellington mein; Bharat series mein 1-0 se aage",
+     "summary": "Auckland mein paanch wicket ki jeet ke baad Shubman Gill ki team Wellington ke Hnry Stadium mein badhat doguni karne utregi.",
+     "body": [
+      "Bharat aur New Zealand ke beech doosra ODI Shanivaar, 7 November ko Wellington ke Hnry Stadium (pehle Sky Stadium) mein khela jaayega. Khel Now ke mutabik toss Bharatiya samay ke anusaar subah 7 baje aur match 7:30 baje shuru hoga.",
+      "Bharat ne Eden Park, Auckland mein pehla ODI paanch wicket se jeeta tha. Report ke mutabik Shubman Gill pehle teen ODI mein kaptaani kar rahe hain, jabki aakhri do mein Shreyas Iyer kaptaan honge. Virat Kohli aur Rohit Sharma ki vaapsi se batting majboot hui hai, jabki New Zealand ki kaptaani Mitchell Santner ke paas hai."
+     ],
+     "sources": [
+      {
+       "name": "Khel Now",
+       "url": "https://khelnow.com/cricket/when-where-nz-vs-ind-2nd-odi-take-place-202611"
+      }
+     ]
+    }
+   ],
+   "editorial": {
+    "slug": "hockey-ki-nirantarta-par-garv-par-asli-kasauti-olympic",
+    "title": "Hockey ki lagaataar jeet par garv kijiye, par asli kasauti badi duniya ke muqablon mein hogi",
+    "body": [
+     "Lagaataar teesri baar Asian Champions Trophy jeetna aur poore toornament mein ajey rehna Bharatiya hockey ki nirantarta ka saboot hai. Final mein shuruaati jhatke ke baad doosre half mein vaapsi team ke dhairya aur fitness ko dikhaata hai.",
+     "Phir bhi yeh yaad rakhna zaroori hai ki Asia ke bahar Europe aur Australia ki teamein kahin kadi chunauti deti hain. Final mein teesre minute mein khaaya goal yaad dilaata hai ki shuruaati minuton ki chook badi teamon ke khilaaf mehngi pad sakti hai.",
+     "Hockey ke liye yeh achha mauka hai ki is jeet ka fayda zameeni star par uthaaya jaaye — zyada astroturf maidan, junior leagues aur chhote shehron mein coaching. Trophy ki chamak tabhi tikegi jab uske peeche majboot dhaancha ho."
+    ]
+   }
+  }
+ ]
+}
