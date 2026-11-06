@@ -1,0 +1,358 @@
+{
+  "edition": "Shaam Edition",
+  "updated": "2026-11-06T18:45:00+05:30",
+  "ticker": [
+    "Delhi-NCR mein GRAP Stage III laagu: AQI 389 tak pahuncha, kai ilaakon mein 'severe'; Supreme Court ne poocha — upaay ke baad bhi pradooshan kyon",
+    "Dhanteras par Dalal Street jagmagaaya: Sensex 1,718 ank uchhal kar 81,028 par, Nifty phir 25,000 ke paar",
+    "Asia mein bhoochaal: Kospi 8.5% gira, trading 20 minute ruki; Nikkei 6% toota",
+    "Trump Iran par yuddh dobara shuru karne par vichaar mein; Hormuz mein Khasab ke paas ek aur tanker mein dhamaka",
+    "'Ramayana: Part 1' ne do din mein Rs 84 crore net ke paar (Sacnilk live anumaan); Conway ODI series se bahar"
+  ],
+  "lead_editorial": {
+    "slug": "grap-har-saal-dhuan-har-saal-ilaaj-nahi-rokthaam-chahiye",
+    "title": "Har saal wahi dhuan, wahi GRAP: Delhi ko emergency nahi, saal bhar ki yojana chahiye",
+    "kicker": "Hamari Raay",
+    "summary": "Diwali se pehle Delhi-NCR mein GRAP Stage III ka laagu hona ab ek saalana rasm ban gaya hai. Supreme Court ka sawaal jaayaz hai — jab niyam maujood hain to hawa kyon nahi sudharti? Jawaab emergency upaayon mein nahi, poore saal ki sakhti mein hai.",
+    "body": [
+      "Shukravaar ko Commission for Air Quality Management ne Delhi-NCR mein GRAP ka teesra charan laagu kiya. Business Standard ki report ke mutabik subah 8 baje shahar ka ausat AQI 389 tha, aur IIT Delhi, Rohini aur Punjabi Bagh jaise ilaakon mein reading 'severe' shreni mein thi. Nirmaan par rok, puraani gaadiyon par pabandi aur chhote bachchon ke liye hybrid padhaai — yeh sab hum har saal lagbhag isi waqt dekhte hain.",
+      "Supreme Court mein CJI Surya Kant ki bench ne seedha sawaal poocha ki maujooda upaayon ke baavjood pradooshan kyon bana hua hai. Yeh sawaal sirf sarkaaron se nahi, poori vyavastha se hai. Outlook India ki report mein MoES ke aankde batate hain ki PM2.5 mein gaadiyon ka hissa lagbhag parali jitna hi bada hai. Yaani yeh sirf padosi rajyon ke kheton ki samasya nahi; Delhi ki apni sadkon aur NCR ke traffic ki bhi kahani hai.",
+      "GRAP ek emergency brake hai, steering nahi. Jab hawa pehle hi zehreeli ho jaati hai tab rok lagaana zaroori hai, par kaafi nahi. Asli kaam saal bhar ka hai — public transport ka vistaar, PUC jaanch mein imaandaari, nirmaan sthalon par dhool ka niyantran, aur parali ke liye kisaanon ko vyavahaarik vikalp. In par kaam chunavi ya mausami nahi, lagaatar hona chahiye.",
+      "Diwali ki khushi aur saans lene ka haq ek doosre ke virodhi nahi hain. Par jab tak niti banaane waale sirf AQI 400 chhoone par jaagenge, tab tak har November isi tarah beetega. Delhi ko ab ek saaf, samay-baddh aur jawabdeh yojana chahiye jiske nateeje har mahine maape jaayein — sirf har saal ke sabse kharab hafte mein nahi."
+    ],
+    "sources": [
+      {
+        "name": "Business Standard",
+        "url": "https://www.business-standard.com/india-news/grap-iii-invoked-in-delhi-ncr-as-air-quality-continues-to-remain-very-poor-126110601420_1.html"
+      },
+      {
+        "name": "Outlook India",
+        "url": "https://www.outlookindia.com/national/delhi-aqi-today-air-pollution-news-severe-air-quality-cpcb-pm25-stubble-burning-transport-emissions-diwali-2026"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "india",
+      "name": "India & Politics",
+      "stories": [
+        {
+          "slug": "delhi-ncr-grap-stage-3-aqi-389-supreme-court-sawaal",
+          "title": "Delhi-NCR mein GRAP Stage III laagu: AQI 389 tak pahuncha, kai ilaakon mein 'severe'; Supreme Court ne poocha — upaayon ke baad bhi pradooshan kyon",
+          "summary": "Hawa 'very poor' shreni mein bani rehne par CAQM ne Shukravaar ko turant prabhav se GRAP ka teesra charan laagu kiya. Nirmaan aur puraani gaadiyon par rok lagi hai, aur Class 5 tak ke bachchon ke liye hybrid padhaai ka vikalp diya gaya hai.",
+          "body": [
+            "Commission for Air Quality Management (CAQM) ne Shukravaar ko Delhi-NCR mein Graded Response Action Plan (GRAP) ka Stage III turant prabhav se laagu kar diya. Business Standard ki report ke mutabik CPCB ke aankdon mein subah 8 baje Delhi ka ausat AQI 389 tha, jo Guruvaar ko 367 tha. IIT Delhi aur Rohini mein reading 474 aur Punjabi Bagh mein 465 darj hui — yeh sab 'severe' shreni mein hain.",
+            "Naye niyamon ke tahat khudaai, piling aur demolition jaise dhool udaane waale nirmaan kaam par rok hai, haalaanki metro, railway, aspataal aur raashtriya suraksha se jude project chhoot mein hain. Delhi aur Gurugram, Faridabad, Ghaziabad, Gautam Buddha Nagar aur Sonipat mein BS-III petrol aur BS-IV diesel chhoti gaadiyon par pabandi hai. Class 5 tak ke bachchon ke liye school hybrid mode mein ja sakte hain, aur daftar 50% upasthiti par vichaar kar sakte hain.",
+            "Isi din Supreme Court mein CJI Surya Kant ki aguwai waali bench ne suo motu sunwaai ke dauraan gaadiyon ke dhuen ko badi samasya bataaya aur poocha ki maujooda upaayon ke baavjood pradooshan kyon bana hua hai. Outlook India ki report ke mutabik IITM ki chetavni pranaali ne 6 se 8 November tak hawa 'severe' rehne ka anumaan jataaya hai."
+          ],
+          "sources": [
+            {
+              "name": "Business Standard",
+              "url": "https://www.business-standard.com/india-news/grap-iii-invoked-in-delhi-ncr-as-air-quality-continues-to-remain-very-poor-126110601420_1.html"
+            },
+            {
+              "name": "Outlook India",
+              "url": "https://www.outlookindia.com/national/delhi-aqi-today-air-pollution-news-severe-air-quality-cpcb-pm25-stubble-burning-transport-emissions-diwali-2026"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Delhi_Smog.jpg/1280px-Delhi_Smog.jpg",
+            "credit": "AnkClix",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Delhi_Smog.jpg",
+            "alt": "Delhi mein smog ka ek drishya (file photo, aaj ki ghatna ki tasveer nahi)"
+          }
+        },
+        {
+          "slug": "khunti-trailer-haadsa-saat-ki-maut-pm-modi-dukh",
+          "title": "Jharkhand ke Khunti mein dardnaak haadsa: madad ke liye jutey logon ko trailer ne kuchla, 7 ki maut; PM Modi ne dukh jataaya",
+          "summary": "Karra-Torpa road par ek scooter haadse ke baad madad ke liye ikattha hue gaon waalon par ek tez trailer truck chadh gaya. Gusse mein logon ne Shukravaar ko sadak jaam kar driver ki giraftaari aur muavze ki maang ki.",
+          "body": [
+            "Jharkhand ke Khunti zile mein Guruvaar raat lagbhag 10 baje ek bada sadak haadsa hua. Argus English ki report ke mutabik Karra-Torpa road par Jone-Ludru mod ke paas log ek scooter savaar ki madad ke liye jama the, tabhi ek 18-pahiya trailer truck kathit taur par unhe kuchalta hua nikal gaya. Chhah logon ki maukey par maut ho gayi, jabki ek 12 saal ke bachche ne Khunti Sadar Aspataal mein dum toda. Ek bachchi ghayal hai.",
+            "Pradhan Mantri Narendra Modi ne PMO ke X post ke zariye haadse par gehra dukh jataaya aur peedit parivaaron ke prati samvedna vyakt ki. Shukravaar ko naaraz gaon waalon ne Karra railway crossing ke paas tyre jalaakar sadak jaam kar di aur driver ki giraftaari, muavze, parivaaron ke liye sarkaari naukri aur behtar sadak suraksha ki maang ki.",
+            "Report ke mutabik police aur prashaasan ke adhikariyon ne pradarshankaariyon se baat ki aur niyamon ke tahat madad aur muavza dene ka bharosa diya. Ilaake mein atirikt police bal tainaat kiya gaya hai."
+          ],
+          "sources": [
+            {
+              "name": "Argus English",
+              "url": "https://argusenglish.in/national/7-killed-as-speeding-trailer-truck-runs-over-villagers-in-khunti-pm-modi-expresses-grief"
+            },
+            {
+              "name": "UNI",
+              "url": "https://www.uniindia.com/national/uni-news-digest-at-1300-hrs-06di5/237494"
+            }
+          ]
+        },
+        {
+          "slug": "rahul-gandhi-congress-netaon-ki-baithak-sir-ranniti",
+          "title": "Rahul Gandhi ne Congress netaon ko ghar par bulaaya: 'Diwali Milan' ke saath SIR par ranniti ki charcha ke asaar; Shivakumar bhi Delhi pahunche",
+          "summary": "Lok Sabha mein Vipaksh ke Neta Rahul Gandhi ne Shukravaar ko varishth AICC padadhikaariyon ke liye Diwali Milan rakha. Party ise sirf tyohaari mulaqat bata rahi hai, lekin reports ke mutabik matdata soochi ke SIR ke khilaaf abhiyaan charcha ke kendra mein hai.",
+          "body": [
+            "ETV Bharat ki report ke mutabik Rahul Gandhi ne Shukravaar ko apne sarkaari aawaas par Congress Working Committee ke sadasyon, AICC padadhikaariyon aur rajyon ke prabhaari mahasachivon ke liye Diwali Milan rakha, jismein party adhyaksh Mallikarjun Kharge ke bhi shaamil hone ki baat kahi gayi. Pehli baar Rahul ne varishth netaon ko is tarah ek saath bulaaya hai. Ek AICC padadhikaari ne ise 'sirf Diwali Milan' bataaya.",
+            "Report ke mutabik charcha mein rajneetik halaat aur Special Intensive Revision (SIR) ke khilaaf party ka abhiyaan pramukh rahega. Congress SIR ko 'vote chori' ka zariya bata rahi hai — yeh party ka aarop hai. 1 November ko INDIA bloc ne Delhi mein rally ki thi. UNI ke mutabik Rahul Gandhi ne matdata soochiyon ko rajneetik hathiyaar banaane ki koshish ka aarop bhi lagaaya.",
+            "IANS ki report ke mutabik Karnataka ke Mukhyamantri D.K. Shivakumar bhi Rahul Gandhi dwara PCC adhyakshon aur CLP netaon ki shaam ki baithak ke liye Delhi pahunche. Saath hi Karnataka cabinet ki do khaali seeton par faisla bhi jald hone ki ummeed jataayi ja rahi hai."
+          ],
+          "sources": [
+            {
+              "name": "ETV Bharat",
+              "url": "https://www.etvbharat.com/en/state/rahul-gandhi-to-host-congress-leaders-for-diwali-milan-on-november-6-sweets-and-sir-strategy-on-the-table-enn26110505414"
+            },
+            {
+              "name": "UNI",
+              "url": "https://www.uniindia.com/national/uni-news-digest-at-1300-hrs-06di5/237494"
+            },
+            {
+              "name": "Vividh Bharathi (IANS)",
+              "url": "https://vividhbharathi.com/ktaka-cm-shivakumar-to-attend-lop-gandhis-meeting-in-delhi-call-on-union-ministers/"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Rahul_Gandhi.png",
+            "credit": "Himanshu Arya Khowal",
+            "license": "CC BY 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Rahul_Gandhi.png",
+            "alt": "Lok Sabha mein Vipaksh ke Neta Rahul Gandhi (file photo)"
+          }
+        }
+      ],
+      "editorial": {
+        "slug": "khunti-haadsa-sadak-suraksha-madadgaar-ki-hifazat",
+        "title": "Madad ke liye ruke logon ki jaan bhi sadak par mehfooz nahi; Khunti haadsa ek chetavni hai",
+        "body": [
+          "Khunti mein jo log ek ghayal scooter savaar ki madad ke liye ruke the, wahi ek tez trailer ki chapet mein aa gaye. Yeh haadsa dikhaata hai ki hamari sadkon par sabse badi kami raat ki roshni, gati niyantran aur bhaari vaahanon ki nigraani mein hai — khaaskar gaon ko jodne waali sadkon par.",
+          "Gaon waalon ka gussa samajh mein aata hai. Muavza aur driver par karyavahi zaroori hai, par usse aage, rajya sarkaar ko is road ka safety audit, speed breaker, street light aur bhaari gaadiyon ke liye raat ki gasht jaise thos kadam uthaane chahiye. Madad karne waalon ki hifazat ke bina 'Good Samaritan' ki bhaavna bhi kamzor padti hai."
+        ]
+      }
+    },
+    {
+      "id": "world",
+      "name": "World & Geopolitics",
+      "stories": [
+        {
+          "slug": "trump-iran-yuddh-dobara-vichar-hormuz-khasab-tanker-dhamaka",
+          "title": "Trump Iran par yuddh dobara shuru karne par vichaar mein, CENTCOM ki taiyaari; Hormuz mein Khasab ke paas ek aur tanker mein dhamaka",
+          "summary": "White House mein lagaatar do din national security team ke saath baithak ke baad Trump ne kaha ki faisla jald hoga. Udhar Shukravaar ko Oman ke Khasab ke paas Hormuz se guzar rahe ek tanker ne dhamake ki soochna di.",
+          "body": [
+            "Fox News ki report ke mutabik Rashtrapati Donald Trump ne Budhvaar aur Guruvaar ko apni national security team ke saath baithak kar yeh vichaar kiya ki kya Iran ke khilaaf sainya karyavahi dobara shuru ki jaaye. Oval Office mein unhone kaha ki Washington jald 'faisla' karega, aur jodaa ki woh baaki desh ko tabaah nahi karna chahte, lekin shaayad karna pade. Axios ke hawaale se report hai ki US Central Command badi karyavahi ki yojana ko antim roop de raha hai, haalaanki naya aadesh nahi mila hai.",
+            "Iran ne Qatar ke madhyasthon ke zariye ek nuclear prastaav bheja hai, jiski America samiksha kar raha hai. Report ke mutabik Tehran ne aage ki baatcheet ke liye saat shartein rakhi hain, jinmein yuddh ke nuksaan ka muavza, pratibandh aur naval nakabandi khatam karna aur jamaa sampatti chhodna shaamil hai. Iran ke suraksha pramukh Mohsen Rezaei ne Moscow mein Putin se mulaqat ki.",
+            "Shukravaar ko UKMTO ne bataaya ki Oman ke Khasab se lagbhag 16 nautical mile poorv mein Hormuz se guzar rahe ek tanker ke master ne jahaaz ke port-side waterline par dhamake ki soochna di. Arab News ke mutabik tanker apni taakat se aage badh raha hai aur sabhi crew surakshit hain. Dhamake ke liye kaun zimmedaar hai, yeh abhi spasht nahi hai."
+          ],
+          "sources": [
+            {
+              "name": "Fox News",
+              "url": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-elections-november-5"
+            },
+            {
+              "name": "Arab News Pakistan",
+              "url": "https://www.arabnews.pk/middle-east/tanker-reports-explosion-near-omans-khasab-while-transiting-strait-of-hormuz-ukmto-says-3006290"
+            },
+            {
+              "name": "Anadolu Agency",
+              "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+            "credit": "Daniel Torok",
+            "license": "Public domain",
+            "source": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+            "alt": "America ke Rashtrapati Donald Trump ki aadhikaarik tasveer (2025)"
+          }
+        },
+        {
+          "slug": "israel-eisenkot-67-sifarishein-herzog-ravivaar-mandate",
+          "title": "Israel mein badlaav ki aahat: 67 saansadon ne Gadi Eisenkot ko PM banaane ki sifaarish ki, Netanyahu ko 46; Herzog Ravivaar ko denge mandate",
+          "summary": "Rashtrapati Isaac Herzog ki salaah-mashvare ki prakriya mein Yashar party ke neta Eisenkot ko 120 mein se 67 seaton waali partiyon ka samarthan mila. Herzog ne kaha ki blocs ke beech aapsi veto ke kaaran sarkaar banna ab bhi pakka nahi.",
+          "body": [
+            "Anadolu Agency aur JNS ki report ke mutabik 120 seaton waali Knesset mein 67 saansadon waali partiyon ne purv sena pramukh aur Yashar party ke neta Gadi Eisenkot ka naam sujhaaya, jabki Pradhan Mantri Benjamin Netanyahu ko 46 saansadon ka samarthan mila. Rashtrapati Herzog Ravivaar ko elaan karenge ki sarkaar banaane ka mauka kise milega.",
+            "The Jerusalem Post ke mutabik Eisenkot ko Yisrael Beytenu, the Democrats, Ra'am, Joint List aur B'Yachad ne samarthan diya, jabki Shas, Otzma Yehudit aur Religious Zionist Party-Zehut Netanyahu ke saath rahe. United Torah Judaism ne kisi ka naam nahi liya. Likud ka tark hai ki sabse badi party ke neta hone ke naate mandate Netanyahu ko milna chahiye.",
+            "Chune gaye ummeedwaar ke paas sarkaar banaane ke liye 28 din honge, jo 14 din aur badhaaye ja sakte hain. Herzog ne kaha ki aankde yeh tay nahi karte ki sarkaar ban hi jaayegi, kyonki blocs ke beech aur unke andar 'aapsi veto' hain. Yashar ne kaha hai ki woh pehle 'emergency national government' banaane ki koshish karegi."
+          ],
+          "sources": [
+            {
+              "name": "The Jerusalem Post",
+              "url": "https://www.jpost.com/israel-election-2026/article-913989"
+            },
+            {
+              "name": "JNS",
+              "url": "https://www.jns.org/news/israel-news/herzog-67-mks-recommend-eisenkot-46-netanyahu-mandate-to-be-assigned-sunday"
+            },
+            {
+              "name": "Anadolu Agency",
+              "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gadi_Eisenkot_%28cropped%29.jpg",
+            "credit": "U.S. Department of State",
+            "license": "Public domain",
+            "source": "https://commons.wikimedia.org/wiki/File:Gadi_Eisenkot_(cropped).jpg",
+            "alt": "Yashar party ke neta Gadi Eisenkot (file photo)"
+          }
+        }
+      ],
+      "editorial": {
+        "slug": "hormuz-tanaav-bharat-ke-liye-tel-aur-naagrik",
+        "title": "Hormuz par har dhamaka Bharat ki jeb aur pravaasi parivaaron tak pahunchta hai",
+        "body": [
+          "Washington mein yuddh dobara shuru karne ki charcha aur Hormuz mein tankeron par lagaataar hamle — yeh dono Bharat ke liye seedhi chinta hain. Bharat ki urja zarooraton ke liye yeh samudri raasta behad ahem hai, aur Khaadi deshon mein bade paimaane par Bharatiya kaam karte hain.",
+          "Kootneeti ka raasta abhi band nahi hua hai — Qatar ke zariye Iran ka prastaav mez par hai. Bharat ko apne sambandhon ka istemaal shaanti aur samudri suraksha ke paksh mein karna chahiye, aur saath hi tel bhandaar aur nikasi yojanaon ko taiyaar rakhna chahiye. Umeed par yojana nahi chalti; taiyaari se chalti hai."
+        ]
+      }
+    },
+    {
+      "id": "business",
+      "name": "Business & Economy",
+      "stories": [
+        {
+          "slug": "dhanteras-sensex-1718-ank-uchhla-nifty-25000-paar",
+          "title": "Dhanteras par Dalal Street jagmagaaya: Sensex 1,718 ank uchhal kar 81,028 par, Nifty phir 25,000 ke paar; chhah saal ka sabse achha hafta",
+          "summary": "Duniya bhar mein tech shares ki bikwaali ke beech Bharatiya bazaar ulti disha mein chale. Videshi niveshakon ki bhaari khareed aur Brent ke $100 se neeche aane se banking shares ki aguwai mein lagaataar saatve din tezi rahi.",
+          "body": [
+            "HDFC Sky ki market report ke mutabik Shukravaar ko BSE Sensex 1,718.01 ank (2.17%) chadh kar 81,028.02 par aur NSE Nifty 50 493.75 ank (2.01%) chadh kar 25,030.35 par band hua. Hafte bhar mein Sensex 8.8% aur Nifty 8.6% chadha — report ke mutabik yeh chhah saal ka sabse majboot hafta hai. Mahindra & Mahindra, ICICI Bank, Titan aur Axis Bank sabse aage rahe.",
+            "Report ke mutabik videshi niveshakon ne Guruvaar ko lagbhag Rs 15,000 crore ke shares khareede, jo kareeb chhah saal mein ek din ki sabse badi shuddh khareed hai. Kaha ja raha hai ki AI se jude tech shares se paisa nikal kar Bharat jaise ubharte bazaaron ki taraf aa raha hai. Brent crude ke $100 prati barrel se neeche aane se mehngaai aur rupaye ki chinta bhi kam hui.",
+            "Haalaanki bazaar ki chaudai kamzor rahi: 1,681 shares chadhe, jabki 2,400 gire, aur Nifty Smallcap index 0.8% neeche raha. Saal ki shuruaat se ab tak Nifty abhi bhi 4.2% aur Sensex 4.9% neeche hain."
+          ],
+          "sources": [
+            {
+              "name": "HDFC Sky",
+              "url": "https://hdfcsky.com/news/market-close-report-today-november-6-2026-diwali-party-continues-in-full-swing-ignoring-global-selloff"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BSE_-_Bombay_Stock_Exchange_Building.jpg/1280px-BSE_-_Bombay_Stock_Exchange_Building.jpg",
+            "credit": "Niyantha Shekhar",
+            "license": "CC BY 2.0",
+            "source": "https://commons.wikimedia.org/wiki/File:BSE_-_Bombay_Stock_Exchange_Building.jpg",
+            "alt": "Mumbai mein Bombay Stock Exchange ki imaarat (file photo)"
+          }
+        },
+        {
+          "slug": "asia-bazaar-kospi-8-pratishat-circuit-breaker-nikkei",
+          "title": "Asia ke bazaaron mein bhoochaal: Kospi 8.5% gir kar 5,000 se neeche, 20 minute trading ruki; Nikkei 6% aur Samsung-SK Hynix 10% se zyada toote",
+          "summary": "Wall Street par AI aur chip shares ki bhaari bikwaali ka asar Shukravaar ko Asia par pada. South Korea mein Level 1 circuit breaker laga, aur Japan ka Nikkei bhi buri tarah phisla.",
+          "body": [
+            "TradingKey ki report ke mutabik South Korea ka Kospi Shukravaar ko 8.55% gir kar 4,923.47 par aa gaya aur 5,000 ka star toot gaya. Girawat itni tez thi ki Level 1 circuit breaker laga aur trading 20 minute ke liye roki gayi. Japan ka Nikkei 225 lagbhag 6.2% gir kar 57,288.91 par pahuncha.",
+            "Chip shares par sabse zyada maar padi — Samsung Electronics 10.07% aur SK Hynix 12.26% toota. Report ke mutabik iski jad Wall Street mein thi, jahaan Nasdaq 5% se zyada aur Philadelphia Semiconductor Index 12% gira tha.",
+            "Report kehti hai ki America ke midterm chunav mein Democrats ki jeet ke baad AI data centres ki bijli khapat, carbon utsarjan aur badi tech companiyon par antitrust jaanch ko lekar chintaayein badhi hain. Niveshak ab yeh dekh rahe hain ki kya South Korea ka National Pension Service bazaar ko sambhaalne ke liye fund lagaata hai."
+          ],
+          "sources": [
+            {
+              "name": "TradingKey",
+              "url": "https://www.tradingkey.com/analysis/stocks/more/262287971-japan-korea-stocks-skhy-kospi-nikkei-samsung-skhynix-softbank-kioxia-mu-sox-tradingkey"
+            }
+          ]
+        },
+        {
+          "slug": "dhanteras-sona-chandi-daam-thoda-gire",
+          "title": "Dhanteras par sona-chaandi thode saste: 24 carat sona Rs 1.46 lakh prati 10 gram ke kareeb, chaandi Rs 1.89 lakh prati kilo",
+          "summary": "Tyohaar ke din khareedaaron ko halki raahat mili. 5paisa ke reference daamon ke mutabik pichhle din ke mukaable sona lagbhag 0.5% aur chaandi 0.7% sasti hui, lekin pichhle saal ke Dhanteras se dono kaafi mehnge hain.",
+          "body": [
+            "5paisa ki report ke mutabik Shukravaar dopahar 12 baje ke reference snapshot mein 24 carat sona Rs 1,45,624 prati 10 gram aur 22 carat sona Rs 1,33,392 prati 10 gram tha. 999 shuddhta waali chaandi Rs 1,89,404 prati kilo rahi. Pichhle band ke mukaable 24 carat sona Rs 686 aur chaandi Rs 1,336 prati kilo sasti hui.",
+            "Report ke mutabik pichhle saal ke tyohaari daamon ki tulna mein sona lagbhag 9% aur chaandi lagbhag 5.5% upar hai. Report yeh bhi yaad dilaati hai ki yeh reference daam hain; dukaanon par asli bill mein making charge aur 3% GST bhi judta hai, aur shahar ke hisaab se daam alag ho sakte hain."
+          ],
+          "sources": [
+            {
+              "name": "5paisa",
+              "url": "https://www.5paisa.com/blog/dhanteras-2026-gold-silver-prices-today-24k-gold-silver-rates-india"
+            }
+          ]
+        }
+      ],
+      "editorial": {
+        "slug": "bazaar-tezi-chaudai-kamzor-saavdhaani",
+        "title": "Index ki chamak aur chhote shares ki girawat: tezi ki poori tasveer dekhna zaroori",
+        "body": [
+          "Jab Seoul aur Tokyo mein trading rok di gayi, tab Mumbai mein Sensex 1,700 ank se zyada chadha. Yeh Bharat ki apeksha-krit majbooti ka sanket hai — AI se jude shares mein hamaara kam jhukaav aur sasta hota tel isme madad kar rahe hain.",
+          "Par isi din 2,400 shares gire aur smallcap index neeche raha. Yaani tezi kuch bade naamon tak simit thi aur videshi paise par tiki thi, jo utni hi tezi se palat bhi sakta hai. Yeh nivesh salaah nahi hai — bas yaad dilaana hai ki ek din ya ek hafte ki tezi ko poori arthvyavastha ki sehat ka pramaan maan lena jaldbaazi hogi."
+        ]
+      }
+    },
+    {
+      "id": "tse",
+      "name": "Tech, Sports & Entertainment",
+      "stories": [
+        {
+          "slug": "ramayana-part-1-box-office-day-2-84-crore-paar",
+          "title": "'Ramayana: Part 1' box office: doosre din raftaar dheemi, par do din mein Rs 84 crore net ke paar (Sacnilk live anumaan); pehla din Rs 64.85 crore",
+          "summary": "Nitesh Tiwari ki film ne Guruvaar ko Rs 64.85 crore net ki opening li. Shukravaar shaam tak ke live aankdon mein doosre din ki kamaai Rs 19 crore net se upar thi, aur ab nazar Diwali weekend par hai.",
+          "body": [
+            "Sacnilk ke live anumaan ke mutabik 'Ramayana: Part 1' ne pehle din Bharat mein Rs 64.85 crore net (Rs 77.50 crore gross) kamaaye, jismein Hindi version ka hissa lagbhag Rs 47.5 crore raha. Shukravaar shaam 4 baje tak doosre din ka aankda Rs 19.23 crore net tha, jisse do din ka kul Rs 84.08 crore net ho gaya. Sacnilk ke mutabik duniya bhar mein pehle din tak ki gross kamaai Rs 127.50 crore thi. Yeh shuruaati anumaan hain aur antim aankde badal sakte hain.",
+            "India.com ki report ke mutabik subah ke shows mein bheed kam rahi, aur pehle din ke mukaable doosre din occupancy 36% se ghat kar lagbhag 21% tak aayi (Sacnilk). Film ki opening Pathaan aur Animal se aage rahi, lekin Adipurush ki opening se peeche hai.",
+            "Film mein Ranbir Kapoor Ram, Sai Pallavi Sita aur Yash Ravan ki bhoomika mein hain. Iska doosra bhaag Diwali 2028 ke liye prastaavit hai."
+          ],
+          "sources": [
+            {
+              "name": "Sacnilk",
+              "url": "https://www.sacnilk.com/quicknews/ramayana_part_1_2026_Box_Office_Collection_Day_2"
+            },
+            {
+              "name": "India.com",
+              "url": "https://www.india.com/entertainment/bollywood/ramayana-box-office-collection-day-2-ranbir-kapoors-film-sees-slow-start-on-friday-earns-rs-16-88-crore-by-3-pm-8542754/"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ranbir_Kapoor_in_April_2024.jpg",
+            "credit": "Bollywood Hungama",
+            "license": "CC BY 3.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Ranbir_Kapoor_in_April_2024.jpg",
+            "alt": "Abhineta Ranbir Kapoor, April 2024 (file photo)"
+          }
+        },
+        {
+          "slug": "tech-bikwaali-wajah-data-centre-niyam-nvidia-h200-china",
+          "title": "Tech shares kyon toote? Midterms ke baad data centre par sakhti ka darr, aur China mein atke 6 lakh Nvidia H200 chips",
+          "summary": "Fortune ki report ke mutabik Democrats ki jeet aur data centre nirmaan rokne waale ballot faislon ne AI boom par sawaal khade kiye. Saath hi Reuters ke hawaale se Beijing bade paimaane par H200 chip aayaat ko manzoori nahi de raha.",
+          "body": [
+            "Fortune ki report ke mutabik Guruvaar ki bikwaali mein Nasdaq ki market value se $3 trillion se zyada saaf ho gaye, aur Nvidia 8% gira. Report kehti hai ki midterm chunav mein Democrats ne House aur Senate dono jeete, aur votaron ne aise ummeedwaaron aur ballot prastaavon ko manzoori di jo America mein AI data centre nirmaan par lagaam lagaana chahte hain.",
+            "Meta ki Dina Powell McCormick ne kaha ki America mein data centre banaana 'aur mushkil' hoga. Analyst Dan Ives ka anumaan hai ki yojana mein shaamil 800-1,000 AI data centres mein se kam se kam 10% roadmap se hat sakte hain.",
+            "Report ke mutabik Reuters ne bataaya ki lagbhag 6 lakh Nvidia H200 chips Hong Kong mein China jaane ka intezaar kar rahe hain. Wajah maang ki kami nahi, balki yeh hai ki Beijing apne gharelu chip udyog ko badhaava dene ke liye badi internet companiyon ke bade aayaat ko manzoori nahi de raha."
+          ],
+          "sources": [
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/11/06/tech-stock-selloff-nov-5-since-covid-nvidia-h200-china-imports/"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/NVIDIA_Headquarters.jpg/1280px-NVIDIA_Headquarters.jpg",
+            "credit": "Coolcaesar",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg",
+            "alt": "California mein Nvidia ka mukhyalay (file photo)"
+          }
+        },
+        {
+          "slug": "ind-vs-nz-doosra-odi-wellington-conway-bahar-nick-kelly",
+          "title": "India vs New Zealand: Wellington ODI se pehle Kiwis ko jhatka, Devon Conway concussion ke kaaran poori series se bahar; Nick Kelly ko bulaava",
+          "summary": "Auckland mein training ke dauraan Matt Henry se takkar mein Conway ko concussion hua. Bharat paanch match ki series mein 1-0 se aage hai aur doosra ODI Shanivaar ko Wellington mein hai.",
+          "body": [
+            "Outlook India ki report ke mutabik New Zealand ke ballebaaz Devon Conway concussion ke kaaran India ke khilaaf baaki chaaron ODI se bahar ho gaye hain. Auckland mein training ke dauraan catch lene ki koshish mein unki tez gendbaaz Matt Henry se takkar ho gayi thi. Woh pehla ODI bhi nahi khel paaye the.",
+            "Unki jagah left-handed ballebaaz Nick Kelly ko team mein bulaaya gaya hai, jo Wellington mein team se judenge. New Zealand pehle se Mark Chapman (hamstring) aur Rachin Ravindra (kandha) ke bina hai. Henry ko concussion se clear kar diya gaya hai aur woh doosre ODI ke liye uplabdh hain.",
+            "Bharat ne Auckland mein pehla ODI paanch wicket se jeeta tha. Doosra ODI Shanivaar, 7 November ko Wellington Regional Stadium mein khela jaayega."
+          ],
+          "sources": [
+            {
+              "name": "Outlook India",
+              "url": "https://www.outlookindia.com/sports/cricket/devon-conway-ruled-out-india-vs-new-zealand-odi-series-2026-concussion-nick-kelly-replacement-nz-updated-squad"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wellington_Regional_Stadium_2024-09-28.jpg/1280px-Wellington_Regional_Stadium_2024-09-28.jpg",
+            "credit": "Tom Ackroyd",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Wellington_Regional_Stadium_2024-09-28.jpg",
+            "alt": "Wellington Regional Stadium, 2024 (file photo)"
+          }
+        }
+      ],
+      "editorial": {
+        "slug": "ramayana-box-office-se-aage-kahani-ki-kasauti",
+        "title": "'Ramayana' ki asli pareeksha opening nahi, doosre hafte ki bheed hai",
+        "body": [
+          "Rs 64 crore se upar ki opening kisi bhi film ke liye badi baat hai, aur Bharatiya cinema ke itne bade project par darshakon ki utsukta samajh mein aati hai. Par doosre din ki dheemi raftaar yaad dilaati hai ki bade bajat aur VFX ke baad bhi film ko aakhir mein kahani aur darshakon ki zubaani tareef hi chalaati hai.",
+          "Diwali weekend film ke liye asli kasauti hoga. Box office ke shuruaati anumaanon par jaldi faisle sunaane ke bajaay, film ko apni raftaar pakadne ka samay milna chahiye — aur darshakon ko bhi apni raay khud banaane ka."
+        ]
+      }
+    }
+  ]
+}
