@@ -1,0 +1,423 @@
+{
+ "edition": "Subah Edition",
+ "updated": "2026-11-07T07:15:00+05:30",
+ "ticker": [
+  "SIR: Election Commission ne 7 rajyon mein draft list se chhoote voters ko ek aur mauka diya; Rahul Gandhi ne welfare-voter ID link par sawaal uthaaye",
+  "Amit Shah bole — desh Naxalvaad se mukt; 2029 ke ant tak 'drug-free' Bharat ka lakshya",
+  "CBSE Board 2027: Class 10 aur 12 ki pareekshaayein 16 February se, date sheet jaari",
+  "Iran par Qatar ki madhyasthata jaari, Trump ne Emir se baat ki; America ne rial exchange firmon par pratibandh lagaaye",
+  "Wellington mein aaj doosra ODI, Bharat 1-0 se aage; 'Ramayana' ne Sacnilk ke mutabik do din mein Rs 112.90 crore net kamaaye"
+ ],
+ "lead_editorial": {
+  "slug": "sir-dobara-mauka-sahi-kadam-par-bharosa-paardarshita-se",
+  "title": "SIR mein 'ek aur mauka' sahi kadam hai, par bharosa tabhi banega jab aankde saamne aayenge",
+  "kicker": "Hamari Raay",
+  "summary": "Election Commission ne saat rajyon mein draft voter list se chhoote logon ko dobara naam judwaane ka mauka dekar ek zaroori sudhaar kiya hai. Lekin vipaksh ke aaropon ke beech asli pareeksha yeh hai ki kitne log chhoote, kitne wapas jude — aur yeh jaankaari kitni khuli hai.",
+  "body": [
+   "Shukravaar ko Election Commission ne Delhi, Maharashtra, Haryana, Andhra Pradesh, Jharkhand, Telangana aur Nagaland ke Chief Electoral Officers ko nirdesh diya ki jin voters ko Special Intensive Revision (SIR) ke dauraan 'Absent, Shifted, Dead ya Duplicate' maan kar draft roll se bahar rakha gaya, unhe final roll mein shaamil hone ka ek aur mauka diya jaaye. BLO ghar-ghar sampark karenge, ECINET par online form bhi bhare ja sakenge, aur beghar logon tathaa rajya ke andar shift hue logon ke liye vishesh praavdhaan honge.",
+   "Yeh kadam swaagat yogya hai. Matdaata soochi ki safaai zaroori hai — mrit ya duplicate naam loktantra ko kamzor karte hain — lekin kisi bhi safaai abhiyaan ki sabse badi chook yahi hoti hai ki asli, jeevit, paatra naagrik bina galti ke bahar ho jaayein. Garib, pravaasi mazdoor aur beghar log aksar ghar par 'absent' milte hain; unke liye doosra darwaza khulna nyaay ki buniyaadi shart hai.",
+   "Saath hi, vipaksh ke sawaal bhi hawa mein hain. Rahul Gandhi ne aarop lagaaya hai ki sarkar welfare yojanaon ke liye Aadhaar ki jagah voter ID ko aadhaar banaana chahti hai, aur K C Venugopal ne daava kiya hai ki 13 crore log welfare network se bahar kar diye gaye. Yeh aarop hain, sarkar ki taraf se inki pushti nahi hui hai — aur inka jawaab aankdon se hi diya ja sakta hai, bayaanbaazi se nahi.",
+   "Isliye Commission ko chahiye ki har rajya mein ASDD shreni mein kitne naam the, kitne logon ne dobara form bhare aur kitne final roll mein jude — yeh sab saarvajanik kare. Nirdesh mein 'action-taken report' ki baat hai; use janta ke saamne rakhna sabse achha jawaab hoga. Bharose ka sabse mazboot aadhaar paardarshita hai."
+  ],
+  "sources": [
+   {
+    "name": "News On AIR",
+    "url": "https://newsonair.gov.in/ec-opens-fresh-window-for-electors-missing-from-sir-draft-rolls-in-7-states/"
+   },
+   {
+    "name": "UNI",
+    "url": "https://www.uniindia.com/national/election-commission-asdd-flagged-electors/237631"
+   },
+   {
+    "name": "UNI",
+    "url": "https://www.uniindia.com/national/rahul-gandhi-warns-of-vote-for-welfare-link-alleges-bid-to-turn-voter-lists-into-political-tool/237477"
+   },
+   {
+    "name": "UNI",
+    "url": "https://www.uniindia.com/national/politics-congress-venugopal-modi/237511"
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "india",
+   "name": "India & Politics",
+   "stories": [
+    {
+     "slug": "sir-election-commission-7-rajya-asdd-voters-ek-aur-mauka-rahul-gandhi-aarop",
+     "title": "SIR: Election Commission ne 7 rajyon mein draft list se chhoote 'ASDD' voters ko ek aur mauka diya; Rahul Gandhi ne welfare ko voter ID se jodne par sawaal uthaaye",
+     "summary": "Delhi, Maharashtra samet saat rajyon mein jin logon ko 'Absent, Shifted, Dead ya Duplicate' maan kar draft roll se hataaya gaya tha, ve ab dobara Enumeration Form bhar kar final voter list mein naam judwa sakenge. Congress ne SIR aur welfare yojanaon ke rishte par sarkar ko ghera.",
+     "body": [
+      "Election Commission of India ne Shukravaar ko ek patra jaari kar Delhi, Maharashtra, Haryana, Andhra Pradesh, Jharkhand, Telangana aur Nagaland ke Chief Electoral Officers ko nirdesh diya ki Special Intensive Revision (SIR) ke dauraan 'ASDD' — yaani Absent, Shifted, Dead ya Duplicate — shreni mein daale gaye voters ko final electoral roll mein shaamil hone ka ek aur mauka diya jaaye. News On AIR ke mutabik in voters ki soochi dobara pradarshit ki jaayegi, BLO unse sampark karenge aur ECINET platform par online form jama karne mein madad karenge. UNI ne ise ek 'mahatvapurn dheel' bataaya hai, jisme ve log bhi shaamil hain jinhe form mile the par unhone lautaaye nahi.",
+      "Nirdesh mein rajya ke andar ghar badalne waale voters aur beghar logon ke liye vishesh praavdhaan ki baat hai. Saath hi ek monitoring vyavastha banane ko kaha gaya hai taaki koi paatra voter na chhoote aur duplicate entry bhi na ho, aur adhikaariyon ko action-taken report deni hogi. Report mein na to form jama karne ki antim taareekh batayi gayi hai, na hi prabhaavit voters ki sankhya.",
+      "Isi din Lok Sabha mein Netaa Pratipaksh Rahul Gandhi ne X par aarop lagaaya ki sarkar welfare yojanaon ke laabhaarthiyon ki pehchaan ke liye Aadhaar ki jagah voter ID ko aadhaar banaane ki taiyaari mein hai, jisse unke mutabik laakhon log vote aur welfare dono se vanchit ho sakte hain. Congress mahasachiv K C Venugopal ne daava kiya ki 'rigged and flawed' prakriya se 13 crore log welfare network se bahar ho gaye. Ye vipaksh ke aarop hain; in reports mein sarkar ka jawaab shaamil nahi hai."
+     ],
+     "sources": [
+      {
+       "name": "News On AIR",
+       "url": "https://newsonair.gov.in/ec-opens-fresh-window-for-electors-missing-from-sir-draft-rolls-in-7-states/"
+      },
+      {
+       "name": "UNI",
+       "url": "https://www.uniindia.com/national/election-commission-asdd-flagged-electors/237631"
+      },
+      {
+       "name": "UNI",
+       "url": "https://www.uniindia.com/national/rahul-gandhi-warns-of-vote-for-welfare-link-alleges-bid-to-turn-voter-lists-into-political-tool/237477"
+      },
+      {
+       "name": "UNI",
+       "url": "https://www.uniindia.com/national/politics-congress-venugopal-modi/237511"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_Electronic_Digital_Display_Board_at_the_office_of_the_Election_Commission_of_India_displaying_the_results_of_General_Election-2009_for_the_public%2C_at_Nirvachan_Sadan%2C_in_New_Delhi_on_May_16%2C_2009.jpg/1280px-thumbnail.jpg",
+      "credit": "Election Commission of India",
+      "license": "GODL-India",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Electronic_Digital_Display_Board_at_the_office_of_the_Election_Commission_of_India_displaying_the_results_of_General_Election-2009_for_the_public,_at_Nirvachan_Sadan,_in_New_Delhi_on_May_16,_2009.jpg",
+      "alt": "Election Commission of India ka daftar Nirvachan Sadan, New Delhi (2009 ki file photo)"
+     }
+    },
+    {
+     "slug": "amit-shah-naxalvaad-mukt-desh-2029-drug-free-uttarakhand-police-presidents-colour",
+     "title": "Amit Shah bole — desh Naxalvaad se mukt ho chuka hai; Dehradun mein Uttarakhand Police ko President's Colour, 2029 tak 'drug-free' Bharat ka lakshya",
+     "summary": "Grih Mantri ne Shukravaar ko Dehradun mein kaha ki PM Modi ke netritva mein paanch dashak puraani Naxal samasya khatam hui hai. Uttarakhand Police yeh samman paane waali desh ki 16vi force bani.",
+     "body": [
+      "Kendriya Grih Mantri Amit Shah ne Shukravaar ko Dehradun mein Uttarakhand Police ko President's Colour pradaan kiya. News On AIR ke mutabik Uttarakhand Police yeh samman paane waali desh ki 16vi force hai. Shah ne kaha ki yeh samman rajya ke 25 saalon mein seva dene waale, abhi kaam kar rahe aur ritaayar ho chuke sabhi adhikaariyon aur jawaanon ki mehnat ki pehchaan hai.",
+      "Is maukey par Shah ne daava kiya ki Pradhan Mantri Narendra Modi ke netritva mein desh Naxalvaad se mukt ho gaya hai, aur iska shrey unhone rajya police aur ardhsainik balon ko diya. Unhone yeh bhi kaha ki sarkar ne Bharat ko nasha-mukt banaane ka sankalp liya hai, jiska lakshya 2029 ke ant tak rakha gaya hai, aur drug taskaron ko jail bheja jaayega."
+     ],
+     "sources": [
+      {
+       "name": "News On AIR",
+       "url": "https://newsonair.gov.in/country-has-been-freed-from-naxalism-under-leadership-of-pm-narendra-modi-hm-amit-shah/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Amit_Shah_photographed_during_the_first_Union_Cabinet_Meeting_of_the_18th_Lok_Sabha_%28cropped%29.jpg",
+      "credit": "Prime Minister's Office",
+      "license": "GODL-India",
+      "source": "https://commons.wikimedia.org/wiki/File:Amit_Shah_photographed_during_the_first_Union_Cabinet_Meeting_of_the_18th_Lok_Sabha_(cropped).jpg",
+      "alt": "Kendriya Grih Mantri Amit Shah (file photo)"
+     }
+    },
+    {
+     "slug": "cbse-board-exam-2027-date-sheet-16-february-se",
+     "title": "CBSE Board 2027 ki date sheet jaari: Class 10 aur 12 ki pareekshaayein 16 February se; lagbhag 46 lakh chhaatra baithenge",
+     "summary": "Class 10 ki pareekshaayein 9 March aur Class 12 ki 9 April ko khatam hongi. Date sheet pareeksha se 101 din pehle jaari hui hai.",
+     "body": [
+      "Central Board of Secondary Education (CBSE) ne Shukravaar raat 2027 ki board pareekshaon ki date sheet jaari kar di. News On AIR ke mutabik Class 10 aur Class 12 dono ki pareekshaayein 16 February 2027 ko subah 10:30 baje shuru hongi. Class 10 ki pareekshaayein 9 March ko aur Class 12 ki 9 April ko khatam hongi. Lagbhag 26.5 lakh Class 10 aur 19.8 lakh Class 12 ke chhaatron ke baithne ki ummeed hai.",
+      "Board ke mutabik Class 10 mein 83 aur Class 12 mein 121 vishay hain, aur 40,000 se zyada subject combinations ko dhyaan mein rakh kar schedule banaaya gaya hai taaki kisi chhaatra ke do vishay ek hi din na padein. Zyaadatar schoolon mein practical pareekshaayein 1 January se 13 February 2027 tak hongi, jabki thand waale ilaakon ke schoolon mein ye 9 November se 19 December 2026 tak chalengi. Poora timetable cbse.gov.in par uplabdh hai."
+     ],
+     "sources": [
+      {
+       "name": "News On AIR",
+       "url": "https://newsonair.gov.in/cbse-releases-date-sheet-for-class-10th-and-12th-board-examinations-2027/"
+      }
+     ]
+    },
+    {
+     "slug": "ayodhya-10va-deepotsav-aaj-up-rashtrapati-radhakrishnan-mukhya-atithi",
+     "title": "Ayodhya mein aaj 10va Deepotsav: Up-Rashtrapati C P Radhakrishnan honge mukhya atithi; 2017 mein 1.71 lakh diyon se hui thi shuruaat",
+     "summary": "Pichhle saal Deepotsav ne 26.17 lakh diyon ke saath Guinness World Record banaaya tha. Is baar ke aayojan par sabki nazar hai.",
+     "body": [
+      "Ayodhya Shanivaar, 7 November ko Deepotsav ke 10ve sanskaran ki mezbaani kar raha hai. UNI ke mutabik Up-Rashtrapati C P Radhakrishnan is aayojan ke mukhya atithi honge. Yeh utsav 2017 mein 1.71 lakh diyon ke saath shuru hua tha, aur pichhle saal isne 26.17 lakh diyon ke saath Guinness World Records mein jagah banaayi thi.",
+      "UNI ki ek anya report ke mutabik Deepotsav ki charcha videsh tak pahunchi hai — Malaysia mein iske baare mein sunkar ek Australian paryatak Ayodhya aaya. Is saal kitne diye jalaaye jaayenge, iski aadhikaarik jaankaari in reports mein nahi di gayi hai."
+     ],
+     "sources": [
+      {
+       "name": "UNI",
+       "url": "https://www.uniindia.com/north-india/festival-up-deepotsav-vp/237675"
+      },
+      {
+       "name": "UNI",
+       "url": "https://www.uniindia.com/north-india/tourism-up-deepotsav-australian/237709"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Shri_Ram_Janambhoomi_Mandir%2C_Ayodhya_Dham.jpg/1280px-Shri_Ram_Janambhoomi_Mandir%2C_Ayodhya_Dham.jpg",
+      "credit": "Prime Minister's Office",
+      "license": "GODL-India",
+      "source": "https://commons.wikimedia.org/wiki/File:Shri_Ram_Janambhoomi_Mandir,_Ayodhya_Dham.jpg",
+      "alt": "Shri Ram Janmabhoomi Mandir, Ayodhya (file photo; Deepotsav ki tasveer nahi)"
+     }
+    }
+   ],
+   "editorial": {
+    "slug": "naxal-mukt-daave-ke-baad-asli-kaam-vikas-aur-bharosa",
+    "title": "'Naxal-mukt' ka daava bada hai; ab jungle ke gaon tak sadak, school aur bharosa pahunchaana asli kasauti hai",
+    "body": [
+     "Amit Shah ka yeh kehna ki desh Naxalvaad se mukt ho gaya hai, ek lambi ladaai ke ek padaav ki ghoshna hai. Paanch dashak tak is hinsa ne jawaanon, adivaasi gaonon aur vikas — sabki keemat vasooli. Suraksha balon ki qurbaani aur mehnat ko maan dena zaroori hai.",
+     "Lekin itihaas sikhaata hai ki hathiyaarband sangharsh ki jad aksar upeksha, zameen aur jungle par haq ke sawaal aur prashaasan ki gair-maujoodgi mein hoti hai. Agar in ilaakon mein school, aspataal, rozgaar aur nyaay tez raftaar se nahi pahunche, to khaali jagah phir bhar sakti hai. 'Mukt' hone ke baad ka daur hi tay karega ki yeh jeet tikaau hai ya nahi."
+    ]
+   }
+  },
+  {
+   "id": "world",
+   "name": "World & Geopolitics",
+   "stories": [
+    {
+     "slug": "iran-qatar-madhyasthata-jaari-trump-emir-baat-america-rial-pratibandh",
+     "title": "Iran sankat: Qatar ne kaha baatcheet jaari hai, Trump ne Emir Tamim se baat ki; America ne rial exchange firmon par pratibandh lagaaye, Hormuz mein tanker par hamle mein ek naavik ki maut",
+     "summary": "Qatar ne un reports ko 'jhoothi aur bhraamak' bataaya jinme kaha gaya tha ki America-Iran samjhauta naakaam ho gaya. Udhar IRGC ne Qeshm ke upar ek aur US drone giraane ka daava kiya.",
+     "body": [
+      "CBS News ke mutabik President Donald Trump ne Shukravaar ko Qatar ke Emir Sheikh Tamim bin Hamad Al Thani se phone par yuddh khatam karne par baat ki, aur Emir ke daftar ne baatcheet aur kootneetik raaston ko jaari rakhne ki zaroorat par zor diya. Middle East Eye ki report ke mutabik Qatar ke International Media Office ne un khabron ko 'false and misleading' bataaya jinme Pradhan Mantri Mohammed bin Abdulrahman Al Thani ke hawaale se kaha gaya tha ki dono paksh samjhaute mein naakaam rahe; daftar ke mutabik dono taraf ab bhi deal ki koshish kar rahe hain.",
+      "Isi beech US Treasury ne Iran ko pratibandhon se bachne aur proxy guton ko paisa pahunchaane mein madad ke aarop mein kai rial exchange firmon par pratibandh lagaaye; CBS ke mutabik yeh kadam Canada ke saath milkar uthaaya gaya kyunki kuch nishaane Vancouver aur Toronto mein hain. Greek company Velos Tankers ne bataaya ki Guruvaar ko Bahrain ki taraf ja rahe khaali tanker par missile hamle mein ek naavik ki maut ho gayi. IRGC ne Qeshm Island ke upar ek US MQ-1 drone giraane aur do aur tankeron ke mine se takraane ka daava kiya hai, jiski CBS ke mutabik samudri adhikaariyon ne pushti nahi ki hai.",
+      "Gulf News ke mutabik Iran ka kehna hai ki jab tak America naval blockade khatam nahi karta, pratibandhon mein raahat nahi deta aur jamaa fund nahi chhodta, tab tak woh Hormuz nahi kholega. Brent crude Guruvaar ko lagbhag $93.63 tak girne ke baad Shukravaar ko lagbhag $98.29 par wapas chadha. Trump keh chuke hain ki aage ki karrvaai par faisla jald hoga."
+     ],
+     "sources": [
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+      },
+      {
+       "name": "Middle East Eye",
+       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-denies-reports-us-and-iran-failed-reach-deal-says-talks-continue"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran"
+      },
+      {
+       "name": "Gulf News",
+       "url": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Strait_of_Hormuz_%28MODIS_2020-12-04%29.jpg/1280px-Strait_of_Hormuz_%28MODIS_2020-12-04%29.jpg",
+      "credit": "MODIS Land Rapid Response Team, NASA GSFC",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_(MODIS_2020-12-04).jpg",
+      "alt": "Strait of Hormuz ki satellite tasveer, December 2020 (NASA file photo)"
+     }
+    },
+    {
+     "slug": "bangladesh-hasina-ko-passport-nahi-bharat-se-pratyarpan-ki-maang-dhaka-bomb-baraamad",
+     "title": "Bangladesh ne Sheikh Hasina ko passport dene se inkaar kiya, kaha — Bharat pratyarpan sandhi ke tahat saunpe; Dhaka mein 20 crude bomb baraamad",
+     "summary": "Videsh rajya mantri Humaiun Kobir ne kaha ki gambhir aaropon waale vyakti ki waapsi ke liye passport ki zaroorat nahi. Alag ghatna mein Dhaka police ne Mirpur ke paas visfotak baraamad kiye.",
+     "body": [
+      "UNI ki report ke mutabik Bangladesh ke Videsh Rajya Mantri Humaiun Kobir ne kaha ki purv Pradhan Mantri Sheikh Hasina ko Bharat se lautne ke liye saadharan passport ya travel document nahi diya jaayega, aur Bharat ko dono deshon ki pratyarpan sandhi ke tahat unhe saunpna chahiye. Kobir ne yeh baat Dhaka ke Hazrat Shahjalal International Airport par China ki Communist Party ke ek pratinidhimandal ko vida karte samay patrakaaron se kahi. Is report mein Bharat sarkar ki koi pratikriya shaamil nahi hai.",
+      "Ek alag ghatna mein News On AIR ke mutabik Dhaka Metropolitan Police ne Mirpur ke paas ek tip-off par 20 crude bomb, 41 torch sticks aur kerosene ki botalein baraamad keen. Police ke mutabik 15 bomb teen kaagaz ke thailon mein aur paanch sadak par pade mile, jinhe bomb disposal unit ne surakshit roop se nishkriya kar diya."
+     ],
+     "sources": [
+      {
+       "name": "UNI",
+       "url": "https://www.uniindia.com/world/bd-hasina-passport-dismissed/236967"
+      },
+      {
+       "name": "News On AIR",
+       "url": "https://newsonair.gov.in/bangladesh-police-recover-explosives-near-dhaka/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sheikh_Hasina_in_Sep_2023.jpg",
+      "credit": "Prime Minister's Office",
+      "license": "GODL-India",
+      "source": "https://commons.wikimedia.org/wiki/File:Sheikh_Hasina_in_Sep_2023.jpg",
+      "alt": "Bangladesh ki purv Pradhan Mantri Sheikh Hasina, September 2023 (file photo)"
+     }
+    },
+    {
+     "slug": "sri-lanka-se-riha-8-bhartiya-machhuare-chennai-laute",
+     "title": "Sri Lanka se riha hue 8 Bhartiya machhuare Chennai laute; naav ke captain ko 3 maheene ki saza",
+     "summary": "Rameswaram ke 9 machhuaron ko 3 October ko Sri Lankai Navy ne pakda tha. MEA aur Tamil Nadu sarkar ke dakhal ke baad 8 ko riha kiya gaya.",
+     "body": [
+      "News On AIR ke mutabik Sri Lanka ki jail se riha hue aath Bhartiya machhuare Shukravaar subah Chennai airport pahunche. Rameswaram ke nau machhuaron ko Sri Lankai Navy ne 3 October ko kathit taur par International Maritime Boundary Line paar karne ke aarop mein giraftaar kiya tha, jiske baad unhe Jaffna ki jail mein rakha gaya.",
+      "Videsh Mantralay aur Tamil Nadu sarkar ke hastakshep ke baad Sri Lankai adhikaariyon ne 30 October ko aath machhuaron ko riha kar Bhartiya adhikaariyon ko saunp diya. Naav ke captain ko dobara aparaadh ke liye teen maheene ki saza sunaayi gayi hai. Rajya ka Matsya Vibhaag unhe ghar pahunchaane ka intezaam kar raha hai."
+     ],
+     "sources": [
+      {
+       "name": "News On AIR",
+       "url": "https://newsonair.gov.in/sri-lanka-releases-eight-arrested-indian-fishermen/"
+      }
+     ]
+    }
+   ],
+   "editorial": {
+    "slug": "qatar-ki-kootneeti-ko-mauka-milna-chahiye",
+    "title": "Hormuz par Qatar ki kootneeti ko mauka milna chahiye — Bharat ke liye shaanti hi sabse sasta tel hai",
+    "body": [
+     "Ek taraf drone giraane aur tankeron par hamlon ke daave, doosri taraf Doha mein chal rahi baatcheet — Iran sankat do raaston ke beech jhool raha hai. Ek aur naavik ki maut yaad dilaati hai ki is takraav ki keemat aam log chuka rahe hain, jinme Bharat ke hazaaron seafarers bhi shaamil hain.",
+     "Brent ka $93 se $98 tak jhoolna dikhaata hai ki bazaar har bayaan par kitna samvedansheel hai. Bharat apne tel aur LPG ka bada hissa isi raaste se mangaata hai. New Delhi ko sabhi pakshon se sampark banaaye rakhte hue Qatar jaise madhyasthon ki koshishon ka khula samarthan karna chahiye — kyunki yuddh dobara bhadka to uska jhatka seedha Bharat ki rasoi aur rupaye tak pahunchega."
+    ]
+   }
+  },
+  {
+   "id": "business",
+   "name": "Business & Economy",
+   "stories": [
+    {
+     "slug": "wall-street-nasdaq-1-pratishat-uchhla-dow-gira-jobs-report-165000",
+     "title": "Wall Street: Bhaari bikwaali ke baad Nasdaq 1.09% sambhla, Dow 0.46% gira; October mein 1.65 lakh naukriyaan, berozgaari 4.1%",
+     "summary": "Ummeed se kahin behtar jobs report ne December mein Fed ki dar badhottari ki sambhaavna ko zinda rakha. AMD 10.5% aur Nvidia 3.28% chadhe, par S&P 500 June ke baad ke sabse bure hafte ki taraf raha.",
+     "body": [
+      "Yahoo Finance ke mutabik Shukravaar ko Nasdaq 1.09% badhkar 24,579.42 aur S&P 500 0.31% badhkar 7,376.86 par band hua, jabki Dow Jones 237 ank (0.46%) girkar 51,285.73 par aa gaya. Guruvaar ki bhaari girawat ke baad chip shares mein raahat dikhi — PHLX Semiconductor Index lagbhag 4% sambhla, AMD 10.5% aur Nvidia 3.28% chadhe.",
+      "October ki jobs report mein America ne 1,65,000 naukriyaan jodeen, jabki arthshaastri lagbhag 65,000-70,000 ki ummeed kar rahe the. Berozgaari dar ghat kar 4.1% rahi. Report ke mutabik isse December mein Federal Reserve ki dar badhottari ki sambhaavna bani hui hai; 10-saal ka Treasury yield 4.86% ke aaspaas raha.",
+      "Hafte bhar ki tasveer phir bhi kamzor rahi: technology sector lagbhag 7% aur energy sector lagbhag 11% gira. Yahoo Finance ke mutabik Guruvaar ki bikwaali mein lagbhag $3 trillion ka bazaar moolya saaf hua tha, jiske peeche midterms mein Democrats ki jeet ke baad data centre aur AI kharch par chinta bataayi gayi. Yeh report keval soochna ke liye hai, nivesh salaah nahi."
+     ],
+     "sources": [
+      {
+       "name": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/New_York_Stock_Exchange_building%2C_20231002_171816.jpg/1280px-New_York_Stock_Exchange_building%2C_20231002_171816.jpg",
+      "credit": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_building,_20231002_171816.jpg",
+      "alt": "New York Stock Exchange ki imaarat, 2023 (file photo)"
+     }
+    },
+    {
+     "slug": "fada-october-auto-retail-sales-23-8-pratishat-giravat",
+     "title": "October mein gaadiyon ki retail bikri 23.8% giri, lagbhag 31.72 lakh unit: FADA; Diwali November mein padne ko bataaya badi vajah",
+     "summary": "Pichhle saal Navratri aur Diwali dono October mein the, jabki is baar Dhanteras-Diwali November mein hain. Two-wheeler aur passenger vehicle dono mein girawat.",
+     "body": [
+      "Federation of Automobile Dealers Associations (FADA) ke aankdon ka hawaala dete hue UNI ne bataaya ki October 2026 mein desh mein gaadiyon ki kul retail bikri saal-dar-saal 23.8% ghatkar lagbhag 31.72 lakh unit rahi. Two-wheelers mein tez girawat dekhi gayi aur passenger vehicle registration bhi pichhle saal se kam rahe.",
+      "Report ke mutabik iski mukhya vajah tyohaaron ka calendar hai: pichhle saal Navratri aur Diwali dono October mein the, jabki is saal Dhanteras aur Diwali November mein pad rahe hain. Saath hi pichhle saal ka ooncha base bhi tulna ko kamzor dikhaata hai. Isliye November ke aankde asli maang ki behtar tasveer denge."
+     ],
+     "sources": [
+      {
+       "name": "UNI",
+       "url": "https://www.uniindia.com/business-economy/auto-retail-sales-decline/237581"
+      }
+     ]
+    },
+    {
+     "slug": "nclt-videocon-venugopal-dhoot-diwaliya-sbi-12668-crore",
+     "title": "NCLT ne Videocon ke purv promoter Venugopal Dhoot ko diwaaliya ghoshit kiya; SBI ke Rs 12,668 crore ke bakaaye ka maamla",
+     "summary": "Dhoot ne Videocon Industries aur ek group company ke karz ke liye personal guarantee di thi. Tribunal ne Bankruptcy Trustee niyukt kiya.",
+     "body": [
+      "UNI ke mutabik National Company Law Tribunal (NCLT) ki Mumbai bench ne Videocon Industries ke purv promoter aur director Venugopal Nandlal Dhoot ko diwaaliya ghoshit kar diya hai. Yeh maamla State Bank of India ke lagbhag Rs 12,668 crore ke karz default se juda hai. Tribunal ne SBI ki yaachika sweekaar ki; Dhoot ne Videocon Industries aur ek group entity ko diye gaye karz ke liye vyaktigat guarantee di thi.",
+      "Do sadasyon waali bench ne prakriya ki dekhrekh ke liye ek Bankruptcy Trustee niyukt kiya hai, jo Dhoot ke lenadaaron se daave aamantrit karne ke liye public notice jaari karega."
+     ],
+     "sources": [
+      {
+       "name": "UNI",
+       "url": "https://www.uniindia.com/national/law-nclt-venugopal-dhoot-bankrupt/237593"
+      }
+     ]
+    },
+    {
+     "slug": "kendra-chawal-dhaan-stock-har-shukravaar-food-stock-portal",
+     "title": "Kendra ka nirdesh: vyapaari, wholesaler, bade retailer aur processor har Shukravaar chawal-dhaan ka stock Food Stock Portal par bataayein",
+     "summary": "Sarkar ka maqsad keemat sthir rakhna aur jamakhori rokna hai. Niyam todne par Essential Commodities Act ke tahat karrvaai hogi.",
+     "body": [
+      "News On AIR ke mutabik Kendra sarkar ne sabhi rajyon aur kendra shasit pradeshon mein chawal ya dhaan ka stock rakhne waale traders, wholesalers, bade chain retailers aur processors ko har Shukravaar Food Stock Portal par apni stock sthiti batane ka nirdesh diya hai.",
+      "Sarkar ka kehna hai ki vah anaaj, khaaskar chawal ki keemat par nazar rakh rahi hai taaki ghareloo supply paryaapt rahe, daam sthir rahein aur jamakhori na ho. Portal par registered na hone ya tay stock seema se zyada maal rakhne par Essential Commodities Act ke tahat dandaatmak karrvaai ho sakti hai."
+     ],
+     "sources": [
+      {
+       "name": "News On AIR",
+       "url": "https://newsonair.gov.in/centre-directs-entities-to-declare-stock-positions-of-rice-and-paddy/"
+      }
+     ]
+    }
+   ],
+   "editorial": {
+    "slug": "auto-bikri-ke-aankdon-ko-calendar-ke-chashme-se-dekhein",
+    "title": "Auto bikri ki 24% girawat se ghabraane se pehle calendar dekhiye — asli imtihaan November ka hai",
+    "body": [
+     "October mein gaadiyon ki retail bikri ka 23.8% girna pehli nazar mein chintajanak lagta hai. Lekin FADA khud bata raha hai ki pichhle saal Navratri aur Diwali dono October mein the, jabki is saal kharidaari ka bada hissa November mein khiska hai. Aise mein saal-dar-saal ki seedhi tulna gumraah kar sakti hai.",
+     "Isliye behtar hoga ki October-November ko milaakar dekha jaaye. Agar dono maheenon ka jod bhi kamzor nikla, tab yeh graameen aamdani, karz ki laagat ya tel ki keemat jaise gehre sawaalon ka sanket hoga. Tab tak niti-nirmaataon aur nivesh karne waalon — dono ko jaldbaazi ke nishkarsh se bachna chahiye."
+    ]
+   }
+  },
+  {
+   "id": "tse",
+   "name": "Tech, Sports & Entertainment",
+   "stories": [
+    {
+     "slug": "india-vs-new-zealand-doosra-odi-wellington-aaj-bharat-1-0-aage",
+     "title": "India vs New Zealand: Wellington mein aaj doosra ODI, subah 7:30 baje se; Bharat 1-0 se aage, Kiwis Conway ke bina utre",
+     "summary": "Auckland mein baarish se prabhaavit pehla match Bharat ne DLS ke tahat 5 wicket se jeeta tha. Paanch match ki series mein Shubman Gill ki team ki nazar 2-0 ki badhat par.",
+     "body": [
+      "Bharat aur New Zealand ke beech paanch match ki ODI series ka doosra muqaabla Shanivaar ko Wellington ke Hnry Stadium mein Bhaarteeya samay subah 7:30 baje shuru hona tay hai. News On AIR ke mutabik Auckland mein baarish se prabhaavit pehla ODI Bharat ne 5 wicket se jeeta tha. VAVEL ke mutabik Eden Park mein New Zealand 40.2 over mein 185 par simat gayi thi aur Bharat ne DLS ke sanshodhit lakshya ke saamne 22.4 over mein 143/5 bana kar jeet haasil ki.",
+      "Mezbaan team ko jhatka laga hai — Devon Conway baaki chaaron match se bahar hain aur unki jagah left-handed ballebaaz Nick Kelly ko bulaaya gaya hai. UNI ne Wellington muqaable ko New Zealand ke liye lagbhag 'final se pehle ka final' bataaya hai. Bharat ki team mein Rohit Sharma, captain Shubman Gill, Virat Kohli, KL Rahul aur Shreyas Iyer jaise naam hain, jabki New Zealand ki kaman Mitchell Santner ke haath mein hai. Yeh edition jaari hone tak toss nahi hua tha."
+     ],
+     "sources": [
+      {
+       "name": "News On AIR",
+       "url": "https://newsonair.gov.in/2nd-odi-of-5-match-series-between-india-and-new-zealand-to-be-played-in-wellington-tomorrow/"
+      },
+      {
+       "name": "VAVEL",
+       "url": "https://www.vavel.com/en/cricket/2026/11/07/1278283-new-zealand-vs-india-live-score-2nd-odi-cricket.html"
+      },
+      {
+       "name": "UNI",
+       "url": "https://www.uniindia.com/sports/india-eye-2-0-lead-as-wounded-nz-seek-revival-in-wellington/237361"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wellington_Regional_Stadium_2024-09-28.jpg/1280px-Wellington_Regional_Stadium_2024-09-28.jpg",
+      "credit": "Tom Ackroyd",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Wellington_Regional_Stadium_2024-09-28.jpg",
+      "alt": "Wellington Regional Stadium, 2024 (file photo)"
+     }
+    },
+    {
+     "slug": "ramayana-part-1-box-office-do-din-112-90-crore-net-sacnilk",
+     "title": "'Ramayana: Part 1' box office: Sacnilk ke mutabik do din mein India mein Rs 112.90 crore net, Hindi se Rs 83 crore",
+     "summary": "Pehle ke live anumaanon ke mukable antim aankde kaafi oonche rahe. Gross collection Rs 134.80 crore bataaya gaya hai; teesre din ke aankde abhi aane baaki.",
+     "body": [
+      "Box office tracking site Sacnilk ki 7 November subah ki report ke mutabik Nitesh Tiwari ki 'Ramayana: Part 1' ne pehle do dinon mein India mein Rs 112.90 crore net aur Rs 134.80 crore gross kamaaye hain. Isme Hindi version ka hissa Rs 83 crore (lagbhag 73.5%) hai. Shanivaar yaani teesre din ke aankde abhi report nahi hue hain.",
+      "Gauratlab hai ki pichhle edition mein humne Sacnilk ke live anumaan ke aadhaar par do din ka aankda Rs 84 crore se upar bataaya tha; Business Standard ne bhi isi tarah ke shuruaati aankde chhaape the. Ab aaye aankde un anumaanon se kaafi zyada hain. Film mein Ranbir Kapoor Ram, Yash Ravan, Sai Pallavi Sita aur Ravie Dubey Lakshman ki bhoomika mein hain; doosra bhaag Diwali 2028 ke liye prastaavit hai."
+     ],
+     "sources": [
+      {
+       "name": "Sacnilk",
+       "url": "https://www.sacnilk.com/quicknews/ramayana_part_1_2026_Box_Office_Collection_Day_3"
+      },
+      {
+       "name": "Business Standard",
+       "url": "https://www.business-standard.com/entertainment/ramayana-box-office-collection-day-2-sees-drop-but-nears-100-cr-in-india-nc-126110601351_1.html"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ranbir_Kapoor_in_April_2024.jpg",
+      "credit": "Bollywood Hungama",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ranbir_Kapoor_in_April_2024.jpg",
+      "alt": "Abhineta Ranbir Kapoor, April 2024 (file photo)"
+     }
+    },
+    {
+     "slug": "tanvi-patri-youth-olympics-silver-badminton-itihaas",
+     "title": "15 saal ki Tanvi Patri ne rachaa itihaas: Youth Olympics badminton mein medal jeetne waali pehli Bhartiya mahila, final mein China ki Zhang se 24-26 ke decider mein haari",
+     "summary": "Dakar mein khele gaye final mein Tanvi ne pehla game jeeta aur teesre game mein 10-19 se pichhadne ke baad kai match point bachaaye. Yeh Bharat ka Youth Olympics badminton mein chautha medal hai.",
+     "body": [
+      "Khel Now ke mutabik Senegal ke Dakar mein Guruvaar ko hue Youth Olympic Games ke mahila singles final mein Bharat ki 15 varshiya Tanvi Patri China ki world junior champion Zhang Yi Xin se 21-15, 13-21, 24-26 se haar gayin aur silver medal jeeta. Lagbhag 1 ghante 22 minute chale is muqaable mein Tanvi ne teesre game mein 10-19 se pichhadne ke baad kai match point bachaaye, lekin aakhir mein Zhang ka anubhav bhaari pada.",
+      "Is silver ke saath Tanvi Youth Olympics mein badminton medal jeetne waali pehli Bhartiya mahila ban gayi hain. Report ke mutabik HS Prannoy (2010) aur Lakshya Sen (2018) ke baad yeh Bharat ka is khel mein Youth Olympics ka chautha medal hai."
+     ],
+     "sources": [
+      {
+       "name": "Khel Now",
+       "url": "https://khelnow.com/badminton/tanvi-patri-final-report-youth-olympics-202611"
+      },
+      {
+       "name": "News On AIR",
+       "url": "https://newsonair.gov.in/tanvi-patri-scripts-history-enters-womens-badminton-final-at-youth-olympics/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Koogan_badminton_feather_shuttlecock_01.JPG",
+      "credit": "Stanislas PERRIN",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Koogan_badminton_feather_shuttlecock_01.JPG",
+      "alt": "Badminton shuttlecock (pratikaatmak file photo)"
+     }
+    }
+   ],
+   "editorial": {
+    "slug": "box-office-ke-aankdon-mein-savdhaani-zaroori",
+    "title": "Box office ke 'live' aankde aur antim aankde: khabar mein sabr bhi ek gun hai",
+    "body": [
+     "'Ramayana' ke do din ke aankdon ka Rs 84 crore ke live anumaan se badhkar Rs 112.90 crore ho jaana dikhata hai ki shuruaati tracking kitni adhoori ho sakti hai. Hamne bhi pichhli baar live anumaan ko saaf taur par 'anumaan' likha tha — aur yahi sahi tareeka hai.",
+     "Film udyog, darshak aur media — teeno ko chahiye ki pehle din ki bhaagdaud mein aankdon ko antim sach na maanein. Badi filmon ka asli faisla doosre aur teesre hafte ki bheed karti hai, aur wahi aankde zyada bharosemand hote hain."
+    ]
+   }
+  }
+ ]
+}
